@@ -12,9 +12,2511 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-06-15T23:18:46.795+02:00
-  initializedAtString: 2018-06-15T23:18:46.795+02:00
+  lastUpdatedAtString: 2018-06-15T23:24:07.689+02:00
+  initializedAtString: 2018-06-15T23:22:59.601+02:00
   log:
+  - commitID: b48532c1ef41913f69c15af152ec634ed7f1d628
+    mergeA: 08fb92b149a25673efc0816538aca50f05990a49
+    mergeB: fcf947fd7724833db8ee58a3dbda278f8381c12e
+    authorName: Brucknem
+    authorEmail: mbruckner94@gmail.com
+    commitEmail: mbruckner94@gmail.com
+    commitName: Brucknem
+    summary: Merge branch 'master' of https://github.com/Brucknem/SGJ_RGP_2018
+    description: Merge branch 'master' of https://github.com/Brucknem/SGJ_RGP_2018
+    timeString: 2018-06-15T23:21:58.000+02:00
+    commitTimeString: 2018-06-15T23:21:58.000+02:00
+    changes: []
+  - commitID: fcf947fd7724833db8ee58a3dbda278f8381c12e
+    mergeA: 
+    mergeB: 
+    authorName: Jeff-Owens Iyalekhue
+    authorEmail: j.oiyalekhue@hotmail.de
+    commitEmail: j.oiyalekhue@hotmail.de
+    commitName: Jeff-Owens Iyalekhue
+    summary: file base
+    description: file base
+    timeString: 2018-06-15T23:41:48.000+02:00
+    commitTimeString: 2018-06-15T23:41:48.000+02:00
+    changes:
+    - path: NightmaZe\Assets\Art.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art.meta
+      projectPath: Assets\Art.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs.meta
+      projectPath: Assets\Prefabs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Scripts.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Sounds.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds.meta
+      projectPath: Assets\Sounds.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Sounds\Music.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\Music.meta
+      projectPath: Assets\Sounds\Music.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Sounds\SFX.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX.meta
+      projectPath: Assets\Sounds\SFX.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\CurrentLayout.dwlt
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\EditorUserBuildSettings.asset
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\EditorUserBuildSettings.asset
+      projectPath: Library\EditorUserBuildSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\ShaderCache.db
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ShaderCache.db
+      projectPath: Library\ShaderCache.db
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\assetDatabase3
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\expandedItems
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\metadata\16\16810108fb18ba14f90d4eaab307e0f5
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\16\16810108fb18ba14f90d4eaab307e0f5
+      projectPath: Library\metadata\16\16810108fb18ba14f90d4eaab307e0f5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\16\16810108fb18ba14f90d4eaab307e0f5.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\16\16810108fb18ba14f90d4eaab307e0f5.info
+      projectPath: Library\metadata\16\16810108fb18ba14f90d4eaab307e0f5.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\aa\aa566b5675dfd4243a2dd87dfbe1a5a6
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\aa\aa566b5675dfd4243a2dd87dfbe1a5a6
+      projectPath: Library\metadata\aa\aa566b5675dfd4243a2dd87dfbe1a5a6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\aa\aa566b5675dfd4243a2dd87dfbe1a5a6.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\aa\aa566b5675dfd4243a2dd87dfbe1a5a6.info
+      projectPath: Library\metadata\aa\aa566b5675dfd4243a2dd87dfbe1a5a6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\c9\c9a897362b7198940b2b2a624d0ea032
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\c9\c9a897362b7198940b2b2a624d0ea032
+      projectPath: Library\metadata\c9\c9a897362b7198940b2b2a624d0ea032
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\c9\c9a897362b7198940b2b2a624d0ea032.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\c9\c9a897362b7198940b2b2a624d0ea032.info
+      projectPath: Library\metadata\c9\c9a897362b7198940b2b2a624d0ea032.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\e1\e1f0dde348af13840b45ed094afd8052
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\e1\e1f0dde348af13840b45ed094afd8052
+      projectPath: Library\metadata\e1\e1f0dde348af13840b45ed094afd8052
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\e1\e1f0dde348af13840b45ed094afd8052.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\e1\e1f0dde348af13840b45ed094afd8052.info
+      projectPath: Library\metadata\e1\e1f0dde348af13840b45ed094afd8052.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\ee\ee815786520aac34f89fbd4c5b1ad356
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ee\ee815786520aac34f89fbd4c5b1ad356
+      projectPath: Library\metadata\ee\ee815786520aac34f89fbd4c5b1ad356
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\ee\ee815786520aac34f89fbd4c5b1ad356.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ee\ee815786520aac34f89fbd4c5b1ad356.info
+      projectPath: Library\metadata\ee\ee815786520aac34f89fbd4c5b1ad356.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\f0\f07c0c7333e26e44b8a644c897fd956d
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f0\f07c0c7333e26e44b8a644c897fd956d
+      projectPath: Library\metadata\f0\f07c0c7333e26e44b8a644c897fd956d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\f0\f07c0c7333e26e44b8a644c897fd956d.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f0\f07c0c7333e26e44b8a644c897fd956d.info
+      projectPath: Library\metadata\f0\f07c0c7333e26e44b8a644c897fd956d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 08fb92b149a25673efc0816538aca50f05990a49
+    mergeA: 
+    mergeB: 
+    authorName: Brucknem
+    authorEmail: mbruckner94@gmail.com
+    commitEmail: mbruckner94@gmail.com
+    commitName: Brucknem
+    summary: Labyrinth Finished
+    description: Labyrinth Finished
+    timeString: 2018-06-15T23:21:31.000+02:00
+    commitTimeString: 2018-06-15T23:21:31.000+02:00
+    changes:
+    - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\db.lock
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\db.lock
+      projectPath: .vs\NightmaZe\v15\Server\sqlite3\db.lock
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
+      projectPath: .vs\NightmaZe\v15\Server\sqlite3\storage.ide
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Materials.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Materials.meta
+      projectPath: Assets\Materials.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Materials\DynamicTrap.mat
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Materials\DynamicTrap.mat
+      projectPath: Assets\Materials\DynamicTrap.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Materials\DynamicTrap.mat.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Materials\DynamicTrap.mat.meta
+      projectPath: Assets\Materials\DynamicTrap.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Materials\Entry.mat
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Materials\Entry.mat
+      projectPath: Assets\Materials\Entry.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Materials\Entry.mat.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Materials\Entry.mat.meta
+      projectPath: Assets\Materials\Entry.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Materials\Exit.mat
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Materials\Exit.mat
+      projectPath: Assets\Materials\Exit.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Materials\Exit.mat.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Materials\Exit.mat.meta
+      projectPath: Assets\Materials\Exit.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Materials\GameKey.mat
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Materials\GameKey.mat
+      projectPath: Assets\Materials\GameKey.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Materials\GameKey.mat.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Materials\GameKey.mat.meta
+      projectPath: Assets\Materials\GameKey.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Materials\Ground.mat
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Materials\Ground.mat
+      projectPath: Assets\Materials\Ground.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Materials\Ground.mat.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Materials\Ground.mat.meta
+      projectPath: Assets\Materials\Ground.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Materials\StaticTrap.mat
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Materials\StaticTrap.mat
+      projectPath: Assets\Materials\StaticTrap.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Materials\StaticTrap.mat.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Materials\StaticTrap.mat.meta
+      projectPath: Assets\Materials\StaticTrap.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Materials\Wall.mat
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Materials\Wall.mat
+      projectPath: Assets\Materials\Wall.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Materials\Wall.mat.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Materials\Wall.mat.meta
+      projectPath: Assets\Materials\Wall.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs.meta
+      projectPath: Assets\Prefabs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles.meta
+      projectPath: Assets\Prefabs\LabyrinthTiles.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\DynamicTrap.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\DynamicTrap.prefab
+      projectPath: Assets\Prefabs\LabyrinthTiles\DynamicTrap.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\DynamicTrap.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\DynamicTrap.prefab.meta
+      projectPath: Assets\Prefabs\LabyrinthTiles\DynamicTrap.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\Entry.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\Entry.prefab
+      projectPath: Assets\Prefabs\LabyrinthTiles\Entry.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\Entry.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\Entry.prefab.meta
+      projectPath: Assets\Prefabs\LabyrinthTiles\Entry.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\Exit.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\Exit.prefab
+      projectPath: Assets\Prefabs\LabyrinthTiles\Exit.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\Exit.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\Exit.prefab.meta
+      projectPath: Assets\Prefabs\LabyrinthTiles\Exit.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\GameKey.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\GameKey.prefab
+      projectPath: Assets\Prefabs\LabyrinthTiles\GameKey.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\GameKey.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\GameKey.prefab.meta
+      projectPath: Assets\Prefabs\LabyrinthTiles\GameKey.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\Ground.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\Ground.prefab
+      projectPath: Assets\Prefabs\LabyrinthTiles\Ground.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\Ground.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\Ground.prefab.meta
+      projectPath: Assets\Prefabs\LabyrinthTiles\Ground.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\MoveDirection.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\MoveDirection.prefab
+      projectPath: Assets\Prefabs\LabyrinthTiles\MoveDirection.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\MoveDirection.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\MoveDirection.prefab.meta
+      projectPath: Assets\Prefabs\LabyrinthTiles\MoveDirection.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\Player.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\Player.prefab
+      projectPath: Assets\Prefabs\LabyrinthTiles\Player.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\Player.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\Player.prefab.meta
+      projectPath: Assets\Prefabs\LabyrinthTiles\Player.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\StaticTrap.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\StaticTrap.prefab
+      projectPath: Assets\Prefabs\LabyrinthTiles\StaticTrap.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\StaticTrap.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\StaticTrap.prefab.meta
+      projectPath: Assets\Prefabs\LabyrinthTiles\StaticTrap.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\Wall.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\Wall.prefab
+      projectPath: Assets\Prefabs\LabyrinthTiles\Wall.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\Wall.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\Wall.prefab.meta
+      projectPath: Assets\Prefabs\LabyrinthTiles\Wall.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\WhiteSpace.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\WhiteSpace.prefab
+      projectPath: Assets\Prefabs\LabyrinthTiles\WhiteSpace.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\WhiteSpace.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\WhiteSpace.prefab.meta
+      projectPath: Assets\Prefabs\LabyrinthTiles\WhiteSpace.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Scenes\Marcel.unity
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Marcel.unity
+      projectPath: Assets\Scenes\Marcel.unity
+      originalPath: NightmaZe\Assets\Scenes\SampleScene.unity
+      status: 6
+      staged: 0
+    - path: NightmaZe\Assets\Scenes\Marcel.unity.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Marcel.unity.meta
+      projectPath: Assets\Scenes\Marcel.unity.meta
+      originalPath: NightmaZe\Assets\Scenes\SampleScene.unity.meta
+      status: 6
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts.meta
+      projectPath: Assets\_Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\Labyrinth.cs
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Labyrinth.cs
+      projectPath: Assets\_Scripts\Labyrinth.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\Labyrinth.cs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Labyrinth.cs.meta
+      projectPath: Assets\_Scripts\Labyrinth.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\NewBehaviourScript.cs
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\NewBehaviourScript.cs
+      projectPath: Assets\_Scripts\NewBehaviourScript.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\NewBehaviourScript.cs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\NewBehaviourScript.cs.meta
+      projectPath: Assets\_Scripts\NewBehaviourScript.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\CurrentLayout.dwlt
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\InspectorExpandedItems.asset
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\LastSceneManagerSetup.txt
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\ShaderCache.db
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ShaderCache.db
+      projectPath: Library\ShaderCache.db
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\ShaderCache\0\0b47133098313750d7c90bf0d8787c47.bin
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ShaderCache\0\0b47133098313750d7c90bf0d8787c47.bin
+      projectPath: Library\ShaderCache\0\0b47133098313750d7c90bf0d8787c47.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\ShaderCache\1\12b536e9dde9d62a538e6907e34ece2d.bin
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ShaderCache\1\12b536e9dde9d62a538e6907e34ece2d.bin
+      projectPath: Library\ShaderCache\1\12b536e9dde9d62a538e6907e34ece2d.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\ShaderCache\2\251bf52ef515f0961505da8c4f07ecfd.bin
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ShaderCache\2\251bf52ef515f0961505da8c4f07ecfd.bin
+      projectPath: Library\ShaderCache\2\251bf52ef515f0961505da8c4f07ecfd.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\ShaderCache\2\2dae4e55da41db2e200f2f3e9bd65297.bin
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ShaderCache\2\2dae4e55da41db2e200f2f3e9bd65297.bin
+      projectPath: Library\ShaderCache\2\2dae4e55da41db2e200f2f3e9bd65297.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\ShaderCache\5\53f5866dacd4cdda8cf32bc4a7cb577e.bin
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ShaderCache\5\53f5866dacd4cdda8cf32bc4a7cb577e.bin
+      projectPath: Library\ShaderCache\5\53f5866dacd4cdda8cf32bc4a7cb577e.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\ShaderCache\5\5c35a79e21712cd7bb66236c9dde8a07.bin
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ShaderCache\5\5c35a79e21712cd7bb66236c9dde8a07.bin
+      projectPath: Library\ShaderCache\5\5c35a79e21712cd7bb66236c9dde8a07.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\ShaderCache\5\5fa1f064e6e727fe64a651e2e154886c.bin
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ShaderCache\5\5fa1f064e6e727fe64a651e2e154886c.bin
+      projectPath: Library\ShaderCache\5\5fa1f064e6e727fe64a651e2e154886c.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\ShaderCache\6\64e739a86f93e25bdc6d9d31b6fc1449.bin
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ShaderCache\6\64e739a86f93e25bdc6d9d31b6fc1449.bin
+      projectPath: Library\ShaderCache\6\64e739a86f93e25bdc6d9d31b6fc1449.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\ShaderCache\6\69beb6d8149904518d4f5122b32488bc.bin
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ShaderCache\6\69beb6d8149904518d4f5122b32488bc.bin
+      projectPath: Library\ShaderCache\6\69beb6d8149904518d4f5122b32488bc.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\ShaderCache\a\a8a1d1adb797f60672bf7619eea5e02e.bin
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ShaderCache\a\a8a1d1adb797f60672bf7619eea5e02e.bin
+      projectPath: Library\ShaderCache\a\a8a1d1adb797f60672bf7619eea5e02e.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\ShaderCache\b\b3a97c2be2f9fe291423bf0ee6e6b936.bin
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ShaderCache\b\b3a97c2be2f9fe291423bf0ee6e6b936.bin
+      projectPath: Library\ShaderCache\b\b3a97c2be2f9fe291423bf0ee6e6b936.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\ShaderCache\b\b80db74b79aa46586f89b48e2d721e2c.bin
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ShaderCache\b\b80db74b79aa46586f89b48e2d721e2c.bin
+      projectPath: Library\ShaderCache\b\b80db74b79aa46586f89b48e2d721e2c.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\ShaderCache\b\be9785a887f4606183faba61a9c562ff.bin
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ShaderCache\b\be9785a887f4606183faba61a9c562ff.bin
+      projectPath: Library\ShaderCache\b\be9785a887f4606183faba61a9c562ff.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\ShaderCache\c\cd5db315b3f060d3d6326311c088a2a0.bin
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ShaderCache\c\cd5db315b3f060d3d6326311c088a2a0.bin
+      projectPath: Library\ShaderCache\c\cd5db315b3f060d3d6326311c088a2a0.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\ShaderCache\d\d64f6bb180193f578b62fab6bbac94b8.bin
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ShaderCache\d\d64f6bb180193f578b62fab6bbac94b8.bin
+      projectPath: Library\ShaderCache\d\d64f6bb180193f578b62fab6bbac94b8.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\ShaderCache\f\f8ffb3ce9874a817c4197e8bd55d32f8.bin
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ShaderCache\f\f8ffb3ce9874a817c4197e8bd55d32f8.bin
+      projectPath: Library\ShaderCache\f\f8ffb3ce9874a817c4197e8bd55d32f8.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\assetDatabase3
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\expandedItems
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\branches.yaml
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gituser.yaml
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\03\039e55bb0c1167c4889872e62a1d881f
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\03\039e55bb0c1167c4889872e62a1d881f
+      projectPath: Library\metadata\03\039e55bb0c1167c4889872e62a1d881f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\03\039e55bb0c1167c4889872e62a1d881f.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\03\039e55bb0c1167c4889872e62a1d881f.info
+      projectPath: Library\metadata\03\039e55bb0c1167c4889872e62a1d881f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\06\060e7a8de6396224ead061f4e72c823c
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\06\060e7a8de6396224ead061f4e72c823c
+      projectPath: Library\metadata\06\060e7a8de6396224ead061f4e72c823c
+      originalPath: NightmaZe\Library\metadata\31\319a5033b92fa204380abebc427fbd7a
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\06\060e7a8de6396224ead061f4e72c823c.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\06\060e7a8de6396224ead061f4e72c823c.info
+      projectPath: Library\metadata\06\060e7a8de6396224ead061f4e72c823c.info
+      originalPath: NightmaZe\Library\metadata\8d\8dbb446e8d8a42148af199b194274753.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\07\0724e5b7d5089704389ce56322904dce
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\07\0724e5b7d5089704389ce56322904dce
+      projectPath: Library\metadata\07\0724e5b7d5089704389ce56322904dce
+      originalPath: NightmaZe\Library\metadata\3a\3a19ae9998df24746a2d64ebc78c69ce
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\07\0724e5b7d5089704389ce56322904dce.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\07\0724e5b7d5089704389ce56322904dce.info
+      projectPath: Library\metadata\07\0724e5b7d5089704389ce56322904dce.info
+      originalPath: NightmaZe\Library\metadata\1f\1fb8840ffb05d74428691106707b8dfd.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\09\09c49e424b083604995d746e87c0af4a
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09c49e424b083604995d746e87c0af4a
+      projectPath: Library\metadata\09\09c49e424b083604995d746e87c0af4a
+      originalPath: NightmaZe\Library\metadata\18\1887571dd3e8b8844a7e7c357bcc93d7
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\09\09c49e424b083604995d746e87c0af4a.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09c49e424b083604995d746e87c0af4a.info
+      projectPath: Library\metadata\09\09c49e424b083604995d746e87c0af4a.info
+      originalPath: NightmaZe\Library\metadata\18\1887571dd3e8b8844a7e7c357bcc93d7.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\09\09e63ac119244ae4e9f93c59a7624451
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09e63ac119244ae4e9f93c59a7624451
+      projectPath: Library\metadata\09\09e63ac119244ae4e9f93c59a7624451
+      originalPath: NightmaZe\Library\metadata\cd\cdf7b82f303e5054dafc4d81bf5d68b7
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\09\09e63ac119244ae4e9f93c59a7624451.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09e63ac119244ae4e9f93c59a7624451.info
+      projectPath: Library\metadata\09\09e63ac119244ae4e9f93c59a7624451.info
+      originalPath: NightmaZe\Library\metadata\cd\cdf7b82f303e5054dafc4d81bf5d68b7.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\09\09efeac3c45d0a7498671c6bf595795c
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09efeac3c45d0a7498671c6bf595795c
+      projectPath: Library\metadata\09\09efeac3c45d0a7498671c6bf595795c
+      originalPath: NightmaZe\Library\metadata\ae\aebac39991c72e7489c96b0a3916df4b
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\09\09efeac3c45d0a7498671c6bf595795c.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09efeac3c45d0a7498671c6bf595795c.info
+      projectPath: Library\metadata\09\09efeac3c45d0a7498671c6bf595795c.info
+      originalPath: NightmaZe\Library\metadata\ae\aebac39991c72e7489c96b0a3916df4b.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\0f\0f81308777633334491cb70edac9a524
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\0f\0f81308777633334491cb70edac9a524
+      projectPath: Library\metadata\0f\0f81308777633334491cb70edac9a524
+      originalPath: NightmaZe\Library\metadata\d4\d4d0417cffbd4e846819d2224f4e41b6
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\0f\0f81308777633334491cb70edac9a524.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\0f\0f81308777633334491cb70edac9a524.info
+      projectPath: Library\metadata\0f\0f81308777633334491cb70edac9a524.info
+      originalPath: NightmaZe\Library\metadata\d4\d4d0417cffbd4e846819d2224f4e41b6.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\10\10145f279f90346bbb61712ff585828b
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\10\10145f279f90346bbb61712ff585828b
+      projectPath: Library\metadata\10\10145f279f90346bbb61712ff585828b
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\metadata\11\113aa869cbf24264889fc6130376a86e
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\11\113aa869cbf24264889fc6130376a86e
+      projectPath: Library\metadata\11\113aa869cbf24264889fc6130376a86e
+      originalPath: NightmaZe\Library\metadata\1f\1fb8840ffb05d74428691106707b8dfd
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\11\113aa869cbf24264889fc6130376a86e.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\11\113aa869cbf24264889fc6130376a86e.info
+      projectPath: Library\metadata\11\113aa869cbf24264889fc6130376a86e.info
+      originalPath: NightmaZe\Library\metadata\31\319a5033b92fa204380abebc427fbd7a.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\13\136dc24f151211d438acee17aff4e934
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\13\136dc24f151211d438acee17aff4e934
+      projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\14\140b80b76440f7b43b7b238918cd8589
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\14\140b80b76440f7b43b7b238918cd8589
+      projectPath: Library\metadata\14\140b80b76440f7b43b7b238918cd8589
+      originalPath: NightmaZe\Library\metadata\95\95349bae348764845bb6226d0db75bb4
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\14\140b80b76440f7b43b7b238918cd8589.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\14\140b80b76440f7b43b7b238918cd8589.info
+      projectPath: Library\metadata\14\140b80b76440f7b43b7b238918cd8589.info
+      originalPath: NightmaZe\Library\metadata\95\95349bae348764845bb6226d0db75bb4.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\16\16aaa7b05aab9d045af849ab71988ffd
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\16\16aaa7b05aab9d045af849ab71988ffd
+      projectPath: Library\metadata\16\16aaa7b05aab9d045af849ab71988ffd
+      originalPath: NightmaZe\Library\metadata\4d\4d8cc5fe98104154aa4a30edead5f2e8
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\16\16aaa7b05aab9d045af849ab71988ffd.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\16\16aaa7b05aab9d045af849ab71988ffd.info
+      projectPath: Library\metadata\16\16aaa7b05aab9d045af849ab71988ffd.info
+      originalPath: NightmaZe\Library\metadata\11\1115bc5bb73699c47bed8d08c7b1e04a.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\1d\1d6010ab11b93c142b123db26edb77ef
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\1d\1d6010ab11b93c142b123db26edb77ef
+      projectPath: Library\metadata\1d\1d6010ab11b93c142b123db26edb77ef
+      originalPath: NightmaZe\Library\metadata\24\2484c137704f591479ff9dfd9d6ba23e
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\1d\1d6010ab11b93c142b123db26edb77ef.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\1d\1d6010ab11b93c142b123db26edb77ef.info
+      projectPath: Library\metadata\1d\1d6010ab11b93c142b123db26edb77ef.info
+      originalPath: NightmaZe\Library\metadata\24\2484c137704f591479ff9dfd9d6ba23e.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\20\203c36f78a5875f4b803558ef48a317a
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\20\203c36f78a5875f4b803558ef48a317a
+      projectPath: Library\metadata\20\203c36f78a5875f4b803558ef48a317a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\20\203c36f78a5875f4b803558ef48a317a.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\20\203c36f78a5875f4b803558ef48a317a.info
+      projectPath: Library\metadata\20\203c36f78a5875f4b803558ef48a317a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\20\20583ad1789e1464aa11e9a02ef6f6cb
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\20\20583ad1789e1464aa11e9a02ef6f6cb
+      projectPath: Library\metadata\20\20583ad1789e1464aa11e9a02ef6f6cb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\20\20583ad1789e1464aa11e9a02ef6f6cb.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\20\20583ad1789e1464aa11e9a02ef6f6cb.info
+      projectPath: Library\metadata\20\20583ad1789e1464aa11e9a02ef6f6cb.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\20\20e0af2a3ebe00c409a8185af491d4df
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\20\20e0af2a3ebe00c409a8185af491d4df
+      projectPath: Library\metadata\20\20e0af2a3ebe00c409a8185af491d4df
+      originalPath: NightmaZe\Library\metadata\0f\0f3d250140f10d64b9556b27c7cd28bb
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\20\20e0af2a3ebe00c409a8185af491d4df.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\20\20e0af2a3ebe00c409a8185af491d4df.info
+      projectPath: Library\metadata\20\20e0af2a3ebe00c409a8185af491d4df.info
+      originalPath: NightmaZe\Library\metadata\0f\0f3d250140f10d64b9556b27c7cd28bb.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\23\23c8bee69b591054094d32918f98facd
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\23\23c8bee69b591054094d32918f98facd
+      projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+      projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\25\25ebe415cc14c4f4ea15c34a796b75bb
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\25\25ebe415cc14c4f4ea15c34a796b75bb
+      projectPath: Library\metadata\25\25ebe415cc14c4f4ea15c34a796b75bb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\metadata\26\266ca173363045f40b8293892dc4cc3c
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\26\266ca173363045f40b8293892dc4cc3c
+      projectPath: Library\metadata\26\266ca173363045f40b8293892dc4cc3c
+      originalPath: NightmaZe\Library\metadata\34\343ae182fdefadd4a951477093f0eaaf
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\26\266ca173363045f40b8293892dc4cc3c.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\26\266ca173363045f40b8293892dc4cc3c.info
+      projectPath: Library\metadata\26\266ca173363045f40b8293892dc4cc3c.info
+      originalPath: NightmaZe\Library\metadata\5d\5dd65cc022349d74387058cd8821555e.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\26\268f50783119e94438d13013d0cd47e1
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\26\268f50783119e94438d13013d0cd47e1
+      projectPath: Library\metadata\26\268f50783119e94438d13013d0cd47e1
+      originalPath: NightmaZe\Library\metadata\4e\4e0ccfa8ad1757d4686667a3828b2dfb
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\26\268f50783119e94438d13013d0cd47e1.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\26\268f50783119e94438d13013d0cd47e1.info
+      projectPath: Library\metadata\26\268f50783119e94438d13013d0cd47e1.info
+      originalPath: NightmaZe\Library\metadata\4d\4d8cc5fe98104154aa4a30edead5f2e8.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\29\2949d917c6585604891bdc95f0f7c6f2
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\29\2949d917c6585604891bdc95f0f7c6f2
+      projectPath: Library\metadata\29\2949d917c6585604891bdc95f0f7c6f2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\29\2949d917c6585604891bdc95f0f7c6f2.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\29\2949d917c6585604891bdc95f0f7c6f2.info
+      projectPath: Library\metadata\29\2949d917c6585604891bdc95f0f7c6f2.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\2d\2d90e253dea2861418434e353632c398
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\2d\2d90e253dea2861418434e353632c398
+      projectPath: Library\metadata\2d\2d90e253dea2861418434e353632c398
+      originalPath: NightmaZe\Library\metadata\42\42a2150ca4d2d374a97ed8c6d7623b65
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\2d\2d90e253dea2861418434e353632c398.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\2d\2d90e253dea2861418434e353632c398.info
+      projectPath: Library\metadata\2d\2d90e253dea2861418434e353632c398.info
+      originalPath: NightmaZe\Library\metadata\cf\cfe5f6b2d9e4b2b4d9af15c495ec4c5e.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\2f\2f2fc0a2d5e420d4380a15b0bd0ef8d7
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\2f\2f2fc0a2d5e420d4380a15b0bd0ef8d7
+      projectPath: Library\metadata\2f\2f2fc0a2d5e420d4380a15b0bd0ef8d7
+      originalPath: NightmaZe\Library\metadata\7a\7a9dd1edd6702b2429c3281ab0549f68
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\2f\2f2fc0a2d5e420d4380a15b0bd0ef8d7.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\2f\2f2fc0a2d5e420d4380a15b0bd0ef8d7.info
+      projectPath: Library\metadata\2f\2f2fc0a2d5e420d4380a15b0bd0ef8d7.info
+      originalPath: NightmaZe\Library\metadata\aa\aad00253170d72c46b69d2f0c27a9f68.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\35\35460f554a8f6704ab8613f5a485584e
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\35\35460f554a8f6704ab8613f5a485584e
+      projectPath: Library\metadata\35\35460f554a8f6704ab8613f5a485584e
+      originalPath: NightmaZe\Library\metadata\7a\7aab3b5bf6b6dd14e96a2fab98f4b34d
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\35\35460f554a8f6704ab8613f5a485584e.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\35\35460f554a8f6704ab8613f5a485584e.info
+      projectPath: Library\metadata\35\35460f554a8f6704ab8613f5a485584e.info
+      originalPath: NightmaZe\Library\metadata\7a\7aab3b5bf6b6dd14e96a2fab98f4b34d.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\36\367636eef99fe6b4c82da22cd5d68eb6
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\36\367636eef99fe6b4c82da22cd5d68eb6
+      projectPath: Library\metadata\36\367636eef99fe6b4c82da22cd5d68eb6
+      originalPath: NightmaZe\Library\metadata\3d\3de374cf116a6b442820f03d5d80809e
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\36\367636eef99fe6b4c82da22cd5d68eb6.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\36\367636eef99fe6b4c82da22cd5d68eb6.info
+      projectPath: Library\metadata\36\367636eef99fe6b4c82da22cd5d68eb6.info
+      originalPath: NightmaZe\Library\metadata\d2\d20b40fd05fa8354c9277970941cb1ac.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\36\36d85253ef283e347b4f9cefe3185eea
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\36\36d85253ef283e347b4f9cefe3185eea
+      projectPath: Library\metadata\36\36d85253ef283e347b4f9cefe3185eea
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\36\36d85253ef283e347b4f9cefe3185eea.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\36\36d85253ef283e347b4f9cefe3185eea.info
+      projectPath: Library\metadata\36\36d85253ef283e347b4f9cefe3185eea.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\38\38bf1ccfe4416f44abc4e19e437bfca9
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\38\38bf1ccfe4416f44abc4e19e437bfca9
+      projectPath: Library\metadata\38\38bf1ccfe4416f44abc4e19e437bfca9
+      originalPath: NightmaZe\Library\metadata\a6\a62bc60d82797bc46b37f4c93c55fd99
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\38\38bf1ccfe4416f44abc4e19e437bfca9.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\38\38bf1ccfe4416f44abc4e19e437bfca9.info
+      projectPath: Library\metadata\38\38bf1ccfe4416f44abc4e19e437bfca9.info
+      originalPath: NightmaZe\Library\metadata\42\42a2150ca4d2d374a97ed8c6d7623b65.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\39\3997aaa78fead1b4faf9424a10471b3d
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\39\3997aaa78fead1b4faf9424a10471b3d
+      projectPath: Library\metadata\39\3997aaa78fead1b4faf9424a10471b3d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\39\3997aaa78fead1b4faf9424a10471b3d.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\39\3997aaa78fead1b4faf9424a10471b3d.info
+      projectPath: Library\metadata\39\3997aaa78fead1b4faf9424a10471b3d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\3b\3bcb46a88a32685458868fa7093d009f
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\3b\3bcb46a88a32685458868fa7093d009f
+      projectPath: Library\metadata\3b\3bcb46a88a32685458868fa7093d009f
+      originalPath: NightmaZe\Library\metadata\1f\1f8b6ae43be3d04449fc1ef7a786f7b8
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\3b\3bcb46a88a32685458868fa7093d009f.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\3b\3bcb46a88a32685458868fa7093d009f.info
+      projectPath: Library\metadata\3b\3bcb46a88a32685458868fa7093d009f.info
+      originalPath: NightmaZe\Library\metadata\1f\1f8b6ae43be3d04449fc1ef7a786f7b8.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\40\407390e728ace384681aa755820474e4
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\40\407390e728ace384681aa755820474e4
+      projectPath: Library\metadata\40\407390e728ace384681aa755820474e4
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\40\407390e728ace384681aa755820474e4.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\40\407390e728ace384681aa755820474e4.info
+      projectPath: Library\metadata\40\407390e728ace384681aa755820474e4.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\41\4180ec0582315414280d8298fd53fb4f
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\41\4180ec0582315414280d8298fd53fb4f
+      projectPath: Library\metadata\41\4180ec0582315414280d8298fd53fb4f
+      originalPath: NightmaZe\Library\metadata\11\1115bc5bb73699c47bed8d08c7b1e04a
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\41\4180ec0582315414280d8298fd53fb4f.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\41\4180ec0582315414280d8298fd53fb4f.info
+      projectPath: Library\metadata\41\4180ec0582315414280d8298fd53fb4f.info
+      originalPath: NightmaZe\Library\metadata\8f\8f7fde93b792c414da551a65288ad591.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+      projectPath: Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\48\48dd2e1379a5b5f4e9c4a48f04279874
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\48\48dd2e1379a5b5f4e9c4a48f04279874
+      projectPath: Library\metadata\48\48dd2e1379a5b5f4e9c4a48f04279874
+      originalPath: NightmaZe\Library\metadata\03\03ad07a2cfd96854483191bf6e1626c6
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\48\48dd2e1379a5b5f4e9c4a48f04279874.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\48\48dd2e1379a5b5f4e9c4a48f04279874.info
+      projectPath: Library\metadata\48\48dd2e1379a5b5f4e9c4a48f04279874.info
+      originalPath: NightmaZe\Library\metadata\03\03ad07a2cfd96854483191bf6e1626c6.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\4a\4aac79a90a428c2448a8bdecc3d47581
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\4a\4aac79a90a428c2448a8bdecc3d47581
+      projectPath: Library\metadata\4a\4aac79a90a428c2448a8bdecc3d47581
+      originalPath: NightmaZe\Library\metadata\78\784bcf6763d63014d848b683f2ae86cc
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\4a\4aac79a90a428c2448a8bdecc3d47581.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\4a\4aac79a90a428c2448a8bdecc3d47581.info
+      projectPath: Library\metadata\4a\4aac79a90a428c2448a8bdecc3d47581.info
+      originalPath: NightmaZe\Library\metadata\c6\c620fc7f178e8804d98f2d06f7826f25.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\4b\4b46417d8eb55d941bd221f934c0a508
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\4b\4b46417d8eb55d941bd221f934c0a508
+      projectPath: Library\metadata\4b\4b46417d8eb55d941bd221f934c0a508
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+      projectPath: Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\metadata\4e\4e21d244e1324524a9d304a7f2faab1d
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\4e\4e21d244e1324524a9d304a7f2faab1d
+      projectPath: Library\metadata\4e\4e21d244e1324524a9d304a7f2faab1d
+      originalPath: NightmaZe\Library\metadata\80\80adde8fc5bcf1742b8de54e20c80b19
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\4e\4e21d244e1324524a9d304a7f2faab1d.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\4e\4e21d244e1324524a9d304a7f2faab1d.info
+      projectPath: Library\metadata\4e\4e21d244e1324524a9d304a7f2faab1d.info
+      originalPath: NightmaZe\Library\metadata\2d\2d38ec913582d7a4496f783042a535e8.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\4f\4f768b64e6c37495699fffe3007e4379
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\4f\4f768b64e6c37495699fffe3007e4379
+      projectPath: Library\metadata\4f\4f768b64e6c37495699fffe3007e4379
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\metadata\52\52315ebd199375f499278fc3186d31eb
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\52\52315ebd199375f499278fc3186d31eb
+      projectPath: Library\metadata\52\52315ebd199375f499278fc3186d31eb
+      originalPath: NightmaZe\Library\metadata\88\88d907beb3341bb4985cf07804c51bd2
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\52\52315ebd199375f499278fc3186d31eb.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\52\52315ebd199375f499278fc3186d31eb.info
+      projectPath: Library\metadata\52\52315ebd199375f499278fc3186d31eb.info
+      originalPath: NightmaZe\Library\metadata\80\80adde8fc5bcf1742b8de54e20c80b19.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\58\58e7588d00d86d648b1151a7deb46c50
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\58\58e7588d00d86d648b1151a7deb46c50
+      projectPath: Library\metadata\58\58e7588d00d86d648b1151a7deb46c50
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\58\58e7588d00d86d648b1151a7deb46c50.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\58\58e7588d00d86d648b1151a7deb46c50.info
+      projectPath: Library\metadata\58\58e7588d00d86d648b1151a7deb46c50.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\5a\5a704c6090e96d5429fc0061d1748fd9
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\5a\5a704c6090e96d5429fc0061d1748fd9
+      projectPath: Library\metadata\5a\5a704c6090e96d5429fc0061d1748fd9
+      originalPath: NightmaZe\Library\metadata\3f\3fde41fabb55fbe49b19d6e5cf3d300d
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\5a\5a704c6090e96d5429fc0061d1748fd9.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\5a\5a704c6090e96d5429fc0061d1748fd9.info
+      projectPath: Library\metadata\5a\5a704c6090e96d5429fc0061d1748fd9.info
+      originalPath: NightmaZe\Library\metadata\a4\a4cbcddec40886c408efdff53f0eb319.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\5b\5bbe2f1ef6bed46419c2b5c8eeb36145
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\5b\5bbe2f1ef6bed46419c2b5c8eeb36145
+      projectPath: Library\metadata\5b\5bbe2f1ef6bed46419c2b5c8eeb36145
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\5b\5bbe2f1ef6bed46419c2b5c8eeb36145.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\5b\5bbe2f1ef6bed46419c2b5c8eeb36145.info
+      projectPath: Library\metadata\5b\5bbe2f1ef6bed46419c2b5c8eeb36145.info
+      originalPath: NightmaZe\Library\metadata\ed\ed39a4786b4122e439f1a3cbc5f11039.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\5d\5dd65cc022349d74387058cd8821555e
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\5d\5dd65cc022349d74387058cd8821555e
+      projectPath: Library\metadata\5d\5dd65cc022349d74387058cd8821555e
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\66\66cc9781ad2528f4db6a30dce397b0c6
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\66\66cc9781ad2528f4db6a30dce397b0c6
+      projectPath: Library\metadata\66\66cc9781ad2528f4db6a30dce397b0c6
+      originalPath: NightmaZe\Library\metadata\29\2953b5d49c51f744ab19db027ebd1a12
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\66\66cc9781ad2528f4db6a30dce397b0c6.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\66\66cc9781ad2528f4db6a30dce397b0c6.info
+      projectPath: Library\metadata\66\66cc9781ad2528f4db6a30dce397b0c6.info
+      originalPath: NightmaZe\Library\metadata\e2\e248eddbd1741f04489509d74131c539.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\67\67c9d790d39c99449ab8c03c357b65c7
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\67\67c9d790d39c99449ab8c03c357b65c7
+      projectPath: Library\metadata\67\67c9d790d39c99449ab8c03c357b65c7
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\67\67c9d790d39c99449ab8c03c357b65c7.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\67\67c9d790d39c99449ab8c03c357b65c7.info
+      projectPath: Library\metadata\67\67c9d790d39c99449ab8c03c357b65c7.info
+      originalPath: NightmaZe\Library\metadata\7a\7a9dd1edd6702b2429c3281ab0549f68.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\68\6812cfcc6ec5a1f4aac05362453ea99d
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\68\6812cfcc6ec5a1f4aac05362453ea99d
+      projectPath: Library\metadata\68\6812cfcc6ec5a1f4aac05362453ea99d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\68\6812cfcc6ec5a1f4aac05362453ea99d.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\68\6812cfcc6ec5a1f4aac05362453ea99d.info
+      projectPath: Library\metadata\68\6812cfcc6ec5a1f4aac05362453ea99d.info
+      originalPath: NightmaZe\Library\metadata\ee\ee641cb8897511145a691ad9fd00c857.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\6a\6a9aef13c66abe44cbdd7fbefb4e3140
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\6a\6a9aef13c66abe44cbdd7fbefb4e3140
+      projectPath: Library\metadata\6a\6a9aef13c66abe44cbdd7fbefb4e3140
+      originalPath: NightmaZe\Library\metadata\2d\2d38ec913582d7a4496f783042a535e8
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\6a\6a9aef13c66abe44cbdd7fbefb4e3140.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\6a\6a9aef13c66abe44cbdd7fbefb4e3140.info
+      projectPath: Library\metadata\6a\6a9aef13c66abe44cbdd7fbefb4e3140.info
+      originalPath: NightmaZe\Library\metadata\88\88d907beb3341bb4985cf07804c51bd2.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\6b\6b252b8f53218e24b8e2960c1160fd33
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\6b\6b252b8f53218e24b8e2960c1160fd33
+      projectPath: Library\metadata\6b\6b252b8f53218e24b8e2960c1160fd33
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\6b\6b252b8f53218e24b8e2960c1160fd33.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\6b\6b252b8f53218e24b8e2960c1160fd33.info
+      projectPath: Library\metadata\6b\6b252b8f53218e24b8e2960c1160fd33.info
+      originalPath: NightmaZe\Library\metadata\3a\3a19ae9998df24746a2d64ebc78c69ce.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\70\70f1648bee8fb134aa3a0f282a1676b1
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\70\70f1648bee8fb134aa3a0f282a1676b1
+      projectPath: Library\metadata\70\70f1648bee8fb134aa3a0f282a1676b1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\70\70f1648bee8fb134aa3a0f282a1676b1.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\70\70f1648bee8fb134aa3a0f282a1676b1.info
+      projectPath: Library\metadata\70\70f1648bee8fb134aa3a0f282a1676b1.info
+      originalPath: NightmaZe\Library\metadata\e3\e33801c6b40e966419ce68d31995d61e.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\73\7332ebb4f5f51fd4fa39b1665b66bab1
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\73\7332ebb4f5f51fd4fa39b1665b66bab1
+      projectPath: Library\metadata\73\7332ebb4f5f51fd4fa39b1665b66bab1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\73\7332ebb4f5f51fd4fa39b1665b66bab1.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\73\7332ebb4f5f51fd4fa39b1665b66bab1.info
+      projectPath: Library\metadata\73\7332ebb4f5f51fd4fa39b1665b66bab1.info
+      originalPath: NightmaZe\Library\metadata\80\80eda7dccba5b3d48b233018980a9727.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\73\73d76be18a601c14eacb5d9de7259951
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\73\73d76be18a601c14eacb5d9de7259951
+      projectPath: Library\metadata\73\73d76be18a601c14eacb5d9de7259951
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\73\73d76be18a601c14eacb5d9de7259951.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\73\73d76be18a601c14eacb5d9de7259951.info
+      projectPath: Library\metadata\73\73d76be18a601c14eacb5d9de7259951.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\73\73f72afc050aec646b45b000ada5e234
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\73\73f72afc050aec646b45b000ada5e234
+      projectPath: Library\metadata\73\73f72afc050aec646b45b000ada5e234
+      originalPath: NightmaZe\Library\metadata\ce\ce3d09acde512b74f8beb34645fe793f
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\73\73f72afc050aec646b45b000ada5e234.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\73\73f72afc050aec646b45b000ada5e234.info
+      projectPath: Library\metadata\73\73f72afc050aec646b45b000ada5e234.info
+      originalPath: NightmaZe\Library\metadata\ce\ce3d09acde512b74f8beb34645fe793f.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\76\76b4e4f31c330924d942aee0e89525d2
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\76\76b4e4f31c330924d942aee0e89525d2
+      projectPath: Library\metadata\76\76b4e4f31c330924d942aee0e89525d2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\76\76b4e4f31c330924d942aee0e89525d2.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\76\76b4e4f31c330924d942aee0e89525d2.info
+      projectPath: Library\metadata\76\76b4e4f31c330924d942aee0e89525d2.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\78\78207493787258f428a1c4269d909e4f
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\78\78207493787258f428a1c4269d909e4f
+      projectPath: Library\metadata\78\78207493787258f428a1c4269d909e4f
+      originalPath: NightmaZe\Library\metadata\be\be9d2c30ac654b1438ee7ba322550b4e
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\78\78207493787258f428a1c4269d909e4f.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\78\78207493787258f428a1c4269d909e4f.info
+      projectPath: Library\metadata\78\78207493787258f428a1c4269d909e4f.info
+      originalPath: NightmaZe\Library\metadata\be\be9d2c30ac654b1438ee7ba322550b4e.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\78\78eb65feb8b0fe54e8d8e1fd5bd6e619
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\78\78eb65feb8b0fe54e8d8e1fd5bd6e619
+      projectPath: Library\metadata\78\78eb65feb8b0fe54e8d8e1fd5bd6e619
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\79\798346a08ddc44e49a711e2a0928f53c
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\79\798346a08ddc44e49a711e2a0928f53c
+      projectPath: Library\metadata\79\798346a08ddc44e49a711e2a0928f53c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\79\798346a08ddc44e49a711e2a0928f53c.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\79\798346a08ddc44e49a711e2a0928f53c.info
+      projectPath: Library\metadata\79\798346a08ddc44e49a711e2a0928f53c.info
+      originalPath: NightmaZe\Library\metadata\a6\a6f2fd00164c50942a6dd7a339df4262.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\7c\7c51a11bf49bb0d44b556df770d1ee99
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\7c\7c51a11bf49bb0d44b556df770d1ee99
+      projectPath: Library\metadata\7c\7c51a11bf49bb0d44b556df770d1ee99
+      originalPath: NightmaZe\Library\metadata\e2\e248eddbd1741f04489509d74131c539
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\7c\7c51a11bf49bb0d44b556df770d1ee99.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\7c\7c51a11bf49bb0d44b556df770d1ee99.info
+      projectPath: Library\metadata\7c\7c51a11bf49bb0d44b556df770d1ee99.info
+      originalPath: NightmaZe\Library\metadata\69\694f5deb86854f64b8790156d8c06996.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\7c\7c7ad0f1b47b3514a80aeceab6d81800
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\7c\7c7ad0f1b47b3514a80aeceab6d81800
+      projectPath: Library\metadata\7c\7c7ad0f1b47b3514a80aeceab6d81800
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\7c\7c7ad0f1b47b3514a80aeceab6d81800.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\7c\7c7ad0f1b47b3514a80aeceab6d81800.info
+      projectPath: Library\metadata\7c\7c7ad0f1b47b3514a80aeceab6d81800.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\7c\7ce0e3a15e627ca4aa43ffd89f0fca90
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\7c\7ce0e3a15e627ca4aa43ffd89f0fca90
+      projectPath: Library\metadata\7c\7ce0e3a15e627ca4aa43ffd89f0fca90
+      originalPath: NightmaZe\Library\metadata\69\694f5deb86854f64b8790156d8c06996
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\7c\7ce0e3a15e627ca4aa43ffd89f0fca90.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\7c\7ce0e3a15e627ca4aa43ffd89f0fca90.info
+      projectPath: Library\metadata\7c\7ce0e3a15e627ca4aa43ffd89f0fca90.info
+      originalPath: NightmaZe\Library\metadata\29\2953b5d49c51f744ab19db027ebd1a12.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\7d\7de6542c3c690ec4bada56c3ec5e3c0b
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\7d\7de6542c3c690ec4bada56c3ec5e3c0b
+      projectPath: Library\metadata\7d\7de6542c3c690ec4bada56c3ec5e3c0b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\7d\7de6542c3c690ec4bada56c3ec5e3c0b.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\7d\7de6542c3c690ec4bada56c3ec5e3c0b.info
+      projectPath: Library\metadata\7d\7de6542c3c690ec4bada56c3ec5e3c0b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\80\80eda7dccba5b3d48b233018980a9727
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\80\80eda7dccba5b3d48b233018980a9727
+      projectPath: Library\metadata\80\80eda7dccba5b3d48b233018980a9727
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\84\84df971ea0eef74489498942d5fb0920
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\84\84df971ea0eef74489498942d5fb0920
+      projectPath: Library\metadata\84\84df971ea0eef74489498942d5fb0920
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\84\84df971ea0eef74489498942d5fb0920.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\84\84df971ea0eef74489498942d5fb0920.info
+      projectPath: Library\metadata\84\84df971ea0eef74489498942d5fb0920.info
+      originalPath: NightmaZe\Library\metadata\3f\3fde41fabb55fbe49b19d6e5cf3d300d.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\8d\8dbb446e8d8a42148af199b194274753
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\8d\8dbb446e8d8a42148af199b194274753
+      projectPath: Library\metadata\8d\8dbb446e8d8a42148af199b194274753
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\8f\8f7fde93b792c414da551a65288ad591
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\8f\8f7fde93b792c414da551a65288ad591
+      projectPath: Library\metadata\8f\8f7fde93b792c414da551a65288ad591
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\90\90a4cc61e08d50b4c824066bd4d184b0
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\90\90a4cc61e08d50b4c824066bd4d184b0
+      projectPath: Library\metadata\90\90a4cc61e08d50b4c824066bd4d184b0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\90\90a4cc61e08d50b4c824066bd4d184b0.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\90\90a4cc61e08d50b4c824066bd4d184b0.info
+      projectPath: Library\metadata\90\90a4cc61e08d50b4c824066bd4d184b0.info
+      originalPath: NightmaZe\Library\metadata\b7\b7eca57d1dee23a40b4412005292dfd4.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\90\90f204099595e364497628bf6d3b02fb
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\90\90f204099595e364497628bf6d3b02fb
+      projectPath: Library\metadata\90\90f204099595e364497628bf6d3b02fb
+      originalPath: NightmaZe\Library\metadata\21\215b41c91a9200246b7cde1e2993218b
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\90\90f204099595e364497628bf6d3b02fb.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\90\90f204099595e364497628bf6d3b02fb.info
+      projectPath: Library\metadata\90\90f204099595e364497628bf6d3b02fb.info
+      originalPath: NightmaZe\Library\metadata\21\215b41c91a9200246b7cde1e2993218b.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\93\93c1370867fcb45079592da39e0994c5
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\93\93c1370867fcb45079592da39e0994c5
+      projectPath: Library\metadata\93\93c1370867fcb45079592da39e0994c5
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\99\99c9720ab356a0642a771bea13969a05
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\99\99c9720ab356a0642a771bea13969a05
+      projectPath: Library\metadata\99\99c9720ab356a0642a771bea13969a05
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\metadata\99\99c9720ab356a0642a771bea13969a05.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\99\99c9720ab356a0642a771bea13969a05.info
+      projectPath: Library\metadata\99\99c9720ab356a0642a771bea13969a05.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\metadata\9b\9bba40cfe940b7f4587551b6ce612385
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\9b\9bba40cfe940b7f4587551b6ce612385
+      projectPath: Library\metadata\9b\9bba40cfe940b7f4587551b6ce612385
+      originalPath: NightmaZe\Library\metadata\b8\b8098bb508d65434f93c27d634485f55
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\9b\9bba40cfe940b7f4587551b6ce612385.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\9b\9bba40cfe940b7f4587551b6ce612385.info
+      projectPath: Library\metadata\9b\9bba40cfe940b7f4587551b6ce612385.info
+      originalPath: NightmaZe\Library\metadata\b8\b8098bb508d65434f93c27d634485f55.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\a4\a4cbcddec40886c408efdff53f0eb319
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\a4\a4cbcddec40886c408efdff53f0eb319
+      projectPath: Library\metadata\a4\a4cbcddec40886c408efdff53f0eb319
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\a6\a694df78363c5f842abb6c21b0fb047c
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\a6\a694df78363c5f842abb6c21b0fb047c
+      projectPath: Library\metadata\a6\a694df78363c5f842abb6c21b0fb047c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\a6\a694df78363c5f842abb6c21b0fb047c.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\a6\a694df78363c5f842abb6c21b0fb047c.info
+      projectPath: Library\metadata\a6\a694df78363c5f842abb6c21b0fb047c.info
+      originalPath: NightmaZe\Library\metadata\78\78eb65feb8b0fe54e8d8e1fd5bd6e619.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\a6\a6f2fd00164c50942a6dd7a339df4262
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\a6\a6f2fd00164c50942a6dd7a339df4262
+      projectPath: Library\metadata\a6\a6f2fd00164c50942a6dd7a339df4262
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\a8\a8d9e44eff3f447db9448925617ccb44
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\a8\a8d9e44eff3f447db9448925617ccb44
+      projectPath: Library\metadata\a8\a8d9e44eff3f447db9448925617ccb44
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\metadata\a9\a9f322a1734022a4e91bd31b5c0a9c69
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\a9\a9f322a1734022a4e91bd31b5c0a9c69
+      projectPath: Library\metadata\a9\a9f322a1734022a4e91bd31b5c0a9c69
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\a9\a9f322a1734022a4e91bd31b5c0a9c69.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\a9\a9f322a1734022a4e91bd31b5c0a9c69.info
+      projectPath: Library\metadata\a9\a9f322a1734022a4e91bd31b5c0a9c69.info
+      originalPath: NightmaZe\Library\metadata\ef\ef3c0a3cbd8932e49b2f6661a9f33b50.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\aa\aad00253170d72c46b69d2f0c27a9f68
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\aa\aad00253170d72c46b69d2f0c27a9f68
+      projectPath: Library\metadata\aa\aad00253170d72c46b69d2f0c27a9f68
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\ad\ad3cfa53c56cfd144b1d2e8f35fd0219
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ad\ad3cfa53c56cfd144b1d2e8f35fd0219
+      projectPath: Library\metadata\ad\ad3cfa53c56cfd144b1d2e8f35fd0219
+      originalPath: NightmaZe\Library\metadata\cf\cfe5f6b2d9e4b2b4d9af15c495ec4c5e
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\ad\ad3cfa53c56cfd144b1d2e8f35fd0219.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ad\ad3cfa53c56cfd144b1d2e8f35fd0219.info
+      projectPath: Library\metadata\ad\ad3cfa53c56cfd144b1d2e8f35fd0219.info
+      originalPath: NightmaZe\Library\metadata\a6\a62bc60d82797bc46b37f4c93c55fd99.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\ad\adb33d7d9a6c82b4ca524fc582a40c96
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ad\adb33d7d9a6c82b4ca524fc582a40c96
+      projectPath: Library\metadata\ad\adb33d7d9a6c82b4ca524fc582a40c96
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\ad\adb33d7d9a6c82b4ca524fc582a40c96.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ad\adb33d7d9a6c82b4ca524fc582a40c96.info
+      projectPath: Library\metadata\ad\adb33d7d9a6c82b4ca524fc582a40c96.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\ae\ae2e60c55244a3042b38261187683193
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ae\ae2e60c55244a3042b38261187683193
+      projectPath: Library\metadata\ae\ae2e60c55244a3042b38261187683193
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\ae\ae2e60c55244a3042b38261187683193.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ae\ae2e60c55244a3042b38261187683193.info
+      projectPath: Library\metadata\ae\ae2e60c55244a3042b38261187683193.info
+      originalPath: NightmaZe\Library\metadata\3d\3de374cf116a6b442820f03d5d80809e.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\b1\b13b4af5eef32004692ad979459bd319
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\b1\b13b4af5eef32004692ad979459bd319
+      projectPath: Library\metadata\b1\b13b4af5eef32004692ad979459bd319
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\b1\b13b4af5eef32004692ad979459bd319.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\b1\b13b4af5eef32004692ad979459bd319.info
+      projectPath: Library\metadata\b1\b13b4af5eef32004692ad979459bd319.info
+      originalPath: NightmaZe\Library\metadata\78\784bcf6763d63014d848b683f2ae86cc.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\b7\b7eca57d1dee23a40b4412005292dfd4
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\b7\b7eca57d1dee23a40b4412005292dfd4
+      projectPath: Library\metadata\b7\b7eca57d1dee23a40b4412005292dfd4
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\bb\bbad5731f7315264389009c92f9d785b
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\bb\bbad5731f7315264389009c92f9d785b
+      projectPath: Library\metadata\bb\bbad5731f7315264389009c92f9d785b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\bb\bbad5731f7315264389009c92f9d785b.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\bb\bbad5731f7315264389009c92f9d785b.info
+      projectPath: Library\metadata\bb\bbad5731f7315264389009c92f9d785b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\bd\bd83a9a9b7924c94e956fb2b08ce5fd9
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\bd\bd83a9a9b7924c94e956fb2b08ce5fd9
+      projectPath: Library\metadata\bd\bd83a9a9b7924c94e956fb2b08ce5fd9
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\bd\bde5beb04143ea6498cbc31b929d2c1f
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\bd\bde5beb04143ea6498cbc31b929d2c1f
+      projectPath: Library\metadata\bd\bde5beb04143ea6498cbc31b929d2c1f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\bd\bde5beb04143ea6498cbc31b929d2c1f.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\bd\bde5beb04143ea6498cbc31b929d2c1f.info
+      projectPath: Library\metadata\bd\bde5beb04143ea6498cbc31b929d2c1f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\be\bee07010ea0774c488c4ada791fd0787
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\be\bee07010ea0774c488c4ada791fd0787
+      projectPath: Library\metadata\be\bee07010ea0774c488c4ada791fd0787
+      originalPath: NightmaZe\Library\metadata\71\71cadfe2ebdd9f444b0d9efeb06bccc8
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\be\bee07010ea0774c488c4ada791fd0787.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\be\bee07010ea0774c488c4ada791fd0787.info
+      projectPath: Library\metadata\be\bee07010ea0774c488c4ada791fd0787.info
+      originalPath: NightmaZe\Library\metadata\f5\f5169eb69cd9ff24caf7bbc598e5fec2.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\c6\c620fc7f178e8804d98f2d06f7826f25
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\c6\c620fc7f178e8804d98f2d06f7826f25
+      projectPath: Library\metadata\c6\c620fc7f178e8804d98f2d06f7826f25
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\c7\c704150e76464bc4f989351a61cc1a2f
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\c7\c704150e76464bc4f989351a61cc1a2f
+      projectPath: Library\metadata\c7\c704150e76464bc4f989351a61cc1a2f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\c7\c704150e76464bc4f989351a61cc1a2f.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\c7\c704150e76464bc4f989351a61cc1a2f.info
+      projectPath: Library\metadata\c7\c704150e76464bc4f989351a61cc1a2f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\cd\cd283556f81fe1d48ba0fb63904d6ba1
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\cd\cd283556f81fe1d48ba0fb63904d6ba1
+      projectPath: Library\metadata\cd\cd283556f81fe1d48ba0fb63904d6ba1
+      originalPath: NightmaZe\Library\metadata\1a\1ab3c4aaff9d0ac4ea3e257fe78df1a0
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\cd\cd283556f81fe1d48ba0fb63904d6ba1.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\cd\cd283556f81fe1d48ba0fb63904d6ba1.info
+      projectPath: Library\metadata\cd\cd283556f81fe1d48ba0fb63904d6ba1.info
+      originalPath: NightmaZe\Library\metadata\4b\4b46417d8eb55d941bd221f934c0a508.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\ce\ce961f11c727df048b9ac0c33166d89c
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ce\ce961f11c727df048b9ac0c33166d89c
+      projectPath: Library\metadata\ce\ce961f11c727df048b9ac0c33166d89c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\ce\ce961f11c727df048b9ac0c33166d89c.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ce\ce961f11c727df048b9ac0c33166d89c.info
+      projectPath: Library\metadata\ce\ce961f11c727df048b9ac0c33166d89c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\ce\cefed54ba4c80b14d8a60d2c413c993d
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ce\cefed54ba4c80b14d8a60d2c413c993d
+      projectPath: Library\metadata\ce\cefed54ba4c80b14d8a60d2c413c993d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\ce\cefed54ba4c80b14d8a60d2c413c993d.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ce\cefed54ba4c80b14d8a60d2c413c993d.info
+      projectPath: Library\metadata\ce\cefed54ba4c80b14d8a60d2c413c993d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\cf\cfb31af20bf181f4b8c18d3d21b379b4
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\cf\cfb31af20bf181f4b8c18d3d21b379b4
+      projectPath: Library\metadata\cf\cfb31af20bf181f4b8c18d3d21b379b4
+      originalPath: NightmaZe\Library\metadata\10\105cf93d87a51274bb5f4d63262c6521
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\cf\cfb31af20bf181f4b8c18d3d21b379b4.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\cf\cfb31af20bf181f4b8c18d3d21b379b4.info
+      projectPath: Library\metadata\cf\cfb31af20bf181f4b8c18d3d21b379b4.info
+      originalPath: NightmaZe\Library\metadata\10\105cf93d87a51274bb5f4d63262c6521.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\d0\d0cfb12a952ec984eaf7020502a8bf85
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d0\d0cfb12a952ec984eaf7020502a8bf85
+      projectPath: Library\metadata\d0\d0cfb12a952ec984eaf7020502a8bf85
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\d0\d0cfb12a952ec984eaf7020502a8bf85.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d0\d0cfb12a952ec984eaf7020502a8bf85.info
+      projectPath: Library\metadata\d0\d0cfb12a952ec984eaf7020502a8bf85.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\d2\d20b40fd05fa8354c9277970941cb1ac
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d2\d20b40fd05fa8354c9277970941cb1ac
+      projectPath: Library\metadata\d2\d20b40fd05fa8354c9277970941cb1ac
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\d2\d270ee1f3d4405e429c0e7d53ae26d7b
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d2\d270ee1f3d4405e429c0e7d53ae26d7b
+      projectPath: Library\metadata\d2\d270ee1f3d4405e429c0e7d53ae26d7b
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\d3\d34fdc1a9e129cd4b9f04477b32a2f88
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d3\d34fdc1a9e129cd4b9f04477b32a2f88
+      projectPath: Library\metadata\d3\d34fdc1a9e129cd4b9f04477b32a2f88
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\d3\d34fdc1a9e129cd4b9f04477b32a2f88.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d3\d34fdc1a9e129cd4b9f04477b32a2f88.info
+      projectPath: Library\metadata\d3\d34fdc1a9e129cd4b9f04477b32a2f88.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\d3\d3c329b4a3a3af64697939f798780a66
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d3\d3c329b4a3a3af64697939f798780a66
+      projectPath: Library\metadata\d3\d3c329b4a3a3af64697939f798780a66
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\d3\d3c329b4a3a3af64697939f798780a66.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d3\d3c329b4a3a3af64697939f798780a66.info
+      projectPath: Library\metadata\d3\d3c329b4a3a3af64697939f798780a66.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\d5\d55d859f5c0aed24081955f03e536822
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d5\d55d859f5c0aed24081955f03e536822
+      projectPath: Library\metadata\d5\d55d859f5c0aed24081955f03e536822
+      originalPath: NightmaZe\Library\metadata\1d\1d6ab4fa96877d14d9591e552f99a82e
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\d5\d55d859f5c0aed24081955f03e536822.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d5\d55d859f5c0aed24081955f03e536822.info
+      projectPath: Library\metadata\d5\d55d859f5c0aed24081955f03e536822.info
+      originalPath: NightmaZe\Library\metadata\1d\1d6ab4fa96877d14d9591e552f99a82e.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+      projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\d7\d71ec93c25d4d2648a9965d83c2835e3
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d7\d71ec93c25d4d2648a9965d83c2835e3
+      projectPath: Library\metadata\d7\d71ec93c25d4d2648a9965d83c2835e3
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\d7\d71ec93c25d4d2648a9965d83c2835e3.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d7\d71ec93c25d4d2648a9965d83c2835e3.info
+      projectPath: Library\metadata\d7\d71ec93c25d4d2648a9965d83c2835e3.info
+      originalPath: NightmaZe\Library\metadata\dd\dd98c0041c42ed442b9b446d3f909694.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\d7\d7545f0c7cfaaa743bf5d38e5847a615
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d7\d7545f0c7cfaaa743bf5d38e5847a615
+      projectPath: Library\metadata\d7\d7545f0c7cfaaa743bf5d38e5847a615
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\d7\d7545f0c7cfaaa743bf5d38e5847a615.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d7\d7545f0c7cfaaa743bf5d38e5847a615.info
+      projectPath: Library\metadata\d7\d7545f0c7cfaaa743bf5d38e5847a615.info
+      originalPath: NightmaZe\Library\metadata\71\71cadfe2ebdd9f444b0d9efeb06bccc8.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\dc\dca67797616d71c449f874739c2eda58
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\dc\dca67797616d71c449f874739c2eda58
+      projectPath: Library\metadata\dc\dca67797616d71c449f874739c2eda58
+      originalPath: NightmaZe\Library\metadata\ba\bac2f7103c3e7c843ba322da23254368
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\dc\dca67797616d71c449f874739c2eda58.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\dc\dca67797616d71c449f874739c2eda58.info
+      projectPath: Library\metadata\dc\dca67797616d71c449f874739c2eda58.info
+      originalPath: NightmaZe\Library\metadata\ba\bac2f7103c3e7c843ba322da23254368.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\dd\dd7f6af8c1f2b5345969cfd0acf2d515
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\dd\dd7f6af8c1f2b5345969cfd0acf2d515
+      projectPath: Library\metadata\dd\dd7f6af8c1f2b5345969cfd0acf2d515
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\dd\dd7f6af8c1f2b5345969cfd0acf2d515.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\dd\dd7f6af8c1f2b5345969cfd0acf2d515.info
+      projectPath: Library\metadata\dd\dd7f6af8c1f2b5345969cfd0acf2d515.info
+      originalPath: NightmaZe\Library\metadata\4e\4e0ccfa8ad1757d4686667a3828b2dfb.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\dd\dd98c0041c42ed442b9b446d3f909694
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\dd\dd98c0041c42ed442b9b446d3f909694
+      projectPath: Library\metadata\dd\dd98c0041c42ed442b9b446d3f909694
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\e3\e33801c6b40e966419ce68d31995d61e
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\e3\e33801c6b40e966419ce68d31995d61e
+      projectPath: Library\metadata\e3\e33801c6b40e966419ce68d31995d61e
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\e4\e41f7c8d306ea6841b6f64e760db31cc
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\e4\e41f7c8d306ea6841b6f64e760db31cc
+      projectPath: Library\metadata\e4\e41f7c8d306ea6841b6f64e760db31cc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\e4\e41f7c8d306ea6841b6f64e760db31cc.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\e4\e41f7c8d306ea6841b6f64e760db31cc.info
+      projectPath: Library\metadata\e4\e41f7c8d306ea6841b6f64e760db31cc.info
+      originalPath: NightmaZe\Library\metadata\f8\f8974d00ca47cb242979af0f0552443b.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\e8\e8271ce12d5c6be45a001579f6af60ed
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\e8\e8271ce12d5c6be45a001579f6af60ed
+      projectPath: Library\metadata\e8\e8271ce12d5c6be45a001579f6af60ed
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\e8\e8271ce12d5c6be45a001579f6af60ed.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\e8\e8271ce12d5c6be45a001579f6af60ed.info
+      projectPath: Library\metadata\e8\e8271ce12d5c6be45a001579f6af60ed.info
+      originalPath: NightmaZe\Library\metadata\34\343ae182fdefadd4a951477093f0eaaf.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\e9\e98e33629bde79f4b92c5eedf5508187
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\e9\e98e33629bde79f4b92c5eedf5508187
+      projectPath: Library\metadata\e9\e98e33629bde79f4b92c5eedf5508187
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\e9\e98e33629bde79f4b92c5eedf5508187.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\e9\e98e33629bde79f4b92c5eedf5508187.info
+      projectPath: Library\metadata\e9\e98e33629bde79f4b92c5eedf5508187.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+      projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+      projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\ed\ed39a4786b4122e439f1a3cbc5f11039
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ed\ed39a4786b4122e439f1a3cbc5f11039
+      projectPath: Library\metadata\ed\ed39a4786b4122e439f1a3cbc5f11039
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\ed\edf52dd47512f2e458c32ef7a9ed6951
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ed\edf52dd47512f2e458c32ef7a9ed6951
+      projectPath: Library\metadata\ed\edf52dd47512f2e458c32ef7a9ed6951
+      originalPath: NightmaZe\Library\metadata\5d\5d60cda859ab4534490482cdb98a814d
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\ed\edf52dd47512f2e458c32ef7a9ed6951.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ed\edf52dd47512f2e458c32ef7a9ed6951.info
+      projectPath: Library\metadata\ed\edf52dd47512f2e458c32ef7a9ed6951.info
+      originalPath: NightmaZe\Library\metadata\5d\5d60cda859ab4534490482cdb98a814d.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\ee\ee641cb8897511145a691ad9fd00c857
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ee\ee641cb8897511145a691ad9fd00c857
+      projectPath: Library\metadata\ee\ee641cb8897511145a691ad9fd00c857
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\ef\ef3c0a3cbd8932e49b2f6661a9f33b50
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ef\ef3c0a3cbd8932e49b2f6661a9f33b50
+      projectPath: Library\metadata\ef\ef3c0a3cbd8932e49b2f6661a9f33b50
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\f1\f12809d974d148f4a9b815fb9db138af
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f1\f12809d974d148f4a9b815fb9db138af
+      projectPath: Library\metadata\f1\f12809d974d148f4a9b815fb9db138af
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\f1\f12809d974d148f4a9b815fb9db138af.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f1\f12809d974d148f4a9b815fb9db138af.info
+      projectPath: Library\metadata\f1\f12809d974d148f4a9b815fb9db138af.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\f2\f26adeeac8e004a41bde00e9aa43e42c
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f2\f26adeeac8e004a41bde00e9aa43e42c
+      projectPath: Library\metadata\f2\f26adeeac8e004a41bde00e9aa43e42c
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\f3\f3a7d9a9b92ac7b43ba54ddee8e7fb9c
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f3\f3a7d9a9b92ac7b43ba54ddee8e7fb9c
+      projectPath: Library\metadata\f3\f3a7d9a9b92ac7b43ba54ddee8e7fb9c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\f3\f3a7d9a9b92ac7b43ba54ddee8e7fb9c.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f3\f3a7d9a9b92ac7b43ba54ddee8e7fb9c.info
+      projectPath: Library\metadata\f3\f3a7d9a9b92ac7b43ba54ddee8e7fb9c.info
+      originalPath: NightmaZe\Library\metadata\f2\f26adeeac8e004a41bde00e9aa43e42c.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\f4\f4da9cbb408be44968e85ee20767deef
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f4\f4da9cbb408be44968e85ee20767deef
+      projectPath: Library\metadata\f4\f4da9cbb408be44968e85ee20767deef
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\metadata\f5\f5169eb69cd9ff24caf7bbc598e5fec2
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f5\f5169eb69cd9ff24caf7bbc598e5fec2
+      projectPath: Library\metadata\f5\f5169eb69cd9ff24caf7bbc598e5fec2
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\f5\f51f3b966648f2d45bb7a12226685ede
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f5\f51f3b966648f2d45bb7a12226685ede
+      projectPath: Library\metadata\f5\f51f3b966648f2d45bb7a12226685ede
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\f5\f51f3b966648f2d45bb7a12226685ede.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f5\f51f3b966648f2d45bb7a12226685ede.info
+      projectPath: Library\metadata\f5\f51f3b966648f2d45bb7a12226685ede.info
+      originalPath: NightmaZe\Library\metadata\1a\1ab3c4aaff9d0ac4ea3e257fe78df1a0.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+      projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+      projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\f8\f8974d00ca47cb242979af0f0552443b
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f8\f8974d00ca47cb242979af0f0552443b
+      projectPath: Library\metadata\f8\f8974d00ca47cb242979af0f0552443b
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+      projectPath: Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\metadata\f9\f9e87842e8e9c6a44b779d4f88a8a8ba
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f9\f9e87842e8e9c6a44b779d4f88a8a8ba
+      projectPath: Library\metadata\f9\f9e87842e8e9c6a44b779d4f88a8a8ba
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\f9\f9e87842e8e9c6a44b779d4f88a8a8ba.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f9\f9e87842e8e9c6a44b779d4f88a8a8ba.info
+      projectPath: Library\metadata\f9\f9e87842e8e9c6a44b779d4f88a8a8ba.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\fd\fd785334fbc9c1646a98919411b7b49f
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\fd\fd785334fbc9c1646a98919411b7b49f
+      projectPath: Library\metadata\fd\fd785334fbc9c1646a98919411b7b49f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\fd\fd785334fbc9c1646a98919411b7b49f.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\fd\fd785334fbc9c1646a98919411b7b49f.info
+      projectPath: Library\metadata\fd\fd785334fbc9c1646a98919411b7b49f.info
+      originalPath: NightmaZe\Library\metadata\bd\bd83a9a9b7924c94e956fb2b08ce5fd9.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\fd\fda76206f2894ff42a6e5d940c3e8402
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\fd\fda76206f2894ff42a6e5d940c3e8402
+      projectPath: Library\metadata\fd\fda76206f2894ff42a6e5d940c3e8402
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\fd\fda76206f2894ff42a6e5d940c3e8402.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\fd\fda76206f2894ff42a6e5d940c3e8402.info
+      projectPath: Library\metadata\fd\fda76206f2894ff42a6e5d940c3e8402.info
+      originalPath: NightmaZe\Library\metadata\d2\d270ee1f3d4405e429c0e7d53ae26d7b.info
+      status: 6
+      staged: 0
+    - path: NightmaZe\Library\metadata\fd\fdd943663c591924f85203151e6d6f4d
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\fd\fdd943663c591924f85203151e6d6f4d
+      projectPath: Library\metadata\fd\fdd943663c591924f85203151e6d6f4d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\fd\fdd943663c591924f85203151e6d6f4d.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\fd\fdd943663c591924f85203151e6d6f4d.info
+      projectPath: Library\metadata\fd\fdd943663c591924f85203151e6d6f4d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      originalPath: 
+      status: 4
+      staged: 0
   - commitID: 6d64efd119542cc36a338119b174d8f589cbc46c
     mergeA: 
     mergeB: 
