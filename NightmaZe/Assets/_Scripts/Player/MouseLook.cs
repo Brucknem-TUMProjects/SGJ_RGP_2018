@@ -12,6 +12,8 @@ public class MouseLook : MonoBehaviour {
 	public bool smooth;
 	public float smoothTime = 5f;
 
+	public Transform camPivot;
+
 	private Quaternion m_CharacterTargetRot;
 	private Quaternion m_CameraTargetRot;
 
@@ -19,6 +21,11 @@ public class MouseLook : MonoBehaviour {
 	{
 		m_CharacterTargetRot = character.localRotation;
 		m_CameraTargetRot = camera.localRotation;
+	}
+
+	void Update()
+	{
+		transform.position = camPivot.position;
 	}
 
 	public void LookRotation(Transform character, Transform camera)

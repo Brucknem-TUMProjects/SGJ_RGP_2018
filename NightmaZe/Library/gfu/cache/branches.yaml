@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-06-16T20:26:50.324+02:00
-  initializedAtString: 2018-06-16T18:58:51.212+02:00
+  lastUpdatedAtString: 2018-06-17T01:18:07.454+02:00
+  initializedAtString: 2018-06-17T01:12:45.690+02:00
   localBranches:
   - name: Marcel
     tracking: origin/Marcel
@@ -25,6 +25,8 @@ MonoBehaviour:
     tracking: origin/StartMenu
   remoteBranches:
   - name: origin/Akbar
+    tracking: '[None]'
+  - name: origin/JaegerSkills
     tracking: '[None]'
   - name: origin/Jeff
     tracking: '[None]'
@@ -77,6 +79,7 @@ MonoBehaviour:
     subKeys:
     - Values:
       - Akbar
+      - JaegerSkills
       - Jeff
       - Marcel
       - Marian
@@ -85,6 +88,11 @@ MonoBehaviour:
     subKeyValues:
     - Values:
       - name: Akbar
+        remote:
+          name: origin
+          url: https://github.com/Brucknem/SGJ_RGP_2018.git
+        trackingBranch: 
+      - name: JaegerSkills
         remote:
           name: origin
           url: https://github.com/Brucknem/SGJ_RGP_2018.git
