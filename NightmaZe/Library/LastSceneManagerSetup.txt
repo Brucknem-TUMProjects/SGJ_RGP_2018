@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Jeff.unity
+=======
+- path: Assets/Scenes/Marian.unity
+>>>>>>> Marian
   isLoaded: 1
   isActive: 1
