@@ -12,12 +12,51 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-06-17T01:20:10.674+02:00
   initializedAtString: 2018-06-17T01:12:38.757+02:00
   entries:
   - path: NightmaZe\Assets\Prefabs\Labyrinths\Level.prefab
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Labyrinths\Level.prefab
     projectPath: Assets\Prefabs\Labyrinths\Level.prefab
+=======
+  lastUpdatedAtString: 2018-06-17T01:42:22.417+02:00
+  initializedAtString: 2018-06-16T23:38:38.905+02:00
+  entries:
+  - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\NightmaZe\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\_Scripts\Player\Dreamer.cs
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Dreamer.cs
+    projectPath: Assets\_Scripts\Player\Dreamer.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\_Scripts\Player\Dreamer.cs.meta
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Dreamer.cs.meta
+    projectPath: Assets\_Scripts\Player\Dreamer.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\_Scripts\Player\Hunter.cs
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Hunter.cs
+    projectPath: Assets\_Scripts\Player\Hunter.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\_Scripts\Player\Hunter.cs.meta
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Hunter.cs.meta
+    projectPath: Assets\_Scripts\Player\Hunter.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\_Scripts\Player\Player.cs
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Player.cs
+    projectPath: Assets\_Scripts\Player\Player.cs
+>>>>>>> JaegerSkills
     originalPath: 
     status: 3
     staged: 0
@@ -39,6 +78,7 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Builds\Builds_Data\level0
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\level0
     projectPath: Builds\Builds_Data\level0
@@ -68,6 +108,13 @@ MonoBehaviour:
     projectPath: Builds\Builds_Data\sharedassets1.assets
     originalPath: 
     status: 3
+=======
+  - path: NightmaZe\Library\AnnotationManager
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\AnnotationManager
+    projectPath: Library\AnnotationManager
+    originalPath: 
+    status: 3
+>>>>>>> JaegerSkills
     staged: 0
   - path: NightmaZe\Library\assetDatabase3
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
@@ -75,6 +122,7 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\CurrentLayout.dwlt
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
     projectPath: Library\CurrentLayout.dwlt
@@ -83,6 +131,10 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\gfu\cache\branches.yaml
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+=======
+  - path: NightmaZe\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+>>>>>>> JaegerSkills
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     status: 3
@@ -94,7 +146,11 @@ MonoBehaviour:
     status: 3
     staged: 0
   - path: NightmaZe\Library\gfu\cache\gitlog.yaml
+<<<<<<< HEAD
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
+=======
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
+>>>>>>> JaegerSkills
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     status: 3
@@ -123,6 +179,7 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
     projectPath: Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
@@ -498,6 +555,11 @@ MonoBehaviour:
   - path: NightmaZe\Library\PlayerDataCache\ScriptLayoutHashes.txt
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\ScriptLayoutHashes.txt
     projectPath: Library\PlayerDataCache\ScriptLayoutHashes.txt
+=======
+  - path: NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
+    projectPath: Library\metadata\c9\c95a32533f53a0c4685009db3de09913
+>>>>>>> JaegerSkills
     originalPath: 
     status: 3
     staged: 0
@@ -513,6 +575,7 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
     projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
@@ -525,6 +588,8 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+=======
+>>>>>>> JaegerSkills
   - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
@@ -567,9 +632,21 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe7.log
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe7.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+=======
+  - path: NightmaZe\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\ProjectSettings\InputManager.asset
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+>>>>>>> JaegerSkills
     originalPath: 
     status: 3
     staged: 0
