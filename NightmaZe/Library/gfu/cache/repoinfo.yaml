@@ -12,13 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-<<<<<<< HEAD
-  lastUpdatedAtString: 2018-06-17T00:54:25.831+02:00
-  initializedAtString: 2018-06-16T23:31:31.898+02:00
-=======
-  lastUpdatedAtString: 2018-06-16T22:47:08.025+02:00
-  initializedAtString: 2018-06-16T22:47:08.025+02:00
->>>>>>> d69c809ed06653787d8de1531c40c0cb1bf67923
+  lastUpdatedAtString: 2018-06-17T01:17:41.299+02:00
+  initializedAtString: 2018-06-17T01:12:38.737+02:00
   currentGitRemote:
     name: origin
     url: https://github.com/Brucknem/SGJ_RGP_2018.git
@@ -28,7 +23,6 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-<<<<<<< HEAD
     name: master
     tracking: origin/master
   currentConfigBranch:
@@ -40,18 +34,4 @@ MonoBehaviour:
   currentConfigRemote:
     name: origin
     url: https://github.com/Brucknem/SGJ_RGP_2018.git
-  currentHead: 0dbf3a4
-=======
-    name: JaegerSkills
-    tracking: origin/JaegerSkills
-  currentConfigBranch:
-    name: JaegerSkills
-    remote:
-      name: origin
-      url: https://github.com/Brucknem/SGJ_RGP_2018.git
-    trackingBranch: JaegerSkills
-  currentConfigRemote:
-    name: origin
-    url: https://github.com/Brucknem/SGJ_RGP_2018.git
-  currentHead: 346b195
->>>>>>> d69c809ed06653787d8de1531c40c0cb1bf67923
+  currentHead: 870662e
