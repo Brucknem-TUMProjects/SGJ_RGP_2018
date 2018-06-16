@@ -6,8 +6,9 @@ using UnityEngine.UI;
 
 public class CustomNetworkManager : MonoBehaviour {
 
-    private static NetworkManager manager;
-    private static NetworkClient client;
+    private NetworkManager manager;
+    private NetworkClient client;
+    public InputField adress;
 
     public void Start()
     {
@@ -16,14 +17,15 @@ public class CustomNetworkManager : MonoBehaviour {
 
     public void CreateHost()
     {
+        manager.networkAddress = adress.text;
         client = manager.StartHost();
     }
 
-    private void CreateClient()
+    public void CreateClient()
     {
-        if(client != null)
-        {
+        
+            Debug.Log("Connecting");
+            manager.networkAddress = adress.text;
             manager.StartClient();
-        }
     }
 }
