@@ -8,11 +8,16 @@ public class PlayerAnimator : MonoBehaviour
     Player player;
     [SerializeField]
     Rigidbody rigid;
-    Animator anim;
+    [SerializeField]
+    GameObject hitBox;
 
     [Space]
     [SerializeField]
     float transitionSpeed;
+
+    public bool attacking { get; private set; }
+
+    Animator anim;
 
     // Use this for initialization
     void Awake()
@@ -48,5 +53,26 @@ public class PlayerAnimator : MonoBehaviour
     public void Jump()
     {
         anim.SetTrigger("Jump");
+    }
+
+    public void Punch()
+    {
+        if (hitBox == null)
+            return;
+
+        StartCoroutine(Punching());
+    }
+
+    IEnumerator Punching()
+    {
+        anim.SetTrigger("Punch");
+        attacking = true;
+        yield return new WaitForSeconds(1);
+
+        hitBox.SetActive(true);
+        while(anim.GetCurrentAnimatorClipInfo(0)[0].clip.name == "Punch")
+            yield return null;
+
+        attacking = false;
     }
 }
