@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-06-15T23:24:07.657+02:00
-  initializedAtString: 2018-06-15T23:22:32.353+02:00
+  lastUpdatedAtString: 2018-06-16T04:32:02.658+02:00
+  initializedAtString: 2018-06-16T04:32:02.658+02:00
   currentGitRemote:
     name: origin
     url: https://github.com/Brucknem/SGJ_RGP_2018.git
@@ -23,15 +23,15 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: origin/master
+    name: Marcel
+    tracking: origin/Marcel
   currentConfigBranch:
-    name: master
+    name: Marcel
     remote:
       name: origin
       url: https://github.com/Brucknem/SGJ_RGP_2018.git
-    trackingBranch: master
+    trackingBranch: Marcel
   currentConfigRemote:
     name: origin
     url: https://github.com/Brucknem/SGJ_RGP_2018.git
-  currentHead: b48532c
+  currentHead: 04b5914
