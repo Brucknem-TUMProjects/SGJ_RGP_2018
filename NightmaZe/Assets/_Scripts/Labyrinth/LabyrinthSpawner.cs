@@ -5,6 +5,8 @@ using UnityEngine.Networking;
 
 public class LabyrinthSpawner : NetworkBehaviour {
 
+    private static short playerId = 0;
+
     private Labyrinth labyrinth;
     private GameObject[,] field;
 
@@ -22,12 +24,17 @@ public class LabyrinthSpawner : NetworkBehaviour {
     public GameObject dynamicTrap;
     public GameObject key;
 
+    [SyncVar]
+    private int seed = new System.Random().Next(0, 10000);
+
     // Use this for initialization
 
-    public override void OnStartServer()
+    //public override void OnStartServer()
+    private void Start()
     {
-        labyrinth = new Labyrinth();
+        labyrinth = new Labyrinth(seed);
         Create();
+        ClientScene.AddPlayer(playerId++);
     }
     
     //Initialization methods
@@ -69,16 +76,15 @@ public class LabyrinthSpawner : NetworkBehaviour {
                         position.y = 0;
                         break;
                 }
-                position.y *= tileSize;
 
-                NetworkServer.Spawn(tile);
+                position.y *= tileSize;
                 tile.transform.position = position;
                 tile.transform.localScale = Vector3.one * tileSize ;
-                SyncScaleRotation t = tile.GetComponent<SyncScaleRotation>();
-                t.rotation = tile.transform.rotation;
-                t.scale = tile.transform.localScale;
+                //SyncScaleRotation t = tile.GetComponent<SyncScaleRotation>();
+                //t.rotation = tile.transform.rotation;
+                //t.scale = tile.transform.localScale;
                
-                NetworkServer.Spawn(tile);
+                //NetworkServer.Spawn(tile);
             }
         }
     }

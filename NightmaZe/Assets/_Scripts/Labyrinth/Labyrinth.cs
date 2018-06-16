@@ -21,8 +21,9 @@ public class Labyrinth
     // keine Anregungen fuer die Umsetzung des Projekts bieten, sondern
     // dient ausschliesslich der Labyrintherzeugung.
 
-    public Labyrinth()
+    public Labyrinth(int seed)
     {
+        random = new System.Random(seed);
         Init(1); 
     }
 
@@ -31,7 +32,7 @@ public class Labyrinth
         WALL, ENTRY, EXIT, STATIC_TRAP, DYNAMIC_TRAP, KEY, FREE, SPAWN
     }
 
-    private static System.Random random = new System.Random();
+    private static System.Random random;
 
     public class Properties
     {
