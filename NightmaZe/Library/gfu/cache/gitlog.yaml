@@ -12,9 +12,75 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-06-16T14:20:40.490+02:00
-  initializedAtString: 2018-06-16T13:54:46.475+02:00
+  lastUpdatedAtString: 2018-06-16T14:36:06.138+02:00
+  initializedAtString: 2018-06-16T14:36:06.138+02:00
   log:
+  - commitID: 5663307bbb9a07f2e09fcaf3a537367107924041
+    mergeA: 
+    mergeB: 
+    authorName: Jeff-Owens Iyalekhue
+    authorEmail: j.oiyalekhue@hotmail.de
+    commitEmail: j.oiyalekhue@hotmail.de
+    commitName: Jeff-Owens Iyalekhue
+    summary: minor update of last commit
+    description: minor update of last commit
+    timeString: 2018-06-16T14:21:31.000+02:00
+    commitTimeString: 2018-06-16T14:21:31.000+02:00
+    changes:
+    - path: NightmaZe\Assets\Scenes\Menu.unity
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Menu.unity
+      projectPath: Assets\Scenes\Menu.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\assetDatabase3
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: eae16b09c7257199824d51e906e3926f92639a92
     mergeA: 
     mergeB: 
