@@ -251,13 +251,7 @@ public class Player : MonoBehaviour
 		// Nice to have: Check if proning is possible! (?)
 		return true;
 	}
-
-	void CheckLife()
-	{
-		if (GameData.Instance.Health <= 0)
-			Death();
-	}
-
+    
 	// FixedUpdate/Physics methods
 	void Jump()
 	{

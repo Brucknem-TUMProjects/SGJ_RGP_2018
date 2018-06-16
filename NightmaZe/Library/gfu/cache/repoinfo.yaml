@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-06-16T18:16:30.623+02:00
-  initializedAtString: 2018-06-16T18:16:30.623+02:00
+  lastUpdatedAtString: 2018-06-16T18:30:39.373+02:00
+  initializedAtString: 2018-06-16T18:30:39.373+02:00
   currentGitRemote:
     name: origin
     url: https://github.com/Brucknem/SGJ_RGP_2018.git
@@ -34,4 +34,4 @@ MonoBehaviour:
   currentConfigRemote:
     name: origin
     url: https://github.com/Brucknem/SGJ_RGP_2018.git
-  currentHead: ab63ac8
+  currentHead: 9597262

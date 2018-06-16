@@ -12,6 +12,140 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 0001-01-01T00:00:00.000+00:00
-  initializedAtString: 0001-01-01T00:00:00.000+00:00
-  entries: []
+  lastUpdatedAtString: 2018-06-16T18:30:45.857+02:00
+  initializedAtString: 2018-06-16T18:30:39.405+02:00
+  entries:
+  - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\NightmaZe\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\Prefabs\Network\Network Manager.prefab
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Network\Network
+      Manager.prefab
+    projectPath: Assets\Prefabs\Network\Network Manager.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\Prefabs\Network\Network Manager.prefab.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Network\Network
+      Manager.prefab.meta
+    projectPath: Assets\Prefabs\Network\Network Manager.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\Scenes\Menu.unity
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Menu.unity
+    projectPath: Assets\Scenes\Menu.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\Scenes\Offline.unity
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Offline.unity
+    projectPath: Assets\Scenes\Offline.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\Scripts\GameData.cs
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scripts\GameData.cs
+    projectPath: Assets\Scripts\GameData.cs
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Assets\Scripts\GameData.cs.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scripts\GameData.cs.meta
+    projectPath: Assets\Scripts\GameData.cs.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Assets\Scripts\Player.cs
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scripts\Player.cs
+    projectPath: Assets\Scripts\Player.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\assetDatabase3
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\gfu\cache\branches.yaml
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\gfu\cache\gitlog.yaml
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\27\27cdb2c9f839e0e459b3f57507aff0d0
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\27\27cdb2c9f839e0e459b3f57507aff0d0
+    projectPath: Library\metadata\27\27cdb2c9f839e0e459b3f57507aff0d0
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\27\27cdb2c9f839e0e459b3f57507aff0d0.info
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\27\27cdb2c9f839e0e459b3f57507aff0d0.info
+    projectPath: Library\metadata\27\27cdb2c9f839e0e459b3f57507aff0d0.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
+    projectPath: Library\metadata\c9\c95a32533f53a0c4685009db3de09913
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
