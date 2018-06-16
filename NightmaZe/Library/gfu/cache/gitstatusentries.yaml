@@ -12,76 +12,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-06-16T14:18:09.003+02:00
+  lastUpdatedAtString: 2018-06-16T14:20:42.641+02:00
   initializedAtString: 2018-06-16T12:03:44.058+02:00
   entries:
-  - path: NightmaZe\Assets\Art\ButtonPNG.png
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\ButtonPNG.png
-    projectPath: Assets\Art\ButtonPNG.png
+  - path: NightmaZe\Assets\Scenes\Menu.unity
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Menu.unity
+    projectPath: Assets\Scenes\Menu.unity
     originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Art\ButtonPNG.png.meta
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\ButtonPNG.png.meta
-    projectPath: Assets\Art\ButtonPNG.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Art\Fonts.meta
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\Fonts.meta
-    projectPath: Assets\Art\Fonts.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Art\Fonts\Font2.meta
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\Fonts\Font2.meta
-    projectPath: Assets\Art\Fonts\Font2.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Art\Fonts\Font2\Gypsy Curse.ttf
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\Fonts\Font2\Gypsy
-      Curse.ttf
-    projectPath: Assets\Art\Fonts\Font2\Gypsy Curse.ttf
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Art\Fonts\Font2\Gypsy Curse.ttf.meta
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\Fonts\Font2\Gypsy
-      Curse.ttf.meta
-    projectPath: Assets\Art\Fonts\Font2\Gypsy Curse.ttf.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Art\Fonts\Font2\Gypsy_Curse_Font_Info_and_ReadMe.txt
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\Fonts\Font2\Gypsy_Curse_Font_Info_and_ReadMe.txt
-    projectPath: Assets\Art\Fonts\Font2\Gypsy_Curse_Font_Info_and_ReadMe.txt
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Art\Fonts\Font2\Gypsy_Curse_Font_Info_and_ReadMe.txt.meta
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\Fonts\Font2\Gypsy_Curse_Font_Info_and_ReadMe.txt.meta
-    projectPath: Assets\Art\Fonts\Font2\Gypsy_Curse_Font_Info_and_ReadMe.txt.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Art\nightmaze_base.png
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\nightmaze_base.png
-    projectPath: Assets\Art\nightmaze_base.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Art\nightmaze_base.png.meta
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\nightmaze_base.png.meta
-    projectPath: Assets\Art\nightmaze_base.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Art\nightmaze_base.png~
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\nightmaze_base.png~
-    projectPath: Assets\Art\nightmaze_base.png~
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: NightmaZe\Library\assetDatabase3
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
@@ -89,21 +27,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: NightmaZe\Library\CurrentLayout.dwlt
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
-    projectPath: Library\CurrentLayout.dwlt
-    originalPath: 
-    status: 3
-    staged: 0
   - path: NightmaZe\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: NightmaZe\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -131,27 +57,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: NightmaZe\Library\metadata\70\702b19710d372f345b4e8584491a020b
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\70\702b19710d372f345b4e8584491a020b
-    projectPath: Library\metadata\70\702b19710d372f345b4e8584491a020b
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: NightmaZe\Library\metadata\70\702b19710d372f345b4e8584491a020b.info
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\70\702b19710d372f345b4e8584491a020b.info
-    projectPath: Library\metadata\70\702b19710d372f345b4e8584491a020b.info
-    originalPath: 
-    status: 3
-    staged: 0
   - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: NightmaZe\ProjectSettings\EditorBuildSettings.asset
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
     originalPath: 
     status: 3
     staged: 0
