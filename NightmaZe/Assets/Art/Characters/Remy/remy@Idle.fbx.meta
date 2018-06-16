@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5c051d5fe791d514db07d1c462071926
+guid: 2ab93e4e367212a48b23e7be11e26e56
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -139,7 +139,7 @@ ModelImporter:
     400130: mixamorig:Spine1
     400132: mixamorig:Spine2
     400134: //RootNode
-    7400000: Prone Forward
+    7400000: Idle
     9500000: //RootNode
   externalObjects: {}
   materials:
@@ -170,10 +170,10 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Prone Forward
+      name: Idle
       takeName: mixamo.com
       firstFrame: 0
-      lastFrame: 46
+      lastFrame: 59
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
