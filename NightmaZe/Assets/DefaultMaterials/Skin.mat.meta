@@ -1,14 +1,8 @@
 fileFormatVersion: 2
-<<<<<<< HEAD:NightmaZe/Assets/Sounds/Music.meta
-guid: 2eb20127cc34c7c4fad378c822ff5701
-folderAsset: yes
-DefaultImporter:
-=======
-guid: 21951919a3079e94da6a3644ca351ec6
+guid: cf9ebf63fd66ea34c8ea48d12a62f7da
 NativeFormatImporter:
->>>>>>> Marian:NightmaZe/Assets/DefaultMaterials/Skin.mat.meta
   externalObjects: {}
-  mainObjectFileID: 2100000
+  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

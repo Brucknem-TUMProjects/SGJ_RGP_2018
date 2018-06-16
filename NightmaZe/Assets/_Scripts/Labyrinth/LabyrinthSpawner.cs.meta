@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5a1f78e99d02ae2478fc7db36365ba90
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - free: {instanceID: 0}
+  - wall: {instanceID: 0}
+  - entry: {instanceID: 0}
+  - exit: {instanceID: 0}
+  - staticTrap: {instanceID: 0}
+  - dynamicTrap: {fileID: 1024088785659344, guid: fdd943663c591924f85203151e6d6f4d,
+      type: 2}
+  - key: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

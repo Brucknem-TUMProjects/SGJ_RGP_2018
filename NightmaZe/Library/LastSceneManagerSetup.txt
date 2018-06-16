@@ -1,8 +1,12 @@
 sceneSetups:
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/Jeff.unity
 =======
 - path: Assets/Scenes/Marian.unity
 >>>>>>> Marian
+=======
+- path: Assets/Scenes/Offline.unity
+>>>>>>> Marcel
   isLoaded: 1
   isActive: 1
