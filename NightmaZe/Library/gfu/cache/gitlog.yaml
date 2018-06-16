@@ -12,9 +12,123 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-06-16T10:51:37.734+02:00
-  initializedAtString: 2018-06-16T09:05:54.345+02:00
+  lastUpdatedAtString: 2018-06-16T13:54:52.631+02:00
+  initializedAtString: 2018-06-16T13:54:46.475+02:00
   log:
+  - commitID: 08bd1e1e646e6c1dfced40d3228718059839e219
+    mergeA: 
+    mergeB: 
+    authorName: Jeff-Owens Iyalekhue
+    authorEmail: j.oiyalekhue@hotmail.de
+    commitEmail: j.oiyalekhue@hotmail.de
+    commitName: Jeff-Owens Iyalekhue
+    summary: gitignore modified
+    description: gitignore modified
+    timeString: 2018-06-16T11:19:37.000+02:00
+    commitTimeString: 2018-06-16T11:19:37.000+02:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
+      projectPath: .vs\NightmaZe\v15\Server\sqlite3\storage.ide
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide-shm
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\NightmaZe\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide-wal
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\NightmaZe\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\Scenes\Menu.unity
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Menu.unity
+      projectPath: Assets\Scenes\Menu.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\LastSceneManagerSetup.txt
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\assetDatabase3
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\metadata\54\54369410a463499418afaa4ecbb6399d.info
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\54\54369410a463499418afaa4ecbb6399d.info
+      projectPath: Library\metadata\54\54369410a463499418afaa4ecbb6399d.info
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\a6\a6644b7cdd6f43949b36dab7df4a0e6c.info
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\a6\a6644b7cdd6f43949b36dab7df4a0e6c.info
+      projectPath: Library\metadata\a6\a6644b7cdd6f43949b36dab7df4a0e6c.info
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: c9e91c5ac94c51ba2efe21900dfe8e7128cb8550
     mergeA: 
     mergeB: 

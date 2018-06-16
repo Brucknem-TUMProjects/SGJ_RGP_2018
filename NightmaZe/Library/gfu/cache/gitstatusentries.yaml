@@ -12,38 +12,76 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-06-16T11:02:12.372+02:00
-  initializedAtString: 2018-06-16T09:05:54.427+02:00
+  lastUpdatedAtString: 2018-06-16T14:18:09.003+02:00
+  initializedAtString: 2018-06-16T12:03:44.058+02:00
   entries:
-  - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\db.lock
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\db.lock
-    projectPath: .vs\NightmaZe\v15\Server\sqlite3\db.lock
+  - path: NightmaZe\Assets\Art\ButtonPNG.png
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\ButtonPNG.png
+    projectPath: Assets\Art\ButtonPNG.png
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
-    projectPath: .vs\NightmaZe\v15\Server\sqlite3\storage.ide
+  - path: NightmaZe\Assets\Art\ButtonPNG.png.meta
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\ButtonPNG.png.meta
+    projectPath: Assets\Art\ButtonPNG.png.meta
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide-shm
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide-shm
-    projectPath: .vs\NightmaZe\v15\Server\sqlite3\storage.ide-shm
+  - path: NightmaZe\Assets\Art\Fonts.meta
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\Fonts.meta
+    projectPath: Assets\Art\Fonts.meta
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide-wal
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide-wal
-    projectPath: .vs\NightmaZe\v15\Server\sqlite3\storage.ide-wal
+  - path: NightmaZe\Assets\Art\Fonts\Font2.meta
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\Fonts\Font2.meta
+    projectPath: Assets\Art\Fonts\Font2.meta
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: NightmaZe\Assets\Scenes\Menu.unity
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Menu.unity
-    projectPath: Assets\Scenes\Menu.unity
+  - path: NightmaZe\Assets\Art\Fonts\Font2\Gypsy Curse.ttf
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\Fonts\Font2\Gypsy
+      Curse.ttf
+    projectPath: Assets\Art\Fonts\Font2\Gypsy Curse.ttf
     originalPath: 
-    status: 3
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\Art\Fonts\Font2\Gypsy Curse.ttf.meta
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\Fonts\Font2\Gypsy
+      Curse.ttf.meta
+    projectPath: Assets\Art\Fonts\Font2\Gypsy Curse.ttf.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\Art\Fonts\Font2\Gypsy_Curse_Font_Info_and_ReadMe.txt
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\Fonts\Font2\Gypsy_Curse_Font_Info_and_ReadMe.txt
+    projectPath: Assets\Art\Fonts\Font2\Gypsy_Curse_Font_Info_and_ReadMe.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\Art\Fonts\Font2\Gypsy_Curse_Font_Info_and_ReadMe.txt.meta
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\Fonts\Font2\Gypsy_Curse_Font_Info_and_ReadMe.txt.meta
+    projectPath: Assets\Art\Fonts\Font2\Gypsy_Curse_Font_Info_and_ReadMe.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\Art\nightmaze_base.png
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\nightmaze_base.png
+    projectPath: Assets\Art\nightmaze_base.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\Art\nightmaze_base.png.meta
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\nightmaze_base.png.meta
+    projectPath: Assets\Art\nightmaze_base.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\Art\nightmaze_base.png~
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\nightmaze_base.png~
+    projectPath: Assets\Art\nightmaze_base.png~
+    originalPath: 
+    status: 1
     staged: 0
   - path: NightmaZe\Library\assetDatabase3
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
@@ -51,17 +89,17 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: NightmaZe\Library\CrashedAssetImports.txt
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\CrashedAssetImports.txt
-    projectPath: Library\CrashedAssetImports.txt
+  - path: NightmaZe\Library\CurrentLayout.dwlt
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: NightmaZe\Library\EditorInstance.json
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
+  - path: NightmaZe\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: NightmaZe\Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
@@ -93,17 +131,17 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: NightmaZe\Library\metadata\54\54369410a463499418afaa4ecbb6399d.info
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\54\54369410a463499418afaa4ecbb6399d.info
-    projectPath: Library\metadata\54\54369410a463499418afaa4ecbb6399d.info
+  - path: NightmaZe\Library\metadata\70\702b19710d372f345b4e8584491a020b
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\70\702b19710d372f345b4e8584491a020b
+    projectPath: Library\metadata\70\702b19710d372f345b4e8584491a020b
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
-  - path: NightmaZe\Library\metadata\a6\a6644b7cdd6f43949b36dab7df4a0e6c.info
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\a6\a6644b7cdd6f43949b36dab7df4a0e6c.info
-    projectPath: Library\metadata\a6\a6644b7cdd6f43949b36dab7df4a0e6c.info
+  - path: NightmaZe\Library\metadata\70\702b19710d372f345b4e8584491a020b.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\70\702b19710d372f345b4e8584491a020b.info
+    projectPath: Library\metadata\70\702b19710d372f345b4e8584491a020b.info
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
   - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
@@ -111,51 +149,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+  - path: NightmaZe\ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
     originalPath: 
     status: 3
-    staged: 0
-  - path: NightmaZe\Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Temp\ProcessJobs\47de52777078f98a5e7a9f91688b9f90.bakert
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Temp\ProcessJobs\47de52777078f98a5e7a9f91688b9f90.bakert
-    projectPath: Temp\ProcessJobs\47de52777078f98a5e7a9f91688b9f90.bakert
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Temp\UnityLockfile
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Temp\UnityTempFile-2df35b65d9c3125409fc7faf060dcf7b
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Temp\UnityTempFile-2df35b65d9c3125409fc7faf060dcf7b
-    projectPath: Temp\UnityTempFile-2df35b65d9c3125409fc7faf060dcf7b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Temp\UnityTempFile-36baca750513d9a449e46c2e7399c939
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Temp\UnityTempFile-36baca750513d9a449e46c2e7399c939
-    projectPath: Temp\UnityTempFile-36baca750513d9a449e46c2e7399c939
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Temp\UnityTempFile-a119e9f665431bc44846748dbb7d9893
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Temp\UnityTempFile-a119e9f665431bc44846748dbb7d9893
-    projectPath: Temp\UnityTempFile-a119e9f665431bc44846748dbb7d9893
-    originalPath: 
-    status: 1
     staged: 0
