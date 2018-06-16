@@ -12,33 +12,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-06-16T11:02:12.372+02:00
-  initializedAtString: 2018-06-16T09:05:54.427+02:00
+  lastUpdatedAtString: 2018-06-16T14:20:42.641+02:00
+  initializedAtString: 2018-06-16T12:03:44.058+02:00
   entries:
-  - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\db.lock
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\db.lock
-    projectPath: .vs\NightmaZe\v15\Server\sqlite3\db.lock
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
-    projectPath: .vs\NightmaZe\v15\Server\sqlite3\storage.ide
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide-shm
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide-shm
-    projectPath: .vs\NightmaZe\v15\Server\sqlite3\storage.ide-shm
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide-wal
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide-wal
-    projectPath: .vs\NightmaZe\v15\Server\sqlite3\storage.ide-wal
-    originalPath: 
-    status: 3
-    staged: 0
   - path: NightmaZe\Assets\Scenes\Menu.unity
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Menu.unity
     projectPath: Assets\Scenes\Menu.unity
@@ -51,21 +27,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: NightmaZe\Library\CrashedAssetImports.txt
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\CrashedAssetImports.txt
-    projectPath: Library\CrashedAssetImports.txt
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Library\EditorInstance.json
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
+  - path: NightmaZe\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -93,69 +57,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: NightmaZe\Library\metadata\54\54369410a463499418afaa4ecbb6399d.info
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\54\54369410a463499418afaa4ecbb6399d.info
-    projectPath: Library\metadata\54\54369410a463499418afaa4ecbb6399d.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: NightmaZe\Library\metadata\a6\a6644b7cdd6f43949b36dab7df4a0e6c.info
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\a6\a6644b7cdd6f43949b36dab7df4a0e6c.info
-    projectPath: Library\metadata\a6\a6644b7cdd6f43949b36dab7df4a0e6c.info
-    originalPath: 
-    status: 5
-    staged: 0
   - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     status: 3
-    staged: 0
-  - path: NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: NightmaZe\Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Temp\ProcessJobs\47de52777078f98a5e7a9f91688b9f90.bakert
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Temp\ProcessJobs\47de52777078f98a5e7a9f91688b9f90.bakert
-    projectPath: Temp\ProcessJobs\47de52777078f98a5e7a9f91688b9f90.bakert
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Temp\UnityLockfile
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Temp\UnityTempFile-2df35b65d9c3125409fc7faf060dcf7b
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Temp\UnityTempFile-2df35b65d9c3125409fc7faf060dcf7b
-    projectPath: Temp\UnityTempFile-2df35b65d9c3125409fc7faf060dcf7b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Temp\UnityTempFile-36baca750513d9a449e46c2e7399c939
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Temp\UnityTempFile-36baca750513d9a449e46c2e7399c939
-    projectPath: Temp\UnityTempFile-36baca750513d9a449e46c2e7399c939
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Temp\UnityTempFile-a119e9f665431bc44846748dbb7d9893
-    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Temp\UnityTempFile-a119e9f665431bc44846748dbb7d9893
-    projectPath: Temp\UnityTempFile-a119e9f665431bc44846748dbb7d9893
-    originalPath: 
-    status: 1
     staged: 0
