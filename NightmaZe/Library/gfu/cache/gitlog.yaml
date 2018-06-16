@@ -12,9 +12,1317 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-06-16T20:26:51.543+02:00
-  initializedAtString: 2018-06-16T18:58:52.133+02:00
+  lastUpdatedAtString: 2018-06-17T00:42:27.994+02:00
+  initializedAtString: 2018-06-16T23:34:08.720+02:00
   log:
+  - commitID: 0dbf3a4265559e61d3722678e70525898e310f6c
+    mergeA: a1b47e090e6b69119b38709744c7200be33f2a99
+    mergeB: 2b55d27e03fd180afb8e22ff27a4478f86bf4715
+    authorName: Brucknem
+    authorEmail: mbruckner94@gmail.com
+    commitEmail: mbruckner94@gmail.com
+    commitName: Brucknem
+    summary: Merge branch 'master' of https://github.com/Brucknem/SGJ_RGP_2018
+    description: Merge branch 'master' of https://github.com/Brucknem/SGJ_RGP_2018
+    timeString: 2018-06-16T20:46:54.000+02:00
+    commitTimeString: 2018-06-16T20:46:54.000+02:00
+    changes: []
+  - commitID: a1b47e090e6b69119b38709744c7200be33f2a99
+    mergeA: 
+    mergeB: 
+    authorName: Brucknem
+    authorEmail: mbruckner94@gmail.com
+    commitEmail: mbruckner94@gmail.com
+    commitName: Brucknem
+    summary: StartMenu
+    description: StartMenu
+    timeString: 2018-06-16T20:43:35.000+02:00
+    commitTimeString: 2018-06-16T20:43:35.000+02:00
+    changes:
+    - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
+      projectPath: .vs\NightmaZe\v15\Server\sqlite3\storage.ide
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\Art\UI Sprites\UI_Background.jpg
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\UI Sprites\UI_Background.jpg
+      projectPath: Assets\Art\UI Sprites\UI_Background.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\UI Sprites\UI_Background.jpg.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\UI Sprites\UI_Background.jpg.meta
+      projectPath: Assets\Art\UI Sprites\UI_Background.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Fonts.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts.meta
+      projectPath: Assets\Fonts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Fonts\OpenSans.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans.meta
+      projectPath: Assets\Fonts\OpenSans.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Fonts\OpenSans\License!.txt
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\License!.txt
+      projectPath: Assets\Fonts\OpenSans\License!.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Fonts\OpenSans\License!.txt.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\License!.txt.meta
+      projectPath: Assets\Fonts\OpenSans\License!.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Fonts\OpenSans\OpenSansBold.ttf
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\OpenSansBold.ttf
+      projectPath: Assets\Fonts\OpenSans\OpenSansBold.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Fonts\OpenSans\OpenSansBold.ttf.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\OpenSansBold.ttf.meta
+      projectPath: Assets\Fonts\OpenSans\OpenSansBold.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Fonts\OpenSans\OpenSansLight.ttf
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\OpenSansLight.ttf
+      projectPath: Assets\Fonts\OpenSans\OpenSansLight.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Fonts\OpenSans\OpenSansLight.ttf.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\OpenSansLight.ttf.meta
+      projectPath: Assets\Fonts\OpenSans\OpenSansLight.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Fonts\OpenSans\OpenSansRegular.ttf
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\OpenSansRegular.ttf
+      projectPath: Assets\Fonts\OpenSans\OpenSansRegular.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Fonts\OpenSans\OpenSansRegular.ttf.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\OpenSansRegular.ttf.meta
+      projectPath: Assets\Fonts\OpenSans\OpenSansRegular.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Fonts\OpenSans\OpenSansSemibold.ttf
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\OpenSansSemibold.ttf
+      projectPath: Assets\Fonts\OpenSans\OpenSansSemibold.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Fonts\OpenSans\OpenSansSemibold.ttf.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\OpenSansSemibold.ttf.meta
+      projectPath: Assets\Fonts\OpenSans\OpenSansSemibold.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby.meta
+      projectPath: Assets\Lobby.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Documentation.txt
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Documentation.txt
+      projectPath: Assets\Lobby\Documentation.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Documentation.txt.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Documentation.txt.meta
+      projectPath: Assets\Lobby\Documentation.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Instruction.txt
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Instruction.txt
+      projectPath: Assets\Lobby\Instruction.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Instruction.txt.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Instruction.txt.meta
+      projectPath: Assets\Lobby\Instruction.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Prefabs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs.meta
+      projectPath: Assets\Lobby\Prefabs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Prefabs\LobbyManager.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\LobbyManager.prefab
+      projectPath: Assets\Lobby\Prefabs\LobbyManager.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Prefabs\LobbyManager.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\LobbyManager.prefab.meta
+      projectPath: Assets\Lobby\Prefabs\LobbyManager.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Prefabs\NewIcons.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\NewIcons.prefab
+      projectPath: Assets\Lobby\Prefabs\NewIcons.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Prefabs\NewIcons.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\NewIcons.prefab.meta
+      projectPath: Assets\Lobby\Prefabs\NewIcons.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Prefabs\PlayerInfo.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\PlayerInfo.prefab
+      projectPath: Assets\Lobby\Prefabs\PlayerInfo.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Prefabs\PlayerInfo.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\PlayerInfo.prefab.meta
+      projectPath: Assets\Lobby\Prefabs\PlayerInfo.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Prefabs\ServerInfoEntry.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\ServerInfoEntry.prefab
+      projectPath: Assets\Lobby\Prefabs\ServerInfoEntry.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Prefabs\ServerInfoEntry.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\ServerInfoEntry.prefab.meta
+      projectPath: Assets\Lobby\Prefabs\ServerInfoEntry.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Prefabs\ServerNameGroup.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\ServerNameGroup.prefab
+      projectPath: Assets\Lobby\Prefabs\ServerNameGroup.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Prefabs\ServerNameGroup.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\ServerNameGroup.prefab.meta
+      projectPath: Assets\Lobby\Prefabs\ServerNameGroup.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts.meta
+      projectPath: Assets\Lobby\Scripts.meta
+      originalPath: NightmaZe\Assets\Scripts.meta
+      status: 6
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\DraggablePanel.cs
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\DraggablePanel.cs
+      projectPath: Assets\Lobby\Scripts\DraggablePanel.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\DraggablePanel.cs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\DraggablePanel.cs.meta
+      projectPath: Assets\Lobby\Scripts\DraggablePanel.cs.meta
+      originalPath: NightmaZe\Assets\_Scripts\OfflineScreen\CenterNetworkManager.cs.meta
+      status: 6
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\EventSystemChecker.cs
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\EventSystemChecker.cs
+      projectPath: Assets\Lobby\Scripts\EventSystemChecker.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\EventSystemChecker.cs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\EventSystemChecker.cs.meta
+      projectPath: Assets\Lobby\Scripts\EventSystemChecker.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby.meta
+      projectPath: Assets\Lobby\Scripts\Lobby.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyCountdownPanel.cs
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyCountdownPanel.cs
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyCountdownPanel.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyCountdownPanel.cs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyCountdownPanel.cs.meta
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyCountdownPanel.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyHook.cs
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyHook.cs
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyHook.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyHook.cs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyHook.cs.meta
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyHook.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyInfoPanel.cs
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyInfoPanel.cs
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyInfoPanel.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyInfoPanel.cs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyInfoPanel.cs.meta
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyInfoPanel.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyMainMenu.cs
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyMainMenu.cs
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyMainMenu.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyMainMenu.cs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyMainMenu.cs.meta
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyMainMenu.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyManager.cs
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyManager.cs
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyManager.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyManager.cs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyManager.cs.meta
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyManager.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyPlayer.cs
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyPlayer.cs
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyPlayer.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyPlayer.cs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyPlayer.cs.meta
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyPlayer.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyPlayerList.cs
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyPlayerList.cs
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyPlayerList.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyPlayerList.cs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyPlayerList.cs.meta
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyPlayerList.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyServerEntry.cs
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyServerEntry.cs
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyServerEntry.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyServerEntry.cs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyServerEntry.cs.meta
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyServerEntry.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyServerList.cs
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyServerList.cs
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyServerList.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyServerList.cs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyServerList.cs.meta
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyServerList.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyTopPanel.cs
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyTopPanel.cs
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyTopPanel.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyTopPanel.cs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyTopPanel.cs.meta
+      projectPath: Assets\Lobby\Scripts\Lobby\LobbyTopPanel.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Sprites.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites.meta
+      projectPath: Assets\Lobby\Sprites.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Sprites\AddSprite.png
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\AddSprite.png
+      projectPath: Assets\Lobby\Sprites\AddSprite.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Sprites\AddSprite.png.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\AddSprite.png.meta
+      projectPath: Assets\Lobby\Sprites\AddSprite.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Sprites\ButtonSprite.png
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\ButtonSprite.png
+      projectPath: Assets\Lobby\Sprites\ButtonSprite.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Sprites\ButtonSprite.png.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\ButtonSprite.png.meta
+      projectPath: Assets\Lobby\Sprites\ButtonSprite.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Sprites\InfoPanelSprite.png
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\InfoPanelSprite.png
+      projectPath: Assets\Lobby\Sprites\InfoPanelSprite.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Sprites\InfoPanelSprite.png.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\InfoPanelSprite.png.meta
+      projectPath: Assets\Lobby\Sprites\InfoPanelSprite.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Sprites\InputFieldSprite.png
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\InputFieldSprite.png
+      projectPath: Assets\Lobby\Sprites\InputFieldSprite.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Sprites\InputFieldSprite.png.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\InputFieldSprite.png.meta
+      projectPath: Assets\Lobby\Sprites\InputFieldSprite.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Sprites\LocalSprite.png
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\LocalSprite.png
+      projectPath: Assets\Lobby\Sprites\LocalSprite.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Sprites\LocalSprite.png.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\LocalSprite.png.meta
+      projectPath: Assets\Lobby\Sprites\LocalSprite.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Sprites\RemoteSprite.png
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\RemoteSprite.png
+      projectPath: Assets\Lobby\Sprites\RemoteSprite.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Sprites\RemoteSprite.png.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\RemoteSprite.png.meta
+      projectPath: Assets\Lobby\Sprites\RemoteSprite.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Sprites\RemoveSprite.png
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\RemoveSprite.png
+      projectPath: Assets\Lobby\Sprites\RemoveSprite.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Lobby\Sprites\RemoveSprite.png.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\RemoveSprite.png.meta
+      projectPath: Assets\Lobby\Sprites\RemoveSprite.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\UI\MenuPanel.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\UI\MenuPanel.prefab
+      projectPath: Assets\Prefabs\UI\MenuPanel.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\UI\MenuPanel.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\UI\MenuPanel.prefab.meta
+      projectPath: Assets\Prefabs\UI\MenuPanel.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\UI\MusicManager.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\UI\MusicManager.prefab
+      projectPath: Assets\Prefabs\UI\MusicManager.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\UI\MusicManager.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\UI\MusicManager.prefab.meta
+      projectPath: Assets\Prefabs\UI\MusicManager.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Scenes\Menu.unity
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Menu.unity
+      projectPath: Assets\Scenes\Menu.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\OfflineScreen\CenterNetworkManager.cs
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\OfflineScreen\CenterNetworkManager.cs
+      projectPath: Assets\_Scripts\OfflineScreen\CenterNetworkManager.cs
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\OfflineScreen\CustomNetworkManager.cs
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\OfflineScreen\CustomNetworkManager.cs
+      projectPath: Assets\_Scripts\OfflineScreen\CustomNetworkManager.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\Player\MouseLook.cs
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\MouseLook.cs
+      projectPath: Assets\_Scripts\Player\MouseLook.cs
+      originalPath: NightmaZe\Assets\Scripts\MouseLook.cs
+      status: 6
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\Player\MouseLook.cs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\MouseLook.cs.meta
+      projectPath: Assets\_Scripts\Player\MouseLook.cs.meta
+      originalPath: NightmaZe\Assets\Scripts\MouseLook.cs.meta
+      status: 6
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\Player\Player.cs
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Player.cs
+      projectPath: Assets\_Scripts\Player\Player.cs
+      originalPath: NightmaZe\Assets\Scripts\Player.cs
+      status: 6
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\Player\Player.cs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Player.cs.meta
+      projectPath: Assets\_Scripts\Player\Player.cs.meta
+      originalPath: NightmaZe\Assets\Scripts\Player.cs.meta
+      status: 6
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\Player\PlayerController_.cs
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\PlayerController_.cs
+      projectPath: Assets\_Scripts\Player\PlayerController_.cs
+      originalPath: NightmaZe\Assets\_Scripts\Player\PlayerController.cs
+      status: 6
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\Player\PlayerController_.cs.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\PlayerController_.cs.meta
+      projectPath: Assets\_Scripts\Player\PlayerController_.cs.meta
+      originalPath: NightmaZe\Assets\_Scripts\Player\PlayerController.cs.meta
+      status: 6
+      staged: 0
+    - path: NightmaZe\Builds\Builds_Data\Managed\Assembly-CSharp.dll
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\Managed\Assembly-CSharp.dll
+      projectPath: Builds\Builds_Data\Managed\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Builds\Builds_Data\globalgamemanagers
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\globalgamemanagers
+      projectPath: Builds\Builds_Data\globalgamemanagers
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Builds\Builds_Data\globalgamemanagers.assets
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\globalgamemanagers.assets
+      projectPath: Builds\Builds_Data\globalgamemanagers.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Builds\Builds_Data\level0
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\level0
+      projectPath: Builds\Builds_Data\level0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Builds\Builds_Data\level1
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\level1
+      projectPath: Builds\Builds_Data\level1
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Builds\Builds_Data\sharedassets0.assets
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\sharedassets0.assets
+      projectPath: Builds\Builds_Data\sharedassets0.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Builds\Builds_Data\sharedassets0.assets.resS
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\sharedassets0.assets.resS
+      projectPath: Builds\Builds_Data\sharedassets0.assets.resS
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Builds\Builds_Data\sharedassets1.assets
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\sharedassets1.assets
+      projectPath: Builds\Builds_Data\sharedassets1.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\CurrentLayout.dwlt
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\InspectorExpandedItems.asset
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\LastBuild.buildreport
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\LastBuild.buildreport
+      projectPath: Library\LastBuild.buildreport
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\LastSceneManagerSetup.txt
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\PlayerDataCache\Data\Managed\Assembly-CSharp.dll
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\Managed\Assembly-CSharp.dll
+      projectPath: Library\PlayerDataCache\Data\Managed\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\PlayerDataCache\Data\globalgamemanagers
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\globalgamemanagers
+      projectPath: Library\PlayerDataCache\Data\globalgamemanagers
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\PlayerDataCache\Data\globalgamemanagers.assets
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\globalgamemanagers.assets
+      projectPath: Library\PlayerDataCache\Data\globalgamemanagers.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\PlayerDataCache\Data\level0
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\level0
+      projectPath: Library\PlayerDataCache\Data\level0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\PlayerDataCache\Data\level1
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\level1
+      projectPath: Library\PlayerDataCache\Data\level1
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\PlayerDataCache\Data\sharedassets0.assets
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\sharedassets0.assets
+      projectPath: Library\PlayerDataCache\Data\sharedassets0.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\PlayerDataCache\Data\sharedassets0.assets.resS
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\sharedassets0.assets.resS
+      projectPath: Library\PlayerDataCache\Data\sharedassets0.assets.resS
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\PlayerDataCache\Data\sharedassets1.assets
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\sharedassets1.assets
+      projectPath: Library\PlayerDataCache\Data\sharedassets1.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\PlayerDataCache\ScriptLayoutHashes.txt
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\ScriptLayoutHashes.txt
+      projectPath: Library\PlayerDataCache\ScriptLayoutHashes.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\assetDatabase3
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\expandedItems
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\branches.yaml
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\metadata\21\216067f12de826f43b8a78ddeaf6cd05
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\21\216067f12de826f43b8a78ddeaf6cd05
+      projectPath: Library\metadata\21\216067f12de826f43b8a78ddeaf6cd05
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\metadata\b0\b09b46e32561da74f9df636940f193d9
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\b0\b09b46e32561da74f9df636940f193d9
+      projectPath: Library\metadata\b0\b09b46e32561da74f9df636940f193d9
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\metadata\b0\b09b46e32561da74f9df636940f193d9.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\b0\b09b46e32561da74f9df636940f193d9.info
+      projectPath: Library\metadata\b0\b09b46e32561da74f9df636940f193d9.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
+      projectPath: Library\metadata\c9\c95a32533f53a0c4685009db3de09913
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\metadata\ea\eae8d683236a2284f9ca5201bf2afded
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ea\eae8d683236a2284f9ca5201bf2afded
+      projectPath: Library\metadata\ea\eae8d683236a2284f9ca5201bf2afded
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\metadata\ea\eae8d683236a2284f9ca5201bf2afded.info
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ea\eae8d683236a2284f9ca5201bf2afded.info
+      projectPath: Library\metadata\ea\eae8d683236a2284f9ca5201bf2afded.info
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\ProjectSettings\EditorBuildSettings.asset
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 2b55d27e03fd180afb8e22ff27a4478f86bf4715
+    mergeA: 4146af5784f46dfafb01777b21a648ea608cc440
+    mergeB: 5dc55b0df3f6a5835b6b6e15f5af983fada51a70
+    authorName: Akbar Suriaganda
+    authorEmail: akbar.suriaganda@gmail.com
+    commitEmail: akbar.suriaganda@gmail.com
+    commitName: Akbar Suriaganda
+    summary: Merge branch 'Akbar'
+    description: Merge branch 'Akbar'
+    timeString: 2018-06-16T19:01:51.000+02:00
+    commitTimeString: 2018-06-16T19:01:51.000+02:00
+    changes: []
+  - commitID: 5dc55b0df3f6a5835b6b6e15f5af983fada51a70
+    mergeA: 
+    mergeB: 
+    authorName: Akbar Suriaganda
+    authorEmail: akbar.suriaganda@gmail.com
+    commitEmail: akbar.suriaganda@gmail.com
+    commitName: Akbar Suriaganda
+    summary: Interactable Meshes added
+    description: Interactable Meshes added
+    timeString: 2018-06-16T19:00:18.000+02:00
+    commitTimeString: 2018-06-16T19:00:18.000+02:00
+    changes:
+    - path: NightmaZe\Assets\Art\Maze.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze.meta
+      projectPath: Assets\Art\Maze.meta
+      originalPath: NightmaZe\Assets\Art\NetworkingTest.meta
+      status: 6
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials.meta
+      projectPath: Assets\Art\Maze\Materials.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\MazeWall.png
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\MazeWall.png
+      projectPath: Assets\Art\Maze\Materials\MazeWall.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\MazeWall.png.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\MazeWall.png.meta
+      projectPath: Assets\Art\Maze\Materials\MazeWall.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\MazeWall_N.png
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\MazeWall_N.png
+      projectPath: Assets\Art\Maze\Materials\MazeWall_N.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\MazeWall_N.png.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\MazeWall_N.png.meta
+      projectPath: Assets\Art\Maze\Materials\MazeWall_N.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\MudRockyAlbedoSpecular.bmp
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\MudRockyAlbedoSpecular.bmp
+      projectPath: Assets\Art\Maze\Materials\MudRockyAlbedoSpecular.bmp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\MudRockyAlbedoSpecular.bmp.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\MudRockyAlbedoSpecular.bmp.meta
+      projectPath: Assets\Art\Maze\Materials\MudRockyAlbedoSpecular.bmp.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\MudRockyNormals.bmp
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\MudRockyNormals.bmp
+      projectPath: Assets\Art\Maze\Materials\MudRockyNormals.bmp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\MudRockyNormals.bmp.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\MudRockyNormals.bmp.meta
+      projectPath: Assets\Art\Maze\Materials\MudRockyNormals.bmp.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\ground_grass.jpg
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\ground_grass.jpg
+      projectPath: Assets\Art\Maze\Materials\ground_grass.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\ground_grass.jpg.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\ground_grass.jpg.meta
+      projectPath: Assets\Art\Maze\Materials\ground_grass.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\ground_grass_N.jpg
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\ground_grass_N.jpg
+      projectPath: Assets\Art\Maze\Materials\ground_grass_N.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\ground_grass_N.jpg.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\ground_grass_N.jpg.meta
+      projectPath: Assets\Art\Maze\Materials\ground_grass_N.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\ground_lava.jpg
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\ground_lava.jpg
+      projectPath: Assets\Art\Maze\Materials\ground_lava.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\ground_lava.jpg.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\ground_lava.jpg.meta
+      projectPath: Assets\Art\Maze\Materials\ground_lava.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\ground_lava_E.jpg
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\ground_lava_E.jpg
+      projectPath: Assets\Art\Maze\Materials\ground_lava_E.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\ground_lava_E.jpg.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\ground_lava_E.jpg.meta
+      projectPath: Assets\Art\Maze\Materials\ground_lava_E.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\ground_lava_N.jpg
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\ground_lava_N.jpg
+      projectPath: Assets\Art\Maze\Materials\ground_lava_N.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\ground_lava_N.jpg.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\ground_lava_N.jpg.meta
+      projectPath: Assets\Art\Maze\Materials\ground_lava_N.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\m_MazeWall.mat
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\m_MazeWall.mat
+      projectPath: Assets\Art\Maze\Materials\m_MazeWall.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\m_MazeWall.mat.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\m_MazeWall.mat.meta
+      projectPath: Assets\Art\Maze\Materials\m_MazeWall.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\m_ground_grass.mat
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\m_ground_grass.mat
+      projectPath: Assets\Art\Maze\Materials\m_ground_grass.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\m_ground_grass.mat.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\m_ground_grass.mat.meta
+      projectPath: Assets\Art\Maze\Materials\m_ground_grass.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\m_ground_lava.mat
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\m_ground_lava.mat
+      projectPath: Assets\Art\Maze\Materials\m_ground_lava.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\m_ground_lava.mat.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\m_ground_lava.mat.meta
+      projectPath: Assets\Art\Maze\Materials\m_ground_lava.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\m_ground_mud.mat
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\m_ground_mud.mat
+      projectPath: Assets\Art\Maze\Materials\m_ground_mud.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\Materials\m_ground_mud.mat.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\Materials\m_ground_mud.mat.meta
+      projectPath: Assets\Art\Maze\Materials\m_ground_mud.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\MazeWall.fbx
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\MazeWall.fbx
+      projectPath: Assets\Art\Maze\MazeWall.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Maze\MazeWall.fbx.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Maze\MazeWall.fbx.meta
+      projectPath: Assets\Art\Maze\MazeWall.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects.meta
+      projectPath: Assets\Art\Objects.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\Barn.fbx
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\Barn.fbx
+      projectPath: Assets\Art\Objects\Barn.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\Barn.fbx.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\Barn.fbx.meta
+      projectPath: Assets\Art\Objects\Barn.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\Lantern.fbx
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\Lantern.fbx
+      projectPath: Assets\Art\Objects\Lantern.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\Lantern.fbx.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\Lantern.fbx.meta
+      projectPath: Assets\Art\Objects\Lantern.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\Lightzone.fbx
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\Lightzone.fbx
+      projectPath: Assets\Art\Objects\Lightzone.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\Lightzone.fbx.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\Lightzone.fbx.meta
+      projectPath: Assets\Art\Objects\Lightzone.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\glass.png
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\glass.png
+      projectPath: Assets\Art\Objects\glass.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\glass.png.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\glass.png.meta
+      projectPath: Assets\Art\Objects\glass.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\m_Barn_Door.mat
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\m_Barn_Door.mat
+      projectPath: Assets\Art\Objects\m_Barn_Door.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\m_Barn_Door.mat.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\m_Barn_Door.mat.meta
+      projectPath: Assets\Art\Objects\m_Barn_Door.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\m_Barn_ceiling.mat
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\m_Barn_ceiling.mat
+      projectPath: Assets\Art\Objects\m_Barn_ceiling.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\m_Barn_ceiling.mat.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\m_Barn_ceiling.mat.meta
+      projectPath: Assets\Art\Objects\m_Barn_ceiling.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\m_Barn_rim.mat
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\m_Barn_rim.mat
+      projectPath: Assets\Art\Objects\m_Barn_rim.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\m_Barn_rim.mat.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\m_Barn_rim.mat.meta
+      projectPath: Assets\Art\Objects\m_Barn_rim.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\m_Barn_side.mat
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\m_Barn_side.mat
+      projectPath: Assets\Art\Objects\m_Barn_side.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\m_Barn_side.mat.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\m_Barn_side.mat.meta
+      projectPath: Assets\Art\Objects\m_Barn_side.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\m_Glass.mat
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\m_Glass.mat
+      projectPath: Assets\Art\Objects\m_Glass.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\m_Glass.mat.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\m_Glass.mat.meta
+      projectPath: Assets\Art\Objects\m_Glass.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\m_Lantern.mat
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\m_Lantern.mat
+      projectPath: Assets\Art\Objects\m_Lantern.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\m_Lantern.mat.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\m_Lantern.mat.meta
+      projectPath: Assets\Art\Objects\m_Lantern.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\m_Lightzone.mat
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\m_Lightzone.mat
+      projectPath: Assets\Art\Objects\m_Lightzone.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\m_Lightzone.mat.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\m_Lightzone.mat.meta
+      projectPath: Assets\Art\Objects\m_Lightzone.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\metal.jpg
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\metal.jpg
+      projectPath: Assets\Art\Objects\metal.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\metal.jpg.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\metal.jpg.meta
+      projectPath: Assets\Art\Objects\metal.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\metal_n.jpg
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\metal_n.jpg
+      projectPath: Assets\Art\Objects\metal_n.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\metal_n.jpg.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\metal_n.jpg.meta
+      projectPath: Assets\Art\Objects\metal_n.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\wood.jpg
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\wood.jpg
+      projectPath: Assets\Art\Objects\wood.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\wood.jpg.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\wood.jpg.meta
+      projectPath: Assets\Art\Objects\wood.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\wood_n.jpg
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\wood_n.jpg
+      projectPath: Assets\Art\Objects\wood_n.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\wood_n.jpg.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\wood_n.jpg.meta
+      projectPath: Assets\Art\Objects\wood_n.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\wood_white.jpg
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\wood_white.jpg
+      projectPath: Assets\Art\Objects\wood_white.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\wood_white.jpg.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\wood_white.jpg.meta
+      projectPath: Assets\Art\Objects\wood_white.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\wood_white_n.jpg
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\wood_white_n.jpg
+      projectPath: Assets\Art\Objects\wood_white_n.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Objects\wood_white_n.jpg.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\Objects\wood_white_n.jpg.meta
+      projectPath: Assets\Art\Objects\wood_white_n.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\Models\Barn.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\Barn.prefab
+      projectPath: Assets\Prefabs\Models\Barn.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\Models\Barn.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\Barn.prefab.meta
+      projectPath: Assets\Prefabs\Models\Barn.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\Models\Clown.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\Clown.prefab
+      projectPath: Assets\Prefabs\Models\Clown.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\Models\Lantern.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\Lantern.prefab
+      projectPath: Assets\Prefabs\Models\Lantern.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\Models\Lantern.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\Lantern.prefab.meta
+      projectPath: Assets\Prefabs\Models\Lantern.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\Models\Lightzone.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\Lightzone.prefab
+      projectPath: Assets\Prefabs\Models\Lightzone.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\Models\Lightzone.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\Lightzone.prefab.meta
+      projectPath: Assets\Prefabs\Models\Lightzone.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\Models\MazeWall.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\MazeWall.prefab
+      projectPath: Assets\Prefabs\Models\MazeWall.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\Models\MazeWall.prefab.meta
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\MazeWall.prefab.meta
+      projectPath: Assets\Prefabs\Models\MazeWall.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\Models\Remy.prefab
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\Remy.prefab
+      projectPath: Assets\Prefabs\Models\Remy.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\Scenes\Akbar.unity
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Akbar.unity
+      projectPath: Assets\Scenes\Akbar.unity
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 4146af5784f46dfafb01777b21a648ea608cc440
     mergeA: 
     mergeB: 
@@ -3552,6 +4860,24 @@ MonoBehaviour:
     - path: NightmaZe\ProjectSettings\EditorBuildSettings.asset
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\ProjectSettings\EditorBuildSettings.asset
       projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: bad40a76ccadc2af1a06017b306b76e9f84eda7d
+    mergeA: 
+    mergeB: 
+    authorName: Akbar Suriaganda
+    authorEmail: akbar.suriaganda@gmail.com
+    commitEmail: akbar.suriaganda@gmail.com
+    commitName: Akbar Suriaganda
+    summary: Akbar gitignore fix
+    description: Akbar gitignore fix
+    timeString: 2018-06-16T12:36:05.000+02:00
+    commitTimeString: 2018-06-16T12:36:05.000+02:00
+    changes:
+    - path: .gitignore
+      fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\.gitignore
+      projectPath: ..\.gitignore
       originalPath: 
       status: 3
       staged: 0

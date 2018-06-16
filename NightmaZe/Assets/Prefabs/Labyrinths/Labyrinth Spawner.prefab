@@ -35,7 +35,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1970631037943502}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -37.1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -85,6 +85,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   difficulty: 1
+  tileSize: 3
   free: {fileID: 1614224825464332, guid: f12809d974d148f4a9b815fb9db138af, type: 2}
   wall: {fileID: 1024088785659344, guid: ce961f11c727df048b9ac0c33166d89c, type: 2}
   entry: {fileID: 1024088785659344, guid: 2949d917c6585604891bdc95f0f7c6f2, type: 2}

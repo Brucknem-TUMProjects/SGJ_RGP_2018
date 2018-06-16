@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-06-16T20:43:14.919+02:00
-  initializedAtString: 2018-06-16T18:58:50.880+02:00
+  lastUpdatedAtString: 2018-06-17T00:56:37.041+02:00
+  initializedAtString: 2018-06-16T23:31:31.923+02:00
   entries:
   - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
@@ -21,17 +21,11 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: NightmaZe\Assets\_Scripts\OfflineScreen\CenterNetworkManager.cs
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\OfflineScreen\CenterNetworkManager.cs
-    projectPath: Assets\_Scripts\OfflineScreen\CenterNetworkManager.cs
+  - path: NightmaZe\Assets\_Scripts\Labyrinth\LabyrinthSpawner.cs
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Labyrinth\LabyrinthSpawner.cs
+    projectPath: Assets\_Scripts\Labyrinth\LabyrinthSpawner.cs
     originalPath: 
-    status: 5
-    staged: 0
-  - path: NightmaZe\Assets\_Scripts\OfflineScreen\CenterNetworkManager.cs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\OfflineScreen\CenterNetworkManager.cs.meta
-    projectPath: Assets\_Scripts\OfflineScreen\CenterNetworkManager.cs.meta
-    originalPath: 
-    status: 5
+    status: 3
     staged: 0
   - path: NightmaZe\Assets\_Scripts\OfflineScreen\CustomNetworkManager.cs
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\OfflineScreen\CustomNetworkManager.cs
@@ -39,315 +33,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: NightmaZe\Assets\_Scripts\Player\MouseLook.cs
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\MouseLook.cs
-    projectPath: Assets\_Scripts\Player\MouseLook.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\_Scripts\Player\MouseLook.cs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\MouseLook.cs.meta
-    projectPath: Assets\_Scripts\Player\MouseLook.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\_Scripts\Player\Player.cs
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Player.cs
-    projectPath: Assets\_Scripts\Player\Player.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\_Scripts\Player\Player.cs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Player.cs.meta
-    projectPath: Assets\_Scripts\Player\Player.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\_Scripts\Player\PlayerController.cs
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\PlayerController.cs
-    projectPath: Assets\_Scripts\Player\PlayerController.cs
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: NightmaZe\Assets\_Scripts\Player\PlayerController.cs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\PlayerController.cs.meta
-    projectPath: Assets\_Scripts\Player\PlayerController.cs.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: NightmaZe\Assets\_Scripts\Player\PlayerController_.cs
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\PlayerController_.cs
-    projectPath: Assets\_Scripts\Player\PlayerController_.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\_Scripts\Player\PlayerController_.cs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\PlayerController_.cs.meta
-    projectPath: Assets\_Scripts\Player\PlayerController_.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Art\UI Sprites\UI_Background.jpg
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\UI Sprites\UI_Background.jpg
-    projectPath: Assets\Art\UI Sprites\UI_Background.jpg
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Art\UI Sprites\UI_Background.jpg.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\UI Sprites\UI_Background.jpg.meta
-    projectPath: Assets\Art\UI Sprites\UI_Background.jpg.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Fonts.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts.meta
-    projectPath: Assets\Fonts.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Fonts\OpenSans.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans.meta
-    projectPath: Assets\Fonts\OpenSans.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Fonts\OpenSans\License!.txt
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\License!.txt
-    projectPath: Assets\Fonts\OpenSans\License!.txt
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Fonts\OpenSans\License!.txt.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\License!.txt.meta
-    projectPath: Assets\Fonts\OpenSans\License!.txt.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Fonts\OpenSans\OpenSansBold.ttf
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\OpenSansBold.ttf
-    projectPath: Assets\Fonts\OpenSans\OpenSansBold.ttf
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Fonts\OpenSans\OpenSansBold.ttf.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\OpenSansBold.ttf.meta
-    projectPath: Assets\Fonts\OpenSans\OpenSansBold.ttf.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Fonts\OpenSans\OpenSansLight.ttf
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\OpenSansLight.ttf
-    projectPath: Assets\Fonts\OpenSans\OpenSansLight.ttf
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Fonts\OpenSans\OpenSansLight.ttf.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\OpenSansLight.ttf.meta
-    projectPath: Assets\Fonts\OpenSans\OpenSansLight.ttf.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Fonts\OpenSans\OpenSansRegular.ttf
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\OpenSansRegular.ttf
-    projectPath: Assets\Fonts\OpenSans\OpenSansRegular.ttf
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Fonts\OpenSans\OpenSansRegular.ttf.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\OpenSansRegular.ttf.meta
-    projectPath: Assets\Fonts\OpenSans\OpenSansRegular.ttf.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Fonts\OpenSans\OpenSansSemibold.ttf
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\OpenSansSemibold.ttf
-    projectPath: Assets\Fonts\OpenSans\OpenSansSemibold.ttf
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Fonts\OpenSans\OpenSansSemibold.ttf.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Fonts\OpenSans\OpenSansSemibold.ttf.meta
-    projectPath: Assets\Fonts\OpenSans\OpenSansSemibold.ttf.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby.meta
-    projectPath: Assets\Lobby.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Documentation.txt
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Documentation.txt
-    projectPath: Assets\Lobby\Documentation.txt
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Documentation.txt.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Documentation.txt.meta
-    projectPath: Assets\Lobby\Documentation.txt.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Instruction.txt
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Instruction.txt
-    projectPath: Assets\Lobby\Instruction.txt
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Instruction.txt.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Instruction.txt.meta
-    projectPath: Assets\Lobby\Instruction.txt.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Prefabs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs.meta
-    projectPath: Assets\Lobby\Prefabs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Prefabs\LobbyManager.prefab
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\LobbyManager.prefab
-    projectPath: Assets\Lobby\Prefabs\LobbyManager.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Prefabs\LobbyManager.prefab.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\LobbyManager.prefab.meta
-    projectPath: Assets\Lobby\Prefabs\LobbyManager.prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Prefabs\NewIcons.prefab
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\NewIcons.prefab
-    projectPath: Assets\Lobby\Prefabs\NewIcons.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Prefabs\NewIcons.prefab.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\NewIcons.prefab.meta
-    projectPath: Assets\Lobby\Prefabs\NewIcons.prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Prefabs\PlayerInfo.prefab
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\PlayerInfo.prefab
-    projectPath: Assets\Lobby\Prefabs\PlayerInfo.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Prefabs\PlayerInfo.prefab.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\PlayerInfo.prefab.meta
-    projectPath: Assets\Lobby\Prefabs\PlayerInfo.prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Prefabs\ServerInfoEntry.prefab
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\ServerInfoEntry.prefab
-    projectPath: Assets\Lobby\Prefabs\ServerInfoEntry.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Prefabs\ServerInfoEntry.prefab.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\ServerInfoEntry.prefab.meta
-    projectPath: Assets\Lobby\Prefabs\ServerInfoEntry.prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Prefabs\ServerNameGroup.prefab
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\ServerNameGroup.prefab
-    projectPath: Assets\Lobby\Prefabs\ServerNameGroup.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Prefabs\ServerNameGroup.prefab.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\ServerNameGroup.prefab.meta
-    projectPath: Assets\Lobby\Prefabs\ServerNameGroup.prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts.meta
-    projectPath: Assets\Lobby\Scripts.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\DraggablePanel.cs
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\DraggablePanel.cs
-    projectPath: Assets\Lobby\Scripts\DraggablePanel.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\DraggablePanel.cs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\DraggablePanel.cs.meta
-    projectPath: Assets\Lobby\Scripts\DraggablePanel.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\EventSystemChecker.cs
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\EventSystemChecker.cs
-    projectPath: Assets\Lobby\Scripts\EventSystemChecker.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\EventSystemChecker.cs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\EventSystemChecker.cs.meta
-    projectPath: Assets\Lobby\Scripts\EventSystemChecker.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby.meta
-    projectPath: Assets\Lobby\Scripts\Lobby.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyCountdownPanel.cs
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyCountdownPanel.cs
-    projectPath: Assets\Lobby\Scripts\Lobby\LobbyCountdownPanel.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyCountdownPanel.cs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyCountdownPanel.cs.meta
-    projectPath: Assets\Lobby\Scripts\Lobby\LobbyCountdownPanel.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyHook.cs
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyHook.cs
-    projectPath: Assets\Lobby\Scripts\Lobby\LobbyHook.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyHook.cs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyHook.cs.meta
-    projectPath: Assets\Lobby\Scripts\Lobby\LobbyHook.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyInfoPanel.cs
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyInfoPanel.cs
-    projectPath: Assets\Lobby\Scripts\Lobby\LobbyInfoPanel.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyInfoPanel.cs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyInfoPanel.cs.meta
-    projectPath: Assets\Lobby\Scripts\Lobby\LobbyInfoPanel.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyMainMenu.cs
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyMainMenu.cs
-    projectPath: Assets\Lobby\Scripts\Lobby\LobbyMainMenu.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyMainMenu.cs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyMainMenu.cs.meta
-    projectPath: Assets\Lobby\Scripts\Lobby\LobbyMainMenu.cs.meta
+  - path: NightmaZe\Assets\Art\NetworkingTest.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\NetworkingTest.meta
+    projectPath: Assets\Art\NetworkingTest.meta
     originalPath: 
     status: 1
     staged: 0
@@ -355,223 +43,410 @@ MonoBehaviour:
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyManager.cs
     projectPath: Assets\Lobby\Scripts\Lobby\LobbyManager.cs
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyManager.cs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyManager.cs.meta
-    projectPath: Assets\Lobby\Scripts\Lobby\LobbyManager.cs.meta
+  - path: NightmaZe\Assets\Prefabs\Labyrinths\Labyrinth Spawner.prefab
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Labyrinths\Labyrinth
+      Spawner.prefab
+    projectPath: Assets\Prefabs\Labyrinths\Labyrinth Spawner.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes.meta
+    projectPath: Assets\SampleScenes.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyPlayer.cs
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyPlayer.cs
-    projectPath: Assets\Lobby\Scripts\Lobby\LobbyPlayer.cs
+  - path: NightmaZe\Assets\SampleScenes\Materials.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Materials.meta
+    projectPath: Assets\SampleScenes\Materials.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyPlayer.cs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyPlayer.cs.meta
-    projectPath: Assets\Lobby\Scripts\Lobby\LobbyPlayer.cs.meta
+  - path: NightmaZe\Assets\SampleScenes\Materials\FlyerAsteroid.mat
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Materials\FlyerAsteroid.mat
+    projectPath: Assets\SampleScenes\Materials\FlyerAsteroid.mat
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyPlayerList.cs
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyPlayerList.cs
-    projectPath: Assets\Lobby\Scripts\Lobby\LobbyPlayerList.cs
+  - path: NightmaZe\Assets\SampleScenes\Materials\FlyerAsteroid.mat.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Materials\FlyerAsteroid.mat.meta
+    projectPath: Assets\SampleScenes\Materials\FlyerAsteroid.mat.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyPlayerList.cs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyPlayerList.cs.meta
-    projectPath: Assets\Lobby\Scripts\Lobby\LobbyPlayerList.cs.meta
+  - path: NightmaZe\Assets\SampleScenes\Materials\FlyerPlayership.mat
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Materials\FlyerPlayership.mat
+    projectPath: Assets\SampleScenes\Materials\FlyerPlayership.mat
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyServerEntry.cs
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyServerEntry.cs
-    projectPath: Assets\Lobby\Scripts\Lobby\LobbyServerEntry.cs
+  - path: NightmaZe\Assets\SampleScenes\Materials\FlyerPlayership.mat.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Materials\FlyerPlayership.mat.meta
+    projectPath: Assets\SampleScenes\Materials\FlyerPlayership.mat.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyServerEntry.cs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyServerEntry.cs.meta
-    projectPath: Assets\Lobby\Scripts\Lobby\LobbyServerEntry.cs.meta
+  - path: NightmaZe\Assets\SampleScenes\Materials\ParticleAfterburner.mat
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Materials\ParticleAfterburner.mat
+    projectPath: Assets\SampleScenes\Materials\ParticleAfterburner.mat
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyServerList.cs
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyServerList.cs
-    projectPath: Assets\Lobby\Scripts\Lobby\LobbyServerList.cs
+  - path: NightmaZe\Assets\SampleScenes\Materials\ParticleAfterburner.mat.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Materials\ParticleAfterburner.mat.meta
+    projectPath: Assets\SampleScenes\Materials\ParticleAfterburner.mat.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyServerList.cs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyServerList.cs.meta
-    projectPath: Assets\Lobby\Scripts\Lobby\LobbyServerList.cs.meta
+  - path: NightmaZe\Assets\SampleScenes\Materials\WhiteSmooth.mat
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Materials\WhiteSmooth.mat
+    projectPath: Assets\SampleScenes\Materials\WhiteSmooth.mat
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyTopPanel.cs
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyTopPanel.cs
-    projectPath: Assets\Lobby\Scripts\Lobby\LobbyTopPanel.cs
+  - path: NightmaZe\Assets\SampleScenes\Materials\WhiteSmooth.mat.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Materials\WhiteSmooth.mat.meta
+    projectPath: Assets\SampleScenes\Materials\WhiteSmooth.mat.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyTopPanel.cs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyTopPanel.cs.meta
-    projectPath: Assets\Lobby\Scripts\Lobby\LobbyTopPanel.cs.meta
+  - path: NightmaZe\Assets\SampleScenes\Materials\WhiteUnlit.mat
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Materials\WhiteUnlit.mat
+    projectPath: Assets\SampleScenes\Materials\WhiteUnlit.mat
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Sprites.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites.meta
-    projectPath: Assets\Lobby\Sprites.meta
+  - path: NightmaZe\Assets\SampleScenes\Materials\WhiteUnlit.mat.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Materials\WhiteUnlit.mat.meta
+    projectPath: Assets\SampleScenes\Materials\WhiteUnlit.mat.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Sprites\AddSprite.png
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\AddSprite.png
-    projectPath: Assets\Lobby\Sprites\AddSprite.png
+  - path: NightmaZe\Assets\SampleScenes\Models.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Models.meta
+    projectPath: Assets\SampleScenes\Models.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Sprites\AddSprite.png.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\AddSprite.png.meta
-    projectPath: Assets\Lobby\Sprites\AddSprite.png.meta
+  - path: NightmaZe\Assets\SampleScenes\Models\Asteroid01.fbx
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Models\Asteroid01.fbx
+    projectPath: Assets\SampleScenes\Models\Asteroid01.fbx
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Sprites\ButtonSprite.png
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\ButtonSprite.png
-    projectPath: Assets\Lobby\Sprites\ButtonSprite.png
+  - path: NightmaZe\Assets\SampleScenes\Models\Asteroid01.fbx.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Models\Asteroid01.fbx.meta
+    projectPath: Assets\SampleScenes\Models\Asteroid01.fbx.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Sprites\ButtonSprite.png.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\ButtonSprite.png.meta
-    projectPath: Assets\Lobby\Sprites\ButtonSprite.png.meta
+  - path: NightmaZe\Assets\SampleScenes\Models\FlyerAsteroidB.fbx
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Models\FlyerAsteroidB.fbx
+    projectPath: Assets\SampleScenes\Models\FlyerAsteroidB.fbx
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Sprites\InfoPanelSprite.png
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\InfoPanelSprite.png
-    projectPath: Assets\Lobby\Sprites\InfoPanelSprite.png
+  - path: NightmaZe\Assets\SampleScenes\Models\FlyerAsteroidB.fbx.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Models\FlyerAsteroidB.fbx.meta
+    projectPath: Assets\SampleScenes\Models\FlyerAsteroidB.fbx.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Sprites\InfoPanelSprite.png.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\InfoPanelSprite.png.meta
-    projectPath: Assets\Lobby\Sprites\InfoPanelSprite.png.meta
+  - path: NightmaZe\Assets\SampleScenes\Models\LaserBolt.fbx
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Models\LaserBolt.fbx
+    projectPath: Assets\SampleScenes\Models\LaserBolt.fbx
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Sprites\InputFieldSprite.png
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\InputFieldSprite.png
-    projectPath: Assets\Lobby\Sprites\InputFieldSprite.png
+  - path: NightmaZe\Assets\SampleScenes\Models\LaserBolt.fbx.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Models\LaserBolt.fbx.meta
+    projectPath: Assets\SampleScenes\Models\LaserBolt.fbx.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Sprites\InputFieldSprite.png.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\InputFieldSprite.png.meta
-    projectPath: Assets\Lobby\Sprites\InputFieldSprite.png.meta
+  - path: NightmaZe\Assets\SampleScenes\Models\Materials.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Models\Materials.meta
+    projectPath: Assets\SampleScenes\Models\Materials.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Sprites\LocalSprite.png
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\LocalSprite.png
-    projectPath: Assets\Lobby\Sprites\LocalSprite.png
+  - path: NightmaZe\Assets\SampleScenes\Models\Materials\Asteroid.mat
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Models\Materials\Asteroid.mat
+    projectPath: Assets\SampleScenes\Models\Materials\Asteroid.mat
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Sprites\LocalSprite.png.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\LocalSprite.png.meta
-    projectPath: Assets\Lobby\Sprites\LocalSprite.png.meta
+  - path: NightmaZe\Assets\SampleScenes\Models\Materials\Asteroid.mat.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Models\Materials\Asteroid.mat.meta
+    projectPath: Assets\SampleScenes\Models\Materials\Asteroid.mat.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Sprites\RemoteSprite.png
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\RemoteSprite.png
-    projectPath: Assets\Lobby\Sprites\RemoteSprite.png
+  - path: NightmaZe\Assets\SampleScenes\Models\Materials\SpaceshipGlow.mat
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Models\Materials\SpaceshipGlow.mat
+    projectPath: Assets\SampleScenes\Models\Materials\SpaceshipGlow.mat
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Sprites\RemoteSprite.png.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\RemoteSprite.png.meta
-    projectPath: Assets\Lobby\Sprites\RemoteSprite.png.meta
+  - path: NightmaZe\Assets\SampleScenes\Models\Materials\SpaceshipGlow.mat.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Models\Materials\SpaceshipGlow.mat.meta
+    projectPath: Assets\SampleScenes\Models\Materials\SpaceshipGlow.mat.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Sprites\RemoveSprite.png
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\RemoveSprite.png
-    projectPath: Assets\Lobby\Sprites\RemoveSprite.png
+  - path: NightmaZe\Assets\SampleScenes\Models\Materials\SpaceshipHull.mat
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Models\Materials\SpaceshipHull.mat
+    projectPath: Assets\SampleScenes\Models\Materials\SpaceshipHull.mat
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Lobby\Sprites\RemoveSprite.png.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Sprites\RemoveSprite.png.meta
-    projectPath: Assets\Lobby\Sprites\RemoveSprite.png.meta
+  - path: NightmaZe\Assets\SampleScenes\Models\Materials\SpaceshipHull.mat.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Models\Materials\SpaceshipHull.mat.meta
+    projectPath: Assets\SampleScenes\Models\Materials\SpaceshipHull.mat.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Prefabs\UI\MenuPanel.prefab
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\UI\MenuPanel.prefab
-    projectPath: Assets\Prefabs\UI\MenuPanel.prefab
+  - path: NightmaZe\Assets\SampleScenes\Models\Spaceship.fbx
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Models\Spaceship.fbx
+    projectPath: Assets\SampleScenes\Models\Spaceship.fbx
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Prefabs\UI\MenuPanel.prefab.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\UI\MenuPanel.prefab.meta
-    projectPath: Assets\Prefabs\UI\MenuPanel.prefab.meta
+  - path: NightmaZe\Assets\SampleScenes\Models\Spaceship.fbx.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Models\Spaceship.fbx.meta
+    projectPath: Assets\SampleScenes\Models\Spaceship.fbx.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Prefabs\UI\MusicManager.prefab
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\UI\MusicManager.prefab
-    projectPath: Assets\Prefabs\UI\MusicManager.prefab
+  - path: NightmaZe\Assets\SampleScenes\Prefabs.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Prefabs.meta
+    projectPath: Assets\SampleScenes\Prefabs.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: NightmaZe\Assets\Prefabs\UI\MusicManager.prefab.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\UI\MusicManager.prefab.meta
-    projectPath: Assets\Prefabs\UI\MusicManager.prefab.meta
+  - path: NightmaZe\Assets\SampleScenes\Prefabs\BigAsteroid.prefab
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Prefabs\BigAsteroid.prefab
+    projectPath: Assets\SampleScenes\Prefabs\BigAsteroid.prefab
     originalPath: 
     status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Prefabs\BigAsteroid.prefab.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Prefabs\BigAsteroid.prefab.meta
+    projectPath: Assets\SampleScenes\Prefabs\BigAsteroid.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Prefabs\SmallAsteroid.prefab
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Prefabs\SmallAsteroid.prefab
+    projectPath: Assets\SampleScenes\Prefabs\SmallAsteroid.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Prefabs\SmallAsteroid.prefab.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Prefabs\SmallAsteroid.prefab.meta
+    projectPath: Assets\SampleScenes\Prefabs\SmallAsteroid.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Prefabs\Spaceship.prefab
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Prefabs\Spaceship.prefab
+    projectPath: Assets\SampleScenes\Prefabs\Spaceship.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Prefabs\Spaceship.prefab.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Prefabs\Spaceship.prefab.meta
+    projectPath: Assets\SampleScenes\Prefabs\Spaceship.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Prefabs\SpaceshipBullet.prefab
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Prefabs\SpaceshipBullet.prefab
+    projectPath: Assets\SampleScenes\Prefabs\SpaceshipBullet.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Prefabs\SpaceshipBullet.prefab.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Prefabs\SpaceshipBullet.prefab.meta
+    projectPath: Assets\SampleScenes\Prefabs\SpaceshipBullet.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Scenes.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Scenes.meta
+    projectPath: Assets\SampleScenes\Scenes.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Scenes\NetworkLobby.unity
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Scenes\NetworkLobby.unity
+    projectPath: Assets\SampleScenes\Scenes\NetworkLobby.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Scenes\NetworkLobby.unity.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Scenes\NetworkLobby.unity.meta
+    projectPath: Assets\SampleScenes\Scenes\NetworkLobby.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Scenes\NetworkSpaceship.unity
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Scenes\NetworkSpaceship.unity
+    projectPath: Assets\SampleScenes\Scenes\NetworkSpaceship.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Scenes\NetworkSpaceship.unity.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Scenes\NetworkSpaceship.unity.meta
+    projectPath: Assets\SampleScenes\Scenes\NetworkSpaceship.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Scripts.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Scripts.meta
+    projectPath: Assets\SampleScenes\Scripts.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Scripts\NetworkAsteroid.cs
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Scripts\NetworkAsteroid.cs
+    projectPath: Assets\SampleScenes\Scripts\NetworkAsteroid.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Scripts\NetworkAsteroid.cs.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Scripts\NetworkAsteroid.cs.meta
+    projectPath: Assets\SampleScenes\Scripts\NetworkAsteroid.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Scripts\NetworkGameManager.cs
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Scripts\NetworkGameManager.cs
+    projectPath: Assets\SampleScenes\Scripts\NetworkGameManager.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Scripts\NetworkGameManager.cs.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Scripts\NetworkGameManager.cs.meta
+    projectPath: Assets\SampleScenes\Scripts\NetworkGameManager.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Scripts\NetworkLobbyHook.cs
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Scripts\NetworkLobbyHook.cs
+    projectPath: Assets\SampleScenes\Scripts\NetworkLobbyHook.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Scripts\NetworkLobbyHook.cs.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Scripts\NetworkLobbyHook.cs.meta
+    projectPath: Assets\SampleScenes\Scripts\NetworkLobbyHook.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Scripts\NetworkSpaceship.cs
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Scripts\NetworkSpaceship.cs
+    projectPath: Assets\SampleScenes\Scripts\NetworkSpaceship.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Scripts\NetworkSpaceship.cs.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Scripts\NetworkSpaceship.cs.meta
+    projectPath: Assets\SampleScenes\Scripts\NetworkSpaceship.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Scripts\NetworkSpaceshipBullet.cs
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Scripts\NetworkSpaceshipBullet.cs
+    projectPath: Assets\SampleScenes\Scripts\NetworkSpaceshipBullet.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Scripts\NetworkSpaceshipBullet.cs.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Scripts\NetworkSpaceshipBullet.cs.meta
+    projectPath: Assets\SampleScenes\Scripts\NetworkSpaceshipBullet.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Textures.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Textures.meta
+    projectPath: Assets\SampleScenes\Textures.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Textures\FlyerAsteroidEmissive.tif
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Textures\FlyerAsteroidEmissive.tif
+    projectPath: Assets\SampleScenes\Textures\FlyerAsteroidEmissive.tif
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Textures\FlyerAsteroidEmissive.tif.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Textures\FlyerAsteroidEmissive.tif.meta
+    projectPath: Assets\SampleScenes\Textures\FlyerAsteroidEmissive.tif.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Textures\FlyerPlayershipAlbedo.tif
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Textures\FlyerPlayershipAlbedo.tif
+    projectPath: Assets\SampleScenes\Textures\FlyerPlayershipAlbedo.tif
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Textures\FlyerPlayershipAlbedo.tif.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Textures\FlyerPlayershipAlbedo.tif.meta
+    projectPath: Assets\SampleScenes\Textures\FlyerPlayershipAlbedo.tif.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Textures\FlyerPlayershipEmission.tif
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Textures\FlyerPlayershipEmission.tif
+    projectPath: Assets\SampleScenes\Textures\FlyerPlayershipEmission.tif
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Textures\FlyerPlayershipEmission.tif.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Textures\FlyerPlayershipEmission.tif.meta
+    projectPath: Assets\SampleScenes\Textures\FlyerPlayershipEmission.tif.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Textures\FlyerPlayershipOcclusion.tif
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Textures\FlyerPlayershipOcclusion.tif
+    projectPath: Assets\SampleScenes\Textures\FlyerPlayershipOcclusion.tif
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\SampleScenes\Textures\FlyerPlayershipOcclusion.tif.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Textures\FlyerPlayershipOcclusion.tif.meta
+    projectPath: Assets\SampleScenes\Textures\FlyerPlayershipOcclusion.tif.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\Scenes\Lobby.unity
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Lobby.unity
+    projectPath: Assets\Scenes\Lobby.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\Scenes\Lobby.unity.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Lobby.unity.meta
+    projectPath: Assets\Scenes\Lobby.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\Scenes\Main.unity
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Main.unity
+    projectPath: Assets\Scenes\Main.unity
+    originalPath: 
+    status: 3
     staged: 0
   - path: NightmaZe\Assets\Scenes\Menu.unity
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Menu.unity
     projectPath: Assets\Scenes\Menu.unity
     originalPath: 
     status: 3
-    staged: 0
-  - path: NightmaZe\Assets\Scripts.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scripts.meta
-    projectPath: Assets\Scripts.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: NightmaZe\Assets\Scripts\MouseLook.cs
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scripts\MouseLook.cs
-    projectPath: Assets\Scripts\MouseLook.cs
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: NightmaZe\Assets\Scripts\MouseLook.cs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scripts\MouseLook.cs.meta
-    projectPath: Assets\Scripts\MouseLook.cs.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: NightmaZe\Assets\Scripts\Player.cs
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scripts\Player.cs
-    projectPath: Assets\Scripts\Player.cs
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: NightmaZe\Assets\Scripts\Player.cs.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scripts\Player.cs.meta
-    projectPath: Assets\Scripts\Player.cs.meta
-    originalPath: 
-    status: 5
     staged: 0
   - path: NightmaZe\Builds\Builds_Data\globalgamemanagers
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\globalgamemanagers
@@ -699,35 +574,11 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: NightmaZe\Library\metadata\b0\b09b46e32561da74f9df636940f193d9
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\b0\b09b46e32561da74f9df636940f193d9
-    projectPath: Library\metadata\b0\b09b46e32561da74f9df636940f193d9
+  - path: NightmaZe\Library\metadata\5a\5a1f78e99d02ae2478fc7db36365ba90
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\5a\5a1f78e99d02ae2478fc7db36365ba90
+    projectPath: Library\metadata\5a\5a1f78e99d02ae2478fc7db36365ba90
     originalPath: 
     status: 3
-    staged: 0
-  - path: NightmaZe\Library\metadata\b0\b09b46e32561da74f9df636940f193d9.info
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\b0\b09b46e32561da74f9df636940f193d9.info
-    projectPath: Library\metadata\b0\b09b46e32561da74f9df636940f193d9.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
-    projectPath: Library\metadata\c9\c95a32533f53a0c4685009db3de09913
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: NightmaZe\Library\metadata\ea\eae8d683236a2284f9ca5201bf2afded
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ea\eae8d683236a2284f9ca5201bf2afded
-    projectPath: Library\metadata\ea\eae8d683236a2284f9ca5201bf2afded
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: NightmaZe\Library\metadata\ea\eae8d683236a2284f9ca5201bf2afded.info
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ea\eae8d683236a2284f9ca5201bf2afded.info
-    projectPath: Library\metadata\ea\eae8d683236a2284f9ca5201bf2afded.info
-    originalPath: 
-    status: 5
     staged: 0
   - path: NightmaZe\Library\PlayerDataCache\Data\globalgamemanagers
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\globalgamemanagers
@@ -861,9 +712,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: NightmaZe\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+  - path: NightmaZe\obj\Debug\Assembly-CSharp.dll
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.dll
+    projectPath: obj\Debug\Assembly-CSharp.dll
     originalPath: 
     status: 3
     staged: 0
