@@ -36,6 +36,9 @@ public class Player : NetworkBehaviour
 	#endregion
 
 	#region private attributes
+	private GameObject PostureImg;
+	private GameObject ingameCanvas;
+	private GameObject ingamePauseMenu;
 	private Rigidbody playerRigid;
 	private Vector3 velocity;
 
@@ -43,7 +46,7 @@ public class Player : NetworkBehaviour
 	private float downTime;
 	private float speedValue;
 	private Posture currentPosture;
-	private bool skipButtonUpEvent, stopReadingInput;
+	private bool skipButtonUpEvent, stopReadingInput, pausePanelOpen;
 	private Vector3 postureHeights;
 
 	// Inputs
@@ -63,6 +66,8 @@ public class Player : NetworkBehaviour
 		postureCollider[0].enabled = true;
 		postureCollider[1].enabled = false;
 		postureCollider[2].enabled = false;
+		//ChangePostureImg(currentPosture);
+		//ingamePauseMenu.SetActive(false);
 	}
 
 	// Check if player is on ground
@@ -85,28 +90,29 @@ public class Player : NetworkBehaviour
 	// Use this for initialization
 	void Start()
 	{
-        if (!isLocalPlayer)
-        {
-            return;
-        }
-        // ---TODO: Spawn, Reset
-        playerRigid = GetComponent<Rigidbody>();
+		if (!isLocalPlayer)
+		{
+			return;
+		}
+		// ---TODO: Spawn, Reset
+		playerRigid = GetComponent<Rigidbody>();
 		//camera = transform.GetChild(0).gameObject;
 		camera.GetComponent<MouseLook>().Init(this.transform, camera.transform);
 		Reset();
-		Cursor.visible = false;
-		Cursor.lockState = CursorLockMode.Locked;
-		//Physics.gravity = Vector3.down * 20;
+		//while (ingameCanvas == null)
+		//	ingameCanvas = transform.Find("IngameCanvas").gameObject;
+		//PostureImg = ingameCanvas.transform.GetChild(4).gameObject;
+		//ingamePauseMenu = ingameCanvas.transform.GetChild(0).gameObject;
 	}
 
 	// Update is called once per frame
 	void Update()
 	{
-        if (!isLocalPlayer)
-        {
-            return;
-        }
-        camera.GetComponent<MouseLook>().LookRotation(this.transform, camera.transform);
+		if (!isLocalPlayer)
+		{
+			return;
+		}
+		camera.GetComponent<MouseLook>().LookRotation(this.transform, camera.transform);
 		//CheckLife();
 		//GetTimer();
 		//if (!ableToMove)
@@ -117,11 +123,11 @@ public class Player : NetworkBehaviour
 
 	void FixedUpdate()
 	{
-        if (!isLocalPlayer)
-        {
-            return;
-        }
-        Move();
+		if (!isLocalPlayer)
+		{
+			return;
+		}
+		Move();
 		if (jumpInput)
 			Jump();
 	}
@@ -156,6 +162,22 @@ public class Player : NetworkBehaviour
 
 	void GetButtonInput()
 	{
+		// Pause menu
+		//if (Input.GetButtonDown("Pause"))
+		//{
+		//	if (pausePanelOpen)
+		//	{
+		//		ingamePauseMenu.SetActive(false);
+		//		pausePanelOpen = false;
+		//	}
+		//	else
+		//	{
+		//		ingamePauseMenu.SetActive(true);
+		//		pausePanelOpen = true;
+		//	}
+		//}
+
+
 		// Crouching, Proning = Hold Crouch Button	
 		if (Input.GetButton("ControllerBButton"))
 		{
@@ -216,7 +238,17 @@ public class Player : NetworkBehaviour
 		}
 	}
 
-
+	Posture ChangePostureImg(Posture p)
+	{
+		for (int i = 0; i < 3; i++)
+		{
+			if (i == (int)p)
+				PostureImg.transform.GetChild(i).gameObject.SetActive(true);
+			else
+				PostureImg.transform.GetChild(i).gameObject.SetActive(false);
+		}
+		return p;
+	}
 
 	bool StandUp()
 	{
@@ -244,7 +276,8 @@ public class Player : NetworkBehaviour
 		postureCollider[1].enabled = false;
 		postureCollider[2].enabled = false;
 		Debug.Log("Stood up");
-		currentPosture = Posture.standing;
+		currentPosture = ChangePostureImg(Posture.standing);
+
 		speedValue = moveSettings.walkVelocity;
 		return true;
 	}
@@ -264,7 +297,7 @@ public class Player : NetworkBehaviour
 		postureCollider[0].enabled = false;
 		postureCollider[1].enabled = true;
 		postureCollider[2].enabled = false;
-		currentPosture = Posture.crouching;
+		currentPosture = ChangePostureImg(Posture.crouching);
 		speedValue = moveSettings.crouchVelocity;
 		Debug.Log("Going into Crouch");
 		return true;
@@ -276,7 +309,7 @@ public class Player : NetworkBehaviour
 		postureCollider[0].enabled = false;
 		postureCollider[1].enabled = false;
 		postureCollider[2].enabled = true;
-		currentPosture = Posture.proning;
+		currentPosture = ChangePostureImg(Posture.proning);
 		speedValue = moveSettings.proneVelocity;
 		Debug.Log("Proning..");
 		// Nice to have: Check if proning is possible! (?)

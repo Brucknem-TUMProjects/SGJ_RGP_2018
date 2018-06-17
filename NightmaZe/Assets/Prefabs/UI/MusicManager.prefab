@@ -148,8 +148,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec8d02587a3f20f42a73109e0c2186fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  titleMusic: {fileID: 8300000, guid: 7a1895d6e856f574b8baef6c8ee8ed63, type: 3}
-  mainMusic: {fileID: 8300000, guid: 06108338b9c318843804efd4f37a3a36, type: 3}
+  titleMusic: {fileID: 8300000, guid: 4765ba661722c2647b887150f8e62f2d, type: 3}
+  mainMusic: {fileID: 0}
   volumeDown: {fileID: 24519918, guid: f431afdd9a3b4fe46bab8278a880983a, type: 2}
   volumeUp: {fileID: 24500003, guid: f431afdd9a3b4fe46bab8278a880983a, type: 2}
   mainMixer: {fileID: 24100000, guid: f431afdd9a3b4fe46bab8278a880983a, type: 2}
