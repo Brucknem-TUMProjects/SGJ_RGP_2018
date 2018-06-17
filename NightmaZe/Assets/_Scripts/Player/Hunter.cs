@@ -47,7 +47,7 @@ public class Hunter : MonoBehaviour
             }
             timer = Time.time;
         }
-        if (Input.GetButtonDown("Interact"))
+        if (Input.GetButtonDown("InteractRight"))
         {
             Attack();
         }
