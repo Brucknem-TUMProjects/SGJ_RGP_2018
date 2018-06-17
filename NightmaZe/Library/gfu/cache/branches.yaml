@@ -13,12 +13,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cacheType: 2
 <<<<<<< HEAD
-  lastUpdatedAtString: 2018-06-17T01:18:07.454+02:00
-  initializedAtString: 2018-06-17T01:12:45.690+02:00
+  lastUpdatedAtString: 2018-06-17T04:52:55.434+02:00
+  initializedAtString: 2018-06-17T01:31:50.331+02:00
 =======
-  lastUpdatedAtString: 2018-06-17T01:29:21.119+02:00
-  initializedAtString: 2018-06-16T23:42:44.108+02:00
->>>>>>> JaegerSkills
+  lastUpdatedAtString: 2018-06-17T02:49:14.051+02:00
+  initializedAtString: 2018-06-17T02:49:13.994+02:00
+>>>>>>> 5f85e61cc695d4636202d7987f808ab8708d1a04
   localBranches:
   - name: JaegerSkills
     tracking: origin/JaegerSkills
@@ -29,11 +29,8 @@ MonoBehaviour:
   remoteBranches:
   - name: origin/Akbar
     tracking: '[None]'
-<<<<<<< HEAD
-=======
   - name: origin/HEAD
     tracking: '[None]'
->>>>>>> JaegerSkills
   - name: origin/JaegerSkills
     tracking: '[None]'
   - name: origin/Jeff
@@ -81,10 +78,7 @@ MonoBehaviour:
     subKeys:
     - Values:
       - Akbar
-<<<<<<< HEAD
-=======
       - HEAD
->>>>>>> JaegerSkills
       - JaegerSkills
       - Jeff
       - Marcel
@@ -98,14 +92,11 @@ MonoBehaviour:
           name: origin
           url: https://github.com/Brucknem/SGJ_RGP_2018.git
         trackingBranch: 
-<<<<<<< HEAD
-=======
       - name: HEAD
         remote:
           name: origin
           url: https://github.com/Brucknem/SGJ_RGP_2018.git
         trackingBranch: 
->>>>>>> JaegerSkills
       - name: JaegerSkills
         remote:
           name: origin
