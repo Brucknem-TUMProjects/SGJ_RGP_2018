@@ -343,6 +343,8 @@ GameObject:
   - component: {fileID: 114230294657102960}
   - component: {fileID: 114036764053140944}
   - component: {fileID: 54913786906364470}
+  - component: {fileID: 114665416840560942}
+  - component: {fileID: 114839493015368844}
   m_Layer: 0
   m_Name: Hunter
   m_TagString: Untagged
@@ -3065,6 +3067,59 @@ MonoBehaviour:
   smooth: 0
   smoothTime: 5
   camPivot: {fileID: 4279192587670044}
+--- !u!114 &114665416840560942
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1154432087250344}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 372142912, guid: 870353891bb340e2b2a9c8707e7419ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SceneId:
+    m_Value: 0
+  m_AssetId:
+    i0: 189
+    i1: 81
+    i2: 171
+    i3: 209
+    i4: 142
+    i5: 33
+    i6: 19
+    i7: 36
+    i8: 171
+    i9: 213
+    i10: 87
+    i11: 247
+    i12: 42
+    i13: 175
+    i14: 150
+    i15: 103
+  m_ServerOnly: 0
+  m_LocalPlayerAuthority: 1
+--- !u!114 &114839493015368844
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1154432087250344}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1768714887, guid: 870353891bb340e2b2a9c8707e7419ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_TransformSyncMode: 3
+  m_SendInterval: 0.1
+  m_SyncRotationAxis: 7
+  m_RotationSyncCompression: 0
+  m_SyncSpin: 0
+  m_MovementTheshold: 0.001
+  m_VelocityThreshold: 0.0001
+  m_SnapThreshold: 5
+  m_InterpolateRotation: 1
+  m_InterpolateMovement: 1
 --- !u!124 &124692215329297024
 Behaviour:
   m_ObjectHideFlags: 1

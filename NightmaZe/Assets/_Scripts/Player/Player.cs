@@ -1,8 +1,9 @@
 ﻿using UnityEngine;
+using UnityEngine.Networking;
 using System.Collections;
 
 [RequireComponent(typeof(Rigidbody))]
-public class Player : MonoBehaviour
+public class Player : NetworkBehaviour
 {
 
 	public enum Posture
@@ -84,8 +85,12 @@ public class Player : MonoBehaviour
 	// Use this for initialization
 	void Start()
 	{
-		// ---TODO: Spawn, Reset
-		playerRigid = GetComponent<Rigidbody>();
+        if (!isLocalPlayer)
+        {
+            return;
+        }
+        // ---TODO: Spawn, Reset
+        playerRigid = GetComponent<Rigidbody>();
 		//camera = transform.GetChild(0).gameObject;
 		camera.GetComponent<MouseLook>().Init(this.transform, camera.transform);
 		Reset();
@@ -97,7 +102,11 @@ public class Player : MonoBehaviour
 	// Update is called once per frame
 	void Update()
 	{
-		camera.GetComponent<MouseLook>().LookRotation(this.transform, camera.transform);
+        if (!isLocalPlayer)
+        {
+            return;
+        }
+        camera.GetComponent<MouseLook>().LookRotation(this.transform, camera.transform);
 		//CheckLife();
 		//GetTimer();
 		//if (!ableToMove)
@@ -108,7 +117,11 @@ public class Player : MonoBehaviour
 
 	void FixedUpdate()
 	{
-		Move();
+        if (!isLocalPlayer)
+        {
+            return;
+        }
+        Move();
 		if (jumpInput)
 			Jump();
 	}

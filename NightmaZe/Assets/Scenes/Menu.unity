@@ -6246,7 +6246,7 @@ MonoBehaviour:
   m_MinPlayers: 2
   m_LobbyPlayerPrefab: {fileID: 11487034, guid: ad727d7e1462ecc4f83c898ecc501997,
     type: 2}
-  m_GamePlayerPrefab: {fileID: 1714883172150854, guid: 71bf7f375094e8d4b90a2b242b607742,
+  m_GamePlayerPrefab: {fileID: 1154432087250344, guid: bd51abd18e211324abd557f72aaf9667,
     type: 2}
   m_LobbyScene: Menu
   m_PlayScene: Main
