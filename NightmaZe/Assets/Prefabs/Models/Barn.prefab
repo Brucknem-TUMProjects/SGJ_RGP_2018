@@ -88,8 +88,6 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4974681919688004}
-  - component: {fileID: 114573122116635794}
-  - component: {fileID: 114884248128867966}
   m_Layer: 0
   m_Name: Barn
   m_TagString: Untagged
@@ -593,56 +591,3 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.015865795, y: 0.00073231687, z: 0.026275124}
   m_Center: {x: -0.008194581, y: 0, z: -0.00092281436}
---- !u!114 &114573122116635794
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1689205082892858}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 372142912, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_SceneId:
-    m_Value: 0
-  m_AssetId:
-    i0: 11
-    i1: 190
-    i2: 55
-    i3: 229
-    i4: 208
-    i5: 40
-    i6: 243
-    i7: 244
-    i8: 58
-    i9: 3
-    i10: 156
-    i11: 46
-    i12: 147
-    i13: 253
-    i14: 185
-    i15: 100
-  m_ServerOnly: 0
-  m_LocalPlayerAuthority: 0
---- !u!114 &114884248128867966
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1689205082892858}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1768714887, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_TransformSyncMode: 1
-  m_SendInterval: 0.1
-  m_SyncRotationAxis: 7
-  m_RotationSyncCompression: 0
-  m_SyncSpin: 0
-  m_MovementTheshold: 0.001
-  m_VelocityThreshold: 0.0001
-  m_SnapThreshold: 5
-  m_InterpolateRotation: 1
-  m_InterpolateMovement: 1

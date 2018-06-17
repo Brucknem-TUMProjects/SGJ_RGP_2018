@@ -105,8 +105,6 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4234629438812532}
-  - component: {fileID: 114966170252130862}
-  - component: {fileID: 114888588351526252}
   m_Layer: 0
   m_Name: Bed
   m_TagString: Untagged
@@ -507,56 +505,3 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.020000007, y: 0.026000004, z: 0.002999999}
   m_Center: {x: 0.000000007450581, y: 0, z: 0}
---- !u!114 &114888588351526252
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1859180367723136}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1768714887, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_TransformSyncMode: 1
-  m_SendInterval: 0.1
-  m_SyncRotationAxis: 7
-  m_RotationSyncCompression: 0
-  m_SyncSpin: 0
-  m_MovementTheshold: 0.001
-  m_VelocityThreshold: 0.0001
-  m_SnapThreshold: 5
-  m_InterpolateRotation: 1
-  m_InterpolateMovement: 1
---- !u!114 &114966170252130862
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1859180367723136}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 372142912, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_SceneId:
-    m_Value: 0
-  m_AssetId:
-    i0: 204
-    i1: 233
-    i2: 53
-    i3: 164
-    i4: 8
-    i5: 125
-    i6: 248
-    i7: 132
-    i8: 154
-    i9: 78
-    i10: 168
-    i11: 80
-    i12: 207
-    i13: 203
-    i14: 107
-    i15: 163
-  m_ServerOnly: 0
-  m_LocalPlayerAuthority: 0

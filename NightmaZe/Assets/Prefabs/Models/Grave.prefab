@@ -22,8 +22,6 @@ GameObject:
   - component: {fileID: 33195095951534736}
   - component: {fileID: 23212948531895070}
   - component: {fileID: 64141375691352040}
-  - component: {fileID: 114817875535931640}
-  - component: {fileID: 114056779754038190}
   m_Layer: 0
   m_Name: Grave
   m_TagString: Untagged
@@ -100,56 +98,3 @@ MeshCollider:
   m_CookingOptions: 14
   m_SkinWidth: 0.01
   m_Mesh: {fileID: 4300000, guid: e16b3865434221f44a5c0898c7cfc83d, type: 3}
---- !u!114 &114056779754038190
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1172728758965892}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1768714887, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_TransformSyncMode: 1
-  m_SendInterval: 0.1
-  m_SyncRotationAxis: 7
-  m_RotationSyncCompression: 0
-  m_SyncSpin: 0
-  m_MovementTheshold: 0.001
-  m_VelocityThreshold: 0.0001
-  m_SnapThreshold: 5
-  m_InterpolateRotation: 1
-  m_InterpolateMovement: 1
---- !u!114 &114817875535931640
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1172728758965892}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 372142912, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_SceneId:
-    m_Value: 0
-  m_AssetId:
-    i0: 131
-    i1: 196
-    i2: 89
-    i3: 28
-    i4: 140
-    i5: 24
-    i6: 113
-    i7: 4
-    i8: 43
-    i9: 35
-    i10: 137
-    i11: 215
-    i12: 39
-    i13: 225
-    i14: 131
-    i15: 106
-  m_ServerOnly: 0
-  m_LocalPlayerAuthority: 0

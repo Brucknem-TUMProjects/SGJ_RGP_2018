@@ -52,7 +52,7 @@ public class PlayerAnimator : MonoBehaviour
         anim.SetFloat("Speed", speed);
         anim.SetFloat("Pose", Mathf.Lerp(anim.GetFloat("Pose"), toPose, Time.fixedDeltaTime * transitionSpeed));
 
-        anim.SetLayerWeight(1, Mathf.Lerp(anim.GetLayerWeight(1), armsForward, Time.deltaTime * transitionSpeed));
+        anim.SetLayerWeight(2, Mathf.Lerp(anim.GetLayerWeight(2), armsForward, Time.deltaTime * transitionSpeed));
     }
 
     public void Jump()

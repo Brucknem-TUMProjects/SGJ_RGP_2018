@@ -1,38 +1,20 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Networking;
+using UnityEngine.SceneManagement;
 
-public class Dreamer : NetworkBehaviour
+public class Dreamer : MonoBehaviour
 {
-    [SyncVar(hook = "OnKeyCollected")]
 	bool keyCollected = false;
-    [SyncVar(hook = "OnLanternCollected")]
 	bool lanternCollected = false;
 
     public PlayerAnimator anim;
 	public Transform keyPocket = null;
 	public Transform lanternPocket = null;
 
-    void OnKeyCollected(bool keyCollected)
-    {
-        //TODO Sound etc..
-    }
-
-    void OnLanternCollected(bool lanternCollected)
-    {
-        //TODO adjust mesh
-    }
-
-
     void Update()
 	{
-        if (!isLocalPlayer)
-        {
-            return;
-        }
-
-        if (Input.GetButtonDown("InteractLeft"))
+        if (Input.GetButtonDown("InteractRight"))
         {
             if (lanternCollected)
             {
@@ -92,10 +74,11 @@ public class Dreamer : NetworkBehaviour
         }
 		if (col.tag == "Door")
 		{
-			if (Input.GetButtonDown("InteractionRight") && keyCollected)
+			if (Input.GetButtonDown("InteractRight") && lanternCollected)
 			{
 				Debug.Log("Key --> Doorlock . . .");
 				// TODO: Call script on door and [increment keyCount] for unlocking progress
+				SceneManager.LoadScene("Endscene");
 			}
 		}
 

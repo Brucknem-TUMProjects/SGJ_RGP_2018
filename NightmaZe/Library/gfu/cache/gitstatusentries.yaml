@@ -12,9 +12,87 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-06-17T12:53:52.850+02:00
-  initializedAtString: 2018-06-17T12:27:14.844+02:00
+  lastUpdatedAtString: 2018-06-17T13:30:32.202+02:00
+  initializedAtString: 2018-06-17T12:55:53.497+02:00
   entries:
+  - path: NightmaZe\Assets\_Scripts\Player\Dreamer.cs
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Dreamer.cs
+    projectPath: Assets\_Scripts\Player\Dreamer.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\_Scripts\Player\Hunter.cs
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Hunter.cs
+    projectPath: Assets\_Scripts\Player\Hunter.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\_Scripts\Player\Player.cs
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Player.cs
+    projectPath: Assets\_Scripts\Player\Player.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\_Scripts\Player\PlayerAnimator.cs
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\PlayerAnimator.cs
+    projectPath: Assets\_Scripts\Player\PlayerAnimator.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\Prefabs\Characters\Dreamer.prefab
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Characters\Dreamer.prefab
+    projectPath: Assets\Prefabs\Characters\Dreamer.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\Prefabs\Characters\Hunter.prefab
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Characters\Hunter.prefab
+    projectPath: Assets\Prefabs\Characters\Hunter.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\Prefabs\Models\Barn.prefab
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\Barn.prefab
+    projectPath: Assets\Prefabs\Models\Barn.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\Prefabs\Models\Bed.prefab
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\Bed.prefab
+    projectPath: Assets\Prefabs\Models\Bed.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\Prefabs\Models\Grave.prefab
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\Grave.prefab
+    projectPath: Assets\Prefabs\Models\Grave.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\Prefabs\Models\Lantern.prefab
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\Lantern.prefab
+    projectPath: Assets\Prefabs\Models\Lantern.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\Prefabs\Models\Lightzone.prefab
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\Lightzone.prefab
+    projectPath: Assets\Prefabs\Models\Lightzone.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\Prefabs\Models\MazeWall.prefab
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\MazeWall.prefab
+    projectPath: Assets\Prefabs\Models\MazeWall.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\Scenes\Main.unity
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Main.unity
+    projectPath: Assets\Scenes\Main.unity
+    originalPath: 
+    status: 3
+    staged: 0
   - path: NightmaZe\Assets\Scenes\Menu.unity
     fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Menu.unity
     projectPath: Assets\Scenes\Menu.unity
@@ -33,9 +111,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: NightmaZe\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
+  - path: NightmaZe\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -48,6 +126,48 @@ MonoBehaviour:
   - path: NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
+    projectPath: Library\metadata\c9\c95a32533f53a0c4685009db3de09913
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
     originalPath: 
     status: 3
     staged: 0

@@ -1,33 +1,21 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Networking;
 
-public class Hunter : NetworkBehaviour
+public class Hunter : MonoBehaviour
 {
 	[SerializeField]
 	PlayerAnimator anim;
-	[SyncVar]
 	float cooldown = 10.0f;
-	[SyncVar]
 	float timer;
 
 	void Start()
 	{
-		if (!isLocalPlayer)
-		{
-			return;
-		}
-
 		timer = Time.time - cooldown;
 	}
 
 	void Update()
 	{
-		if (!isLocalPlayer)
-		{
-			return;
-		}
 
 		if (timer + cooldown < Time.time)
 		{

@@ -36,8 +36,6 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4702070522596234}
-  - component: {fileID: 114165035286621244}
-  - component: {fileID: 114282977036940036}
   m_Layer: 0
   m_Name: MazeWall
   m_TagString: Untagged
@@ -187,56 +185,3 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1279611339784202}
   m_Mesh: {fileID: 4300002, guid: 07ba3975c372ee3469adcb55cd934278, type: 3}
---- !u!114 &114165035286621244
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1619718330320752}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 372142912, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_SceneId:
-    m_Value: 0
-  m_AssetId:
-    i0: 88
-    i1: 202
-    i2: 44
-    i3: 76
-    i4: 211
-    i5: 29
-    i6: 84
-    i7: 164
-    i8: 105
-    i9: 243
-    i10: 29
-    i11: 193
-    i12: 6
-    i13: 115
-    i14: 78
-    i15: 236
-  m_ServerOnly: 0
-  m_LocalPlayerAuthority: 0
---- !u!114 &114282977036940036
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1619718330320752}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1768714887, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_TransformSyncMode: 0
-  m_SendInterval: 0.16666667
-  m_SyncRotationAxis: 7
-  m_RotationSyncCompression: 0
-  m_SyncSpin: 0
-  m_MovementTheshold: 0.001
-  m_VelocityThreshold: 0.0001
-  m_SnapThreshold: 5
-  m_InterpolateRotation: 1
-  m_InterpolateMovement: 1

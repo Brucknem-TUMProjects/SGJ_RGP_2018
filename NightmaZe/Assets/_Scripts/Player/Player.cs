@@ -3,7 +3,7 @@ using UnityEngine.Networking;
 using System.Collections;
 
 [RequireComponent(typeof(Rigidbody))]
-public class Player : NetworkBehaviour
+public class Player : MonoBehaviour
 {
 
 	public enum Posture
@@ -91,10 +91,6 @@ public class Player : NetworkBehaviour
 	// Use this for initialization
 	void Start()
 	{
-		if (!isLocalPlayer)
-		{
-			return;
-		}
 		// ---TODO: Spawn, Reset
 		playerRigid = GetComponent<Rigidbody>();
 		camera = Camera.main.gameObject;
@@ -109,10 +105,6 @@ public class Player : NetworkBehaviour
     // Update is called once per frame
     void Update()
 	{
-		if (!isLocalPlayer)
-		{
-			return;
-		}
 		camera.GetComponent<MouseLook>().LookRotation(this.transform, camera.transform);
 		//CheckLife();
 		//GetTimer();
@@ -124,10 +116,6 @@ public class Player : NetworkBehaviour
 
 	void FixedUpdate()
 	{
-		if (!isLocalPlayer)
-		{
-			return;
-		}
 		Move();
 		if (jumpInput)
 			Jump();
