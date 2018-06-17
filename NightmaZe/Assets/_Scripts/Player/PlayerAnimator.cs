@@ -10,6 +10,8 @@ public class PlayerAnimator : MonoBehaviour
     Rigidbody rigid;
     [SerializeField]
     GameObject hitBox;
+    [SerializeField]
+    Rigidbody[] dreamerRagdolls;
 
     [Space]
     [SerializeField]
@@ -74,5 +76,15 @@ public class PlayerAnimator : MonoBehaviour
             yield return null;
 
         attacking = false;
+    }
+
+    public void Kill()
+    {
+        foreach (Rigidbody r in dreamerRagdolls)
+        {
+            r.isKinematic = false;
+            r.useGravity = true;
+            r.GetComponent<Collider>().enabled = true;
+        }
     }
 }

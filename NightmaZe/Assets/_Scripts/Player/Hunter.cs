@@ -1,21 +1,34 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Networking;
 
-public class Hunter : MonoBehaviour
+public class Hunter : NetworkBehaviour
 {
+	[SerializeField]
+	PlayerAnimator anim;
+	[SyncVar]
 	float cooldown = 10.0f;
+	[SyncVar]
 	float timer;
-
-	Player.MoveSettings moveSettingsBoosted = new Player.MoveSettings();
 
 	void Start()
 	{
+		if (!isLocalPlayer)
+		{
+			return;
+		}
+
 		timer = Time.time - cooldown;
 	}
 
 	void Update()
 	{
+		if (!isLocalPlayer)
+		{
+			return;
+		}
+
 		if (timer + cooldown < Time.time)
 		{
 			Debug.Log("Timer ready");
@@ -28,7 +41,6 @@ public class Hunter : MonoBehaviour
 				// Steuerkreuz nach oben --> Boost speed for 5 secs
 				Debug.Log("Move BoosT");
 				StartCoroutine(BoostSpeed());
-
 			}
 			else if (Input.GetAxisRaw("HorizontalSteuerkreuz") > 0)
 			{
@@ -44,7 +56,7 @@ public class Hunter : MonoBehaviour
 			}
 			timer = Time.time;
 		}
-		if (Input.GetButtonDown("Interact"))
+		if (Input.GetButtonDown("InteractRight"))
 		{
 			Attack();
 		}
@@ -52,8 +64,8 @@ public class Hunter : MonoBehaviour
 
 	void Attack()
 	{
-		Debug.Log("Buff! Was ein Haken!");
-		// TODO: Animation vom Schlagen
+		if (!anim.attacking)
+			anim.Punch();
 	}
 
 	IEnumerator BoostSpeed()
