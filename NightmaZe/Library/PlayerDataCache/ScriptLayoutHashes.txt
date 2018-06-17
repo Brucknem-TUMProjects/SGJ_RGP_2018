@@ -3,11 +3,14 @@ PlayerPath?
 C:/Users/Marian/Git/SGJ_RGP_2018/NightmaZe/NightmaZe.exe
 SceneListBegin?
 Assets/Scenes/Menu.unity
+Assets/Scenes/Cutscene.unity
 Assets/Scenes/Main.unity
+Assets/Scenes/Endscene.unity
 SceneListEnd?
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.NetworkLobbyHook
 3c6e94227310c73a78a287571127da95 Assembly-CSharp.dll:Prototype.NetworkLobby.LobbyMainMenu
 aa062d6bfff90c64e6e674af4fddf436 Assembly-CSharp.dll:.MouseLook
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.EndsceneController
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 cf455f7a806648c6ed4c7d3e3f8a0e03 UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
 13bdb7c23815c33a33b37b0ba8dd39be UnityEngine.Timeline.dll:UnityEngine.Timeline.AnimationPlayableAsset
@@ -123,7 +126,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 05693e88d466615d13f5f88ad166c12b Assembly-CSharp.dll:.PlayerController_
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
-c0d0de7c54d0c009e0a9d1c4cfb40d95 Assembly-CSharp.dll:.Dreamer
+dc46fd3dbc905382e35f3832c10e8ab4 Assembly-CSharp.dll:.Dreamer
 322cb40e1e282f28af980cbef7922a90 UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsEventTracker
 dc07d7ad69b399a46e92c483bf1c04ca UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsTracker
 bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.AudioSpatializerMicrosoft
@@ -184,6 +187,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 dc5fa02202409049bc420a7b6efe5183 Assembly-CSharp.dll:.NetworkSpaceship
 a764ed39791e886a53f13cfce418447e Assembly-CSharp.dll:UnityEngine.PostProcessing.PostProcessingProfile
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.CutsceneController
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 4952d3e07828995ad1faf16d7aa4b359 Assembly-CSharp.dll:.PlayerAnimator
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Prototype.NetworkLobby.DraggablePanel

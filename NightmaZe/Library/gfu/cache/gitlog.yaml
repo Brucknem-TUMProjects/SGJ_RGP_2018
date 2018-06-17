@@ -12,9 +12,495 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-06-17T12:53:51.999+02:00
-  initializedAtString: 2018-06-17T12:53:51.999+02:00
+  lastUpdatedAtString: 2018-06-17T13:50:15.908+02:00
+  initializedAtString: 2018-06-17T13:50:15.908+02:00
   log:
+  - commitID: 877b2aa9ef5c33e21e5eff6c8c4001a22844c0e7
+    mergeA: 
+    mergeB: 
+    authorName: Marian Ludwig
+    authorEmail: ga86lop@mytum.de
+    commitEmail: ga86lop@mytum.de
+    commitName: Marian Ludwig
+    summary: Input managaer
+    description: Input managaer
+    timeString: 2018-06-17T13:49:22.000+02:00
+    commitTimeString: 2018-06-17T13:49:22.000+02:00
+    changes:
+    - path: NightmaZe\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\LastSceneManagerSetup.txt
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\assetDatabase3
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\ProjectSettings\InputManager.asset
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 42d1b696dc54e1cb395613f71561b08cb0de82c1
+    mergeA: 33b6d6d939116196d45ad0416a2b9982fdf355bb
+    mergeB: 2497c4389e034d0f9ba7a3b12331512c72f1d521
+    authorName: Marian Ludwig
+    authorEmail: ga86lop@mytum.de
+    commitEmail: ga86lop@mytum.de
+    commitName: Marian Ludwig
+    summary: Merge branch 'master' of https://github.com/Brucknem/SGJ_RGP_2018
+    description: Merge branch 'master' of https://github.com/Brucknem/SGJ_RGP_2018
+    timeString: 2018-06-17T13:30:55.000+02:00
+    commitTimeString: 2018-06-17T13:30:55.000+02:00
+    changes: []
+  - commitID: 33b6d6d939116196d45ad0416a2b9982fdf355bb
+    mergeA: 
+    mergeB: 
+    authorName: Marian Ludwig
+    authorEmail: ga86lop@mytum.de
+    commitEmail: ga86lop@mytum.de
+    commitName: Marian Ludwig
+    summary: asd
+    description: asd
+    timeString: 2018-06-17T13:30:43.000+02:00
+    commitTimeString: 2018-06-17T13:30:43.000+02:00
+    changes:
+    - path: NightmaZe\Assets\Prefabs\Characters\Dreamer.prefab
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Characters\Dreamer.prefab
+      projectPath: Assets\Prefabs\Characters\Dreamer.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\Characters\Hunter.prefab
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Characters\Hunter.prefab
+      projectPath: Assets\Prefabs\Characters\Hunter.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\Models\Barn.prefab
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\Barn.prefab
+      projectPath: Assets\Prefabs\Models\Barn.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\Models\Bed.prefab
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\Bed.prefab
+      projectPath: Assets\Prefabs\Models\Bed.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\Models\Grave.prefab
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\Grave.prefab
+      projectPath: Assets\Prefabs\Models\Grave.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\Models\Lantern.prefab
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\Lantern.prefab
+      projectPath: Assets\Prefabs\Models\Lantern.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\Models\Lightzone.prefab
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\Lightzone.prefab
+      projectPath: Assets\Prefabs\Models\Lightzone.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\Prefabs\Models\MazeWall.prefab
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Models\MazeWall.prefab
+      projectPath: Assets\Prefabs\Models\MazeWall.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\Scenes\Main.unity
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Main.unity
+      projectPath: Assets\Scenes\Main.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\Scenes\Menu.unity
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Menu.unity
+      projectPath: Assets\Scenes\Menu.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\Player\Dreamer.cs
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Dreamer.cs
+      projectPath: Assets\_Scripts\Player\Dreamer.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\Player\Hunter.cs
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Hunter.cs
+      projectPath: Assets\_Scripts\Player\Hunter.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\Player\Player.cs
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Player.cs
+      projectPath: Assets\_Scripts\Player\Player.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\Player\PlayerAnimator.cs
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\PlayerAnimator.cs
+      projectPath: Assets\_Scripts\Player\PlayerAnimator.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\LastSceneManagerSetup.txt
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\assetDatabase3
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\expandedItems
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
+      projectPath: Library\metadata\c9\c95a32533f53a0c4685009db3de09913
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 2497c4389e034d0f9ba7a3b12331512c72f1d521
+    mergeA: eb537bd8f27ac9f678602c49953a468270541245
+    mergeB: 17384415c6486ad36ad1d5e53fccaf32df3146d0
+    authorName: Akbar Suriaganda
+    authorEmail: akbar.suriaganda@gmail.com
+    commitEmail: akbar.suriaganda@gmail.com
+    commitName: Akbar Suriaganda
+    summary: Merge branch 'Akbar-2'
+    description: Merge branch 'Akbar-2'
+    timeString: 2018-06-17T13:15:58.000+02:00
+    commitTimeString: 2018-06-17T13:15:58.000+02:00
+    changes: []
+  - commitID: 17384415c6486ad36ad1d5e53fccaf32df3146d0
+    mergeA: 
+    mergeB: 
+    authorName: Akbar Suriaganda
+    authorEmail: akbar.suriaganda@gmail.com
+    commitEmail: akbar.suriaganda@gmail.com
+    commitName: Akbar Suriaganda
+    summary: Intro and Epilogue
+    description: Intro and Epilogue
+    timeString: 2018-06-17T13:14:24.000+02:00
+    commitTimeString: 2018-06-17T13:14:24.000+02:00
+    changes:
+    - path: NightmaZe\Assets\Art\Cutscene.meta
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Art\Cutscene.meta
+      projectPath: Assets\Art\Cutscene.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Cutscene\Endscene.anim
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Art\Cutscene\Endscene.anim
+      projectPath: Assets\Art\Cutscene\Endscene.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Cutscene\Endscene.anim.meta
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Art\Cutscene\Endscene.anim.meta
+      projectPath: Assets\Art\Cutscene\Endscene.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Cutscene\NightmaZe_Intro.mp4
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Art\Cutscene\NightmaZe_Intro.mp4
+      projectPath: Assets\Art\Cutscene\NightmaZe_Intro.mp4
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Cutscene\NightmaZe_Intro.mp4.meta
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Art\Cutscene\NightmaZe_Intro.mp4.meta
+      projectPath: Assets\Art\Cutscene\NightmaZe_Intro.mp4.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Cutscene\NightmaZe_Intro_Audio.ogg
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Art\Cutscene\NightmaZe_Intro_Audio.ogg
+      projectPath: Assets\Art\Cutscene\NightmaZe_Intro_Audio.ogg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Cutscene\NightmaZe_Intro_Audio.ogg.meta
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Art\Cutscene\NightmaZe_Intro_Audio.ogg.meta
+      projectPath: Assets\Art\Cutscene\NightmaZe_Intro_Audio.ogg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Cutscene\Text.controller
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Art\Cutscene\Text.controller
+      projectPath: Assets\Art\Cutscene\Text.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Cutscene\Text.controller.meta
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Art\Cutscene\Text.controller.meta
+      projectPath: Assets\Art\Cutscene\Text.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Scenes\Cutscene.unity
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Cutscene.unity
+      projectPath: Assets\Scenes\Cutscene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Scenes\Cutscene.unity.meta
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Cutscene.unity.meta
+      projectPath: Assets\Scenes\Cutscene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Scenes\Endscene.unity
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Endscene.unity
+      projectPath: Assets\Scenes\Endscene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Scenes\Endscene.unity.meta
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Endscene.unity.meta
+      projectPath: Assets\Scenes\Endscene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\CutsceneController.cs
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\CutsceneController.cs
+      projectPath: Assets\_Scripts\CutsceneController.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\CutsceneController.cs.meta
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\CutsceneController.cs.meta
+      projectPath: Assets\_Scripts\CutsceneController.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\Player\EndsceneController.cs
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\EndsceneController.cs
+      projectPath: Assets\_Scripts\Player\EndsceneController.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\Player\EndsceneController.cs.meta
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\EndsceneController.cs.meta
+      projectPath: Assets\_Scripts\Player\EndsceneController.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: eb537bd8f27ac9f678602c49953a468270541245
+    mergeA: 9db6f070cb8a973ed629a13ee1821152bafee7ed
+    mergeB: 401f4507d30165da1ea5a7caef5c7f1f7e0c69ce
+    authorName: Marian Ludwig
+    authorEmail: ga86lop@mytum.de
+    commitEmail: ga86lop@mytum.de
+    commitName: Marian Ludwig
+    summary: Merge branch 'master' of https://github.com/Brucknem/SGJ_RGP_2018
+    description: Merge branch 'master' of https://github.com/Brucknem/SGJ_RGP_2018
+    timeString: 2018-06-17T12:54:19.000+02:00
+    commitTimeString: 2018-06-17T12:54:19.000+02:00
+    changes: []
+  - commitID: 9db6f070cb8a973ed629a13ee1821152bafee7ed
+    mergeA: 
+    mergeB: 
+    authorName: Marian Ludwig
+    authorEmail: ga86lop@mytum.de
+    commitEmail: ga86lop@mytum.de
+    commitName: Marian Ludwig
+    summary: asd
+    description: asd
+    timeString: 2018-06-17T12:54:15.000+02:00
+    commitTimeString: 2018-06-17T12:54:15.000+02:00
+    changes:
+    - path: NightmaZe\Assets\Scenes\Menu.unity
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Menu.unity
+      projectPath: Assets\Scenes\Menu.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\assetDatabase3
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\expandedItems
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 383376d5d99c5d47e9e778320fe28ec86ef1de9d
     mergeA: 
     mergeB: 
@@ -1258,6 +1744,72 @@ MonoBehaviour:
       projectPath: UnityPlayer.dll
       originalPath: 
       status: 4
+      staged: 0
+  - commitID: 401f4507d30165da1ea5a7caef5c7f1f7e0c69ce
+    mergeA: 06a0e1e474b950544be0941e469229a529af6b73
+    mergeB: 635861752fe2079310135a043dcab95a5e7d34b0
+    authorName: Akbar Suriaganda
+    authorEmail: akbar.suriaganda@gmail.com
+    commitEmail: akbar.suriaganda@gmail.com
+    commitName: Akbar Suriaganda
+    summary: Merge branch 'Akbar-2'
+    description: Merge branch 'Akbar-2'
+    timeString: 2018-06-17T12:46:22.000+02:00
+    commitTimeString: 2018-06-17T12:46:22.000+02:00
+    changes: []
+  - commitID: 635861752fe2079310135a043dcab95a5e7d34b0
+    mergeA: 
+    mergeB: 
+    authorName: Akbar Suriaganda
+    authorEmail: akbar.suriaganda@gmail.com
+    commitEmail: akbar.suriaganda@gmail.com
+    commitName: Akbar Suriaganda
+    summary: hold lantern
+    description: hold lantern
+    timeString: 2018-06-17T12:45:49.000+02:00
+    commitTimeString: 2018-06-17T12:45:49.000+02:00
+    changes:
+    - path: NightmaZe\Assets\Art\Characters\Animations\remy.controller
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Art\Characters\Animations\remy.controller
+      projectPath: Assets\Art\Characters\Animations\remy.controller
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\Art\Characters\Remy\ArmForward.anim
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Art\Characters\Remy\ArmForward.anim
+      projectPath: Assets\Art\Characters\Remy\ArmForward.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Characters\Remy\ArmForward.anim.meta
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Art\Characters\Remy\ArmForward.anim.meta
+      projectPath: Assets\Art\Characters\Remy\ArmForward.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Characters\Remy\HandsClosed.anim
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Art\Characters\Remy\HandsClosed.anim
+      projectPath: Assets\Art\Characters\Remy\HandsClosed.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\Art\Characters\Remy\HandsClosed.anim.meta
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Art\Characters\Remy\HandsClosed.anim.meta
+      projectPath: Assets\Art\Characters\Remy\HandsClosed.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\Player\Dreamer.cs
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Dreamer.cs
+      projectPath: Assets\_Scripts\Player\Dreamer.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: NightmaZe\Assets\_Scripts\Player\PlayerAnimator.cs
+      fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\PlayerAnimator.cs
+      projectPath: Assets\_Scripts\Player\PlayerAnimator.cs
+      originalPath: 
+      status: 3
       staged: 0
   - commitID: 06a0e1e474b950544be0941e469229a529af6b73
     mergeA: dcedee180f454a7d402038208cffcc493882003f

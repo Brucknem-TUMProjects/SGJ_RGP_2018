@@ -12,24 +12,48 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-06-17T13:35:12.229+02:00
+  lastUpdatedAtString: 2018-06-17T14:05:36.691+02:00
   initializedAtString: 2018-06-17T13:34:26.373+02:00
   entries:
+  - path: NightmaZe\Assets\Prefabs\Characters\Dreamer.prefab
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Characters\Dreamer.prefab
+    projectPath: Assets\Prefabs\Characters\Dreamer.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\Scenes\Main.unity
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Main.unity
+    projectPath: Assets\Scenes\Main.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\Scenes\Menu.unity
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Menu.unity
+    projectPath: Assets\Scenes\Menu.unity
+    originalPath: 
+    status: 3
+    staged: 0
   - path: NightmaZe\Library\assetDatabase3
     fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     status: 3
     staged: 0
-  - path: NightmaZe\Library\CurrentLayout.dwlt
-    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
-    projectPath: Library\CurrentLayout.dwlt
+  - path: NightmaZe\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: NightmaZe\Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -45,33 +69,81 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: NightmaZe\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    status: 3
-    staged: 0
   - path: NightmaZe\Library\InspectorExpandedItems.asset
     fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\InspectorExpandedItems.asset
     projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     status: 3
     staged: 0
-  - path: NightmaZe\Library\LastSceneManagerSetup.txt
-    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\LastSceneManagerSetup.txt
-    projectPath: Library\LastSceneManagerSetup.txt
+  - path: NightmaZe\Library\LastBuild.buildreport
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\LastBuild.buildreport
+    projectPath: Library\LastBuild.buildreport
     originalPath: 
     status: 3
     staged: 0
-  - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+  - path: NightmaZe\Library\PlayerDataCache\Data\globalgamemanagers
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\globalgamemanagers
+    projectPath: Library\PlayerDataCache\Data\globalgamemanagers
     originalPath: 
     status: 3
     staged: 0
-  - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+  - path: NightmaZe\Library\PlayerDataCache\Data\globalgamemanagers.assets
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\globalgamemanagers.assets
+    projectPath: Library\PlayerDataCache\Data\globalgamemanagers.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\PlayerDataCache\Data\level0
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\level0
+    projectPath: Library\PlayerDataCache\Data\level0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\PlayerDataCache\Data\level1
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\level1
+    projectPath: Library\PlayerDataCache\Data\level1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\PlayerDataCache\Data\level1.resS
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\level1.resS
+    projectPath: Library\PlayerDataCache\Data\level1.resS
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\PlayerDataCache\Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\Managed\Assembly-CSharp.dll
+    projectPath: Library\PlayerDataCache\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\PlayerDataCache\Data\sharedassets0.assets
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\sharedassets0.assets
+    projectPath: Library\PlayerDataCache\Data\sharedassets0.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\PlayerDataCache\Data\sharedassets0.assets.resS
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\sharedassets0.assets.resS
+    projectPath: Library\PlayerDataCache\Data\sharedassets0.assets.resS
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\PlayerDataCache\Data\sharedassets1.assets
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\sharedassets1.assets
+    projectPath: Library\PlayerDataCache\Data\sharedassets1.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\PlayerDataCache\Data\sharedassets1.assets.resS
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\sharedassets1.assets.resS
+    projectPath: Library\PlayerDataCache\Data\sharedassets1.assets.resS
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\PlayerDataCache\ScriptLayoutHashes.txt
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\ScriptLayoutHashes.txt
+    projectPath: Library\PlayerDataCache\ScriptLayoutHashes.txt
     originalPath: 
     status: 3
     staged: 0
@@ -81,9 +153,255 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: NightmaZe\ProjectSettings\InputManager.asset
-    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\ProjectSettings\InputManager.asset
-    projectPath: ProjectSettings\InputManager.asset
+  - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\GI\level1\86\86c0df276386bb48907ca5034eabc29e.caw
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\GI\level1\86\86c0df276386bb48907ca5034eabc29e.caw
+    projectPath: NightmaZe_Data\GI\level1\86\86c0df276386bb48907ca5034eabc29e.caw
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\GI\level1\86\86c0df276386bb48907ca5034eabc29e.ecm
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\GI\level1\86\86c0df276386bb48907ca5034eabc29e.ecm
+    projectPath: NightmaZe_Data\GI\level1\86\86c0df276386bb48907ca5034eabc29e.ecm
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\GI\level1\86\86c0df276386bb48907ca5034eabc29e.iws.sse
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\GI\level1\86\86c0df276386bb48907ca5034eabc29e.iws.sse
+    projectPath: NightmaZe_Data\GI\level1\86\86c0df276386bb48907ca5034eabc29e.iws.sse
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\GI\level1\86\86c0df276386bb48907ca5034eabc29e.rgb
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\GI\level1\86\86c0df276386bb48907ca5034eabc29e.rgb
+    projectPath: NightmaZe_Data\GI\level1\86\86c0df276386bb48907ca5034eabc29e.rgb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\GI\level1\86\86c0df276386bb48907ca5034eabc29e.rsc.sse
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\GI\level1\86\86c0df276386bb48907ca5034eabc29e.rsc.sse
+    projectPath: NightmaZe_Data\GI\level1\86\86c0df276386bb48907ca5034eabc29e.rsc.sse
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\GI\level1\86\86c0df276386bb48907ca5034eabc29e.vis
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\GI\level1\86\86c0df276386bb48907ca5034eabc29e.vis
+    projectPath: NightmaZe_Data\GI\level1\86\86c0df276386bb48907ca5034eabc29e.vis
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\GI\level2\28\28f35d3d334cbee170c66592c30e3823.caw
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\GI\level2\28\28f35d3d334cbee170c66592c30e3823.caw
+    projectPath: NightmaZe_Data\GI\level2\28\28f35d3d334cbee170c66592c30e3823.caw
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\GI\level2\28\28f35d3d334cbee170c66592c30e3823.ecm
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\GI\level2\28\28f35d3d334cbee170c66592c30e3823.ecm
+    projectPath: NightmaZe_Data\GI\level2\28\28f35d3d334cbee170c66592c30e3823.ecm
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\GI\level2\28\28f35d3d334cbee170c66592c30e3823.iws.sse
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\GI\level2\28\28f35d3d334cbee170c66592c30e3823.iws.sse
+    projectPath: NightmaZe_Data\GI\level2\28\28f35d3d334cbee170c66592c30e3823.iws.sse
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\GI\level2\28\28f35d3d334cbee170c66592c30e3823.rgb
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\GI\level2\28\28f35d3d334cbee170c66592c30e3823.rgb
+    projectPath: NightmaZe_Data\GI\level2\28\28f35d3d334cbee170c66592c30e3823.rgb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\GI\level2\28\28f35d3d334cbee170c66592c30e3823.rsc.sse
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\GI\level2\28\28f35d3d334cbee170c66592c30e3823.rsc.sse
+    projectPath: NightmaZe_Data\GI\level2\28\28f35d3d334cbee170c66592c30e3823.rsc.sse
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\GI\level2\28\28f35d3d334cbee170c66592c30e3823.vis
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\GI\level2\28\28f35d3d334cbee170c66592c30e3823.vis
+    projectPath: NightmaZe_Data\GI\level2\28\28f35d3d334cbee170c66592c30e3823.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\globalgamemanagers
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\globalgamemanagers
+    projectPath: NightmaZe_Data\globalgamemanagers
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\globalgamemanagers.assets
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\globalgamemanagers.assets
+    projectPath: NightmaZe_Data\globalgamemanagers.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\level0
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\level0
+    projectPath: NightmaZe_Data\level0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\level1
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\level1
+    projectPath: NightmaZe_Data\level1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\level1.resS
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\level1.resS
+    projectPath: NightmaZe_Data\level1.resS
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\level2
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\level2
+    projectPath: NightmaZe_Data\level2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\level2.resS
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\level2.resS
+    projectPath: NightmaZe_Data\level2.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\level3
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\level3
+    projectPath: NightmaZe_Data\level3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\level3.resS
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\level3.resS
+    projectPath: NightmaZe_Data\level3.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\Managed\Assembly-CSharp.dll
+    projectPath: NightmaZe_Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\sharedassets0.assets
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\sharedassets0.assets
+    projectPath: NightmaZe_Data\sharedassets0.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\sharedassets0.assets.resS
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\sharedassets0.assets.resS
+    projectPath: NightmaZe_Data\sharedassets0.assets.resS
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\sharedassets0.resource
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\sharedassets0.resource
+    projectPath: NightmaZe_Data\sharedassets0.resource
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\sharedassets1.assets
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\sharedassets1.assets
+    projectPath: NightmaZe_Data\sharedassets1.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\sharedassets1.assets.resS
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\sharedassets1.assets.resS
+    projectPath: NightmaZe_Data\sharedassets1.assets.resS
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\sharedassets1.resource
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\sharedassets1.resource
+    projectPath: NightmaZe_Data\sharedassets1.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\sharedassets2.assets
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\sharedassets2.assets
+    projectPath: NightmaZe_Data\sharedassets2.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\sharedassets2.assets.resS
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\sharedassets2.assets.resS
+    projectPath: NightmaZe_Data\sharedassets2.assets.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\sharedassets2.resource
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\sharedassets2.resource
+    projectPath: NightmaZe_Data\sharedassets2.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\NightmaZe_Data\sharedassets3.assets
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\NightmaZe_Data\sharedassets3.assets
+    projectPath: NightmaZe_Data\sharedassets3.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\ProjectSettings\DynamicsManager.asset
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\ProjectSettings\DynamicsManager.asset
+    projectPath: ProjectSettings\DynamicsManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\ProjectSettings\TagManager.asset
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     status: 3
     staged: 0
