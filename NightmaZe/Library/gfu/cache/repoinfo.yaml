@@ -13,12 +13,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cacheType: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-06-17T05:23:53.066+02:00
   initializedAtString: 2018-06-17T05:23:53.066+02:00
 =======
   lastUpdatedAtString: 2018-06-17T05:50:53.589+02:00
   initializedAtString: 2018-06-17T05:35:45.796+02:00
 >>>>>>> MergePlayers
+=======
+  lastUpdatedAtString: 2018-06-17T06:33:33.151+02:00
+  initializedAtString: 2018-06-17T06:33:33.151+02:00
+>>>>>>> Jeff
   currentGitRemote:
     name: origin
     url: https://github.com/Brucknem/SGJ_RGP_2018.git
@@ -28,6 +33,7 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
+<<<<<<< HEAD
     name: Akbar-2
     tracking: '[None]'
   currentConfigBranch:
@@ -40,3 +46,17 @@ MonoBehaviour:
     name: origin
     url: https://github.com/Brucknem/SGJ_RGP_2018.git
   currentHead: 8a01d9a
+=======
+    name: Jeff
+    tracking: origin/Jeff
+  currentConfigBranch:
+    name: Jeff
+    remote:
+      name: origin
+      url: https://github.com/Brucknem/SGJ_RGP_2018.git
+    trackingBranch: Jeff
+  currentConfigRemote:
+    name: origin
+    url: https://github.com/Brucknem/SGJ_RGP_2018.git
+  currentHead: 7b00788
+>>>>>>> Jeff
