@@ -12,6 +12,8 @@ public class PlayerAnimator : MonoBehaviour
     GameObject hitBox;
     [SerializeField]
     Rigidbody[] dreamerRagdolls;
+    [SerializeField]
+    PlayerSoundController sound;
 
     [Space]
     [SerializeField]
@@ -51,6 +53,8 @@ public class PlayerAnimator : MonoBehaviour
         }
         anim.SetFloat("Speed", speed);
         anim.SetFloat("Pose", Mathf.Lerp(anim.GetFloat("Pose"), toPose, Time.fixedDeltaTime * transitionSpeed));
+
+        sound.UpdateStats(rigid.velocity.magnitude, rigid.velocity.y < .1f);
 
         anim.SetLayerWeight(2, Mathf.Lerp(anim.GetLayerWeight(2), armsForward, Time.deltaTime * transitionSpeed));
     }
