@@ -156,8 +156,17 @@ MonoBehaviour:
   - {fileID: 8300000, guid: fd555401db03d0d44964ee5ee3a7dbaa, type: 3}
   - {fileID: 8300000, guid: 8b27ec2deb72eb446a91523c84410d32, type: 3}
   - {fileID: 8300000, guid: cf0bd3f281221584cb7be831c9c5058f, type: 3}
-  minDistance: 5
-  maxDistance: 20
-  minTimeToWait: 8
-  maxTimeToWait: 32
-  chancetoPlay: 0.4
+  - {fileID: 8300000, guid: ed24555e22f2cdb488c790f60605f114, type: 3}
+  - {fileID: 8300000, guid: 43a5b7e587e3bd34e94b552843410f6f, type: 3}
+  - {fileID: 8300000, guid: 6a7d1526f09d4ea4cbb8f800d950794c, type: 3}
+  - {fileID: 8300000, guid: 2eab9c058155d1b4093935078af83628, type: 3}
+  - {fileID: 8300000, guid: c58d7726e5cace645889ab4b8113c18f, type: 3}
+  - {fileID: 8300000, guid: 956d960668e59624297f6eba1be878d5, type: 3}
+  - {fileID: 8300000, guid: 4d5ca9f7d7e24d54ba6f2d285f851c00, type: 3}
+  - {fileID: 8300000, guid: 7dcd49db97683524783fd73871ac2d66, type: 3}
+  - {fileID: 8300000, guid: 0e94f6a85c6a94f4eac775050cc7449e, type: 3}
+  minDistance: 15
+  maxDistance: 30
+  minTimeToWait: 2
+  maxTimeToWait: 6
+  chancetoPlay: 0.75
