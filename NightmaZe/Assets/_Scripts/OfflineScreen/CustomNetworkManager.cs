@@ -6,26 +6,52 @@ using UnityEngine.UI;
 
 public class CustomNetworkManager : MonoBehaviour {
 
+    public bool isAtStartup = true;
+    NetworkClient myClient;
     private NetworkManager manager;
-    private NetworkClient client;
+
     public InputField adress;
 
-    public void Start()
+    private void Start()
     {
         manager = GetComponent<NetworkManager>();
     }
 
-    public void CreateHost()
+    public void SetupHost()
     {
-        manager.networkAddress = adress.text;
-        client = manager.StartHost();
+        SetupServer();
+        SetupLocalClient();
+        manager.StartHost();
     }
 
-    public void CreateClient()
+    // Create a server and listen on a port
+    public void SetupServer()
     {
-        
-            Debug.Log("Connecting");
-            manager.networkAddress = adress.text;
-            manager.StartClient();
+        NetworkServer.Listen(4444);
+        isAtStartup = false;
+    }
+
+    // Create a client and connect to the server port
+    public void SetupClient()
+    {
+        myClient = new NetworkClient();
+        myClient.RegisterHandler(MsgType.Connect, OnConnected);
+        myClient.Connect(adress.text, 4444);
+        isAtStartup = false;
+        manager.StartClient();
+    }
+
+    // Create a local client and connect to the local server
+    public void SetupLocalClient()
+    {
+        myClient = ClientScene.ConnectLocalServer();
+        myClient.RegisterHandler(MsgType.Connect, OnConnected);
+        isAtStartup = false;
+    }
+
+    // client function
+    public void OnConnected(NetworkMessage netMsg)
+    {
+        Debug.Log("Connected to server");
     }
 }

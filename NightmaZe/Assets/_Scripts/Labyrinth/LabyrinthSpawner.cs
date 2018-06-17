@@ -5,7 +5,6 @@ using UnityEngine.Networking;
 
 public class LabyrinthSpawner : NetworkBehaviour {
 
-    private static short playerId = 0;
 
     private Labyrinth labyrinth;
     private GameObject[,] field;
@@ -32,11 +31,16 @@ public class LabyrinthSpawner : NetworkBehaviour {
     //public override void OnStartServer()
     private void Start()
     {
+        //    DontDestroyOnLoad(gameObject);
+
         labyrinth = new Labyrinth(seed);
         Create();
-        ClientScene.AddPlayer(playerId++);
+        if (isLocalPlayer)
+        {
+            ClientScene.AddPlayer((short)Random.Range(0, 32));
+        }
     }
-    
+
     //Initialization methods
     private void Create()
     {

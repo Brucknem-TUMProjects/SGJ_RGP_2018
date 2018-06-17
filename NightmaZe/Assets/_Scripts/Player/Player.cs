@@ -15,13 +15,13 @@ public class Player : MonoBehaviour
     [System.Serializable]
     public class MoveSettings
     {
-        public float runMultiplier = 1.3f;
-        public float walkVelocity = 20;
-        public float crouchVelocity = 15;
-        public float proneVelocity = 5;
-        public float jumpVelocity = 5f;
-        public float rotationSpeed = 7;
-        public float distanceToGround = 1.3f;
+        public float runMultiplier = 2f;
+        public float walkVelocity = 2f;
+        public float crouchVelocity = 1.5f;
+        public float proneVelocity = 1f;
+        public float jumpVelocity = 3f;
+        public float rotationSpeed = 2;
+        public float distanceToGround = .1f;
         public LayerMask ground;
     }
 
@@ -31,12 +31,14 @@ public class Player : MonoBehaviour
     public float holdTimeForProne = 1.0f;
     public Collider[] postureCollider;          //0: Standing, 1:Crouching, 2:Proning
     public GameObject camera;
+	public float speedBoost = 1;
     #endregion
 
     #region private attributes
     private Rigidbody playerRigid;
     private Vector3 velocity;
 
+	private int stamina;
     private float downTime;
     private float speedValue;
     private Posture currentPosture;
@@ -53,6 +55,7 @@ public class Player : MonoBehaviour
     {
         velocity = Vector3.zero;
         downTime = 0;
+		stamina = 100;
         speedValue = moveSettings.walkVelocity;
         jumpInput = skipButtonUpEvent = false;
         currentPosture = Posture.standing;
@@ -114,12 +117,19 @@ public class Player : MonoBehaviour
     {
         velocity = new Vector3(Input.GetAxis("Horizontal"), playerRigid.velocity.y, Input.GetAxis("Vertical"));
         velocity *= speedValue;
-        if (Input.GetAxis("RT") > 0)
-        {
-            if (velocity.z > 0)
-                velocity.z *= moveSettings.runMultiplier;
-        }
-        // Default
+		if (Input.GetAxis("RT") > 0)
+		{
+			if (velocity.z > 0)
+			{
+				velocity.z *= moveSettings.runMultiplier;
+				// TODO: Decrease Stamina Bar
+			}
+		}
+		else
+		{
+			// TODO: Increase Stamina Bar
+		}
+		velocity *= speedBoost; //Only used by Hunter aber i war zu faul was anderes zu machen
         velocity.y = playerRigid.velocity.y;
         playerRigid.velocity = Vector3.Lerp(playerRigid.velocity, transform.TransformDirection(velocity), Time.fixedDeltaTime * 7f);
     }
@@ -128,7 +138,7 @@ public class Player : MonoBehaviour
     void GetButtonInput()
     {
         // Crouching, Proning = Hold Crouch Button	
-        if (Input.GetButton("ControllerXButton"))
+        if (Input.GetButton("ControllerBButton"))
         {
             if (!stopReadingInput)
             {
@@ -138,7 +148,7 @@ public class Player : MonoBehaviour
             else
                 skipButtonUpEvent = true;
         }
-        if (Input.GetButtonUp("ControllerXButton") || downTime >= holdTimeForProne)
+        if (Input.GetButtonUp("ControllerBButton") || downTime >= holdTimeForProne)
         {
             if (downTime < holdTimeForProne && !skipButtonUpEvent)
             {
@@ -178,7 +188,7 @@ public class Player : MonoBehaviour
                 }
             }
 
-            if (Input.GetButtonUp("ControllerXButton"))
+            if (Input.GetButtonUp("ControllerBButton"))
             {
                 stopReadingInput = false;
                 skipButtonUpEvent = false;
@@ -195,11 +205,11 @@ public class Player : MonoBehaviour
         bool canStandUp = true;
         if (currentPosture == Posture.crouching)
         {
-            canStandUp = !CheckForCeiling(0.9f);
+            canStandUp = !CheckForCeiling(1.8f);
         }
         else if (currentPosture == Posture.proning)
         {
-            canStandUp = !CheckForCeiling(1.3f);
+            canStandUp = !CheckForCeiling(1.8f);
         }
 
         // Perform standing up
@@ -223,7 +233,7 @@ public class Player : MonoBehaviour
     {
         if (currentPosture == Posture.proning)
         {
-            if (CheckForCeiling(0.1f))
+            if (CheckForCeiling(1.2f))
             {
                 // TODO: Switch Colliders, animate Character
                 Debug.Log("Cannot go to crouch from prone!");
@@ -248,6 +258,7 @@ public class Player : MonoBehaviour
         postureCollider[2].enabled = true;
         currentPosture = Posture.proning;
         speedValue = moveSettings.proneVelocity;
+		Debug.Log("Proning..");
         // Nice to have: Check if proning is possible! (?)
         return true;
     }
@@ -257,7 +268,7 @@ public class Player : MonoBehaviour
     {
         if (OnGround() && currentPosture == Posture.standing)
         {
-            playerRigid.velocity = new Vector3(playerRigid.velocity.x, moveSettings.jumpVelocity, playerRigid.velocity.z);
+            playerRigid.velocity = new Vector3(playerRigid.velocity.x, moveSettings.jumpVelocity, playerRigid.velocity.z) * speedBoost;
         }
         jumpInput = false;
     }
@@ -312,4 +323,9 @@ public class Player : MonoBehaviour
     {
         return currentPosture;
     }
+
+	public int GetStamina()
+	{
+		return stamina;
+	}
 }

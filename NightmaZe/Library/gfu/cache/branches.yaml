@@ -12,19 +12,29 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-06-16T20:26:50.324+02:00
-  initializedAtString: 2018-06-16T18:58:51.212+02:00
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-06-17T01:18:07.454+02:00
+  initializedAtString: 2018-06-17T01:12:45.690+02:00
+=======
+  lastUpdatedAtString: 2018-06-17T01:29:21.119+02:00
+  initializedAtString: 2018-06-16T23:42:44.108+02:00
+>>>>>>> JaegerSkills
   localBranches:
-  - name: Marcel
-    tracking: origin/Marcel
+  - name: JaegerSkills
+    tracking: origin/JaegerSkills
   - name: Marian
     tracking: origin/Marian
   - name: master
     tracking: origin/master
-  - name: StartMenu
-    tracking: origin/StartMenu
   remoteBranches:
   - name: origin/Akbar
+    tracking: '[None]'
+<<<<<<< HEAD
+=======
+  - name: origin/HEAD
+    tracking: '[None]'
+>>>>>>> JaegerSkills
+  - name: origin/JaegerSkills
     tracking: '[None]'
   - name: origin/Jeff
     tracking: '[None]'
@@ -46,16 +56,15 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - Marcel
+    - JaegerSkills
     - Marian
     - master
-    - StartMenu
     values:
-    - name: Marcel
+    - name: JaegerSkills
       remote:
         name: origin
         url: https://github.com/Brucknem/SGJ_RGP_2018.git
-      trackingBranch: Marcel
+      trackingBranch: JaegerSkills
     - name: Marian
       remote:
         name: origin
@@ -66,17 +75,17 @@ MonoBehaviour:
         name: origin
         url: https://github.com/Brucknem/SGJ_RGP_2018.git
       trackingBranch: master
-    - name: StartMenu
-      remote:
-        name: origin
-        url: https://github.com/Brucknem/SGJ_RGP_2018.git
-      trackingBranch: StartMenu
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
       - Akbar
+<<<<<<< HEAD
+=======
+      - HEAD
+>>>>>>> JaegerSkills
+      - JaegerSkills
       - Jeff
       - Marcel
       - Marian
@@ -85,6 +94,19 @@ MonoBehaviour:
     subKeyValues:
     - Values:
       - name: Akbar
+        remote:
+          name: origin
+          url: https://github.com/Brucknem/SGJ_RGP_2018.git
+        trackingBranch: 
+<<<<<<< HEAD
+=======
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/Brucknem/SGJ_RGP_2018.git
+        trackingBranch: 
+>>>>>>> JaegerSkills
+      - name: JaegerSkills
         remote:
           name: origin
           url: https://github.com/Brucknem/SGJ_RGP_2018.git

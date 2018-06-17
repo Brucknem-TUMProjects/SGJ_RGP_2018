@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
+- path: Assets/Scenes/Lobby.unity
+=======
 - path: Assets/Scenes/Marian.unity
+>>>>>>> d69c809ed06653787d8de1531c40c0cb1bf67923
   isLoaded: 1
   isActive: 1
