@@ -12,19 +12,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-06-17T04:52:55.434+02:00
   initializedAtString: 2018-06-17T01:31:50.331+02:00
+=======
+  lastUpdatedAtString: 2018-06-17T02:49:14.051+02:00
+  initializedAtString: 2018-06-17T02:49:13.994+02:00
+>>>>>>> 5f85e61cc695d4636202d7987f808ab8708d1a04
   localBranches:
-  - name: Marcel
-    tracking: origin/Marcel
+  - name: JaegerSkills
+    tracking: origin/JaegerSkills
   - name: Marian
     tracking: origin/Marian
   - name: master
     tracking: origin/master
-  - name: StartMenu
-    tracking: origin/StartMenu
   remoteBranches:
   - name: origin/Akbar
+    tracking: '[None]'
+  - name: origin/HEAD
     tracking: '[None]'
   - name: origin/JaegerSkills
     tracking: '[None]'
@@ -48,16 +53,15 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - Marcel
+    - JaegerSkills
     - Marian
     - master
-    - StartMenu
     values:
-    - name: Marcel
+    - name: JaegerSkills
       remote:
         name: origin
         url: https://github.com/Brucknem/SGJ_RGP_2018.git
-      trackingBranch: Marcel
+      trackingBranch: JaegerSkills
     - name: Marian
       remote:
         name: origin
@@ -68,17 +72,13 @@ MonoBehaviour:
         name: origin
         url: https://github.com/Brucknem/SGJ_RGP_2018.git
       trackingBranch: master
-    - name: StartMenu
-      remote:
-        name: origin
-        url: https://github.com/Brucknem/SGJ_RGP_2018.git
-      trackingBranch: StartMenu
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
       - Akbar
+      - HEAD
       - JaegerSkills
       - Jeff
       - Marcel
@@ -88,6 +88,11 @@ MonoBehaviour:
     subKeyValues:
     - Values:
       - name: Akbar
+        remote:
+          name: origin
+          url: https://github.com/Brucknem/SGJ_RGP_2018.git
+        trackingBranch: 
+      - name: HEAD
         remote:
           name: origin
           url: https://github.com/Brucknem/SGJ_RGP_2018.git

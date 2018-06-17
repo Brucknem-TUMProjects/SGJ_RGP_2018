@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-06-17T04:52:56.338+02:00
   initializedAtString: 2018-06-17T01:40:00.226+02:00
   log:
@@ -24151,3 +24152,8 @@ MonoBehaviour:
       originalPath: 
       status: 4
       staged: 0
+=======
+  lastUpdatedAtString: 0001-01-01T00:00:00.000+00:00
+  initializedAtString: 0001-01-01T00:00:00.000+00:00
+  log: []
+>>>>>>> 5f85e61cc695d4636202d7987f808ab8708d1a04
