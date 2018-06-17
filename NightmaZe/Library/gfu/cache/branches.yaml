@@ -12,34 +12,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  lastUpdatedAtString: 2018-06-17T04:52:55.434+02:00
-  initializedAtString: 2018-06-17T01:31:50.331+02:00
-=======
-  lastUpdatedAtString: 2018-06-17T02:49:14.051+02:00
-  initializedAtString: 2018-06-17T02:49:13.994+02:00
->>>>>>> 5f85e61cc695d4636202d7987f808ab8708d1a04
-=======
-  lastUpdatedAtString: 2018-06-17T05:50:53.525+02:00
-  initializedAtString: 2018-06-17T05:35:46.591+02:00
->>>>>>> MergePlayers
-=======
-  lastUpdatedAtString: 2018-06-17T07:00:31.959+02:00
-  initializedAtString: 2018-06-17T07:00:30.992+02:00
->>>>>>> Jeff
+  lastUpdatedAtString: 2018-06-17T08:03:59.843+02:00
+  initializedAtString: 2018-06-17T07:34:00.234+02:00
   localBranches:
-  - name: Jeff
-    tracking: origin/Jeff
+  - name: Marcel
+    tracking: origin/Marcel
+  - name: Marian
+    tracking: origin/Marian
   - name: master
     tracking: origin/master
+  - name: MergePlayers
+    tracking: origin/MergePlayers
+  - name: StartMenu
+    tracking: origin/StartMenu
   remoteBranches:
   - name: origin/Akbar
     tracking: '[None]'
   - name: origin/Akbar-2
-    tracking: '[None]'
-  - name: origin/HEAD
     tracking: '[None]'
   - name: origin/JaegerSkills
     tracking: '[None]'
@@ -65,19 +54,37 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - Jeff
+    - Marcel
+    - Marian
     - master
+    - MergePlayers
+    - StartMenu
     values:
-    - name: Jeff
+    - name: Marcel
       remote:
         name: origin
         url: https://github.com/Brucknem/SGJ_RGP_2018.git
-      trackingBranch: Jeff
+      trackingBranch: Marcel
+    - name: Marian
+      remote:
+        name: origin
+        url: https://github.com/Brucknem/SGJ_RGP_2018.git
+      trackingBranch: Marian
     - name: master
       remote:
         name: origin
         url: https://github.com/Brucknem/SGJ_RGP_2018.git
       trackingBranch: master
+    - name: MergePlayers
+      remote:
+        name: origin
+        url: https://github.com/Brucknem/SGJ_RGP_2018.git
+      trackingBranch: MergePlayers
+    - name: StartMenu
+      remote:
+        name: origin
+        url: https://github.com/Brucknem/SGJ_RGP_2018.git
+      trackingBranch: StartMenu
   remoteConfigBranches:
     keys:
     - origin
@@ -85,7 +92,6 @@ MonoBehaviour:
     - Values:
       - Akbar
       - Akbar-2
-      - HEAD
       - JaegerSkills
       - Jeff
       - Marcel
@@ -101,11 +107,6 @@ MonoBehaviour:
           url: https://github.com/Brucknem/SGJ_RGP_2018.git
         trackingBranch: 
       - name: Akbar-2
-        remote:
-          name: origin
-          url: https://github.com/Brucknem/SGJ_RGP_2018.git
-        trackingBranch: 
-      - name: HEAD
         remote:
           name: origin
           url: https://github.com/Brucknem/SGJ_RGP_2018.git
