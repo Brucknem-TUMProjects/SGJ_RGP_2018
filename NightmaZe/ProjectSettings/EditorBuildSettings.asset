@@ -12,9 +12,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Lobby.unity
     guid: 8b9ec9437eaf4b946ba9c42be9a0d707
   - enabled: 1
+    path: Assets/Scenes/Cutscene.unity
+    guid: e22875f38560ee741b0f0af7ca447c3a
+  - enabled: 1
     path: Assets/Scenes/Main.unity
     guid: fa8a92914eea2bd4f9182e00c77833fc
   - enabled: 0
     path: Assets/SampleScenes/Scenes/NetworkLobby.unity
     guid: 3c0d76c55eed6214f9d3b070caede5d3
+  - enabled: 1
+    path: Assets/Scenes/Endscene.unity
+    guid: 177650cf5e580344eac70b8348cb3820
   m_configObjects: {}
