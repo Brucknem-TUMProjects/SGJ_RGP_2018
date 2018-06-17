@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-06-17T13:23:08.684+02:00
-  initializedAtString: 2018-06-17T13:23:08.617+02:00
+  lastUpdatedAtString: 2018-06-17T13:50:14.706+02:00
+  initializedAtString: 2018-06-17T13:50:14.666+02:00
   localBranches:
   - name: JaegerSkills
     tracking: origin/JaegerSkills
