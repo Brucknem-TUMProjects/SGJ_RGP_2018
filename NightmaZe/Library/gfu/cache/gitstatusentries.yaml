@@ -12,24 +12,38 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-06-17T12:06:57.121+02:00
+  lastUpdatedAtString: 2018-06-17T12:16:50.042+02:00
   initializedAtString: 2018-06-17T12:06:54.224+02:00
   entries:
-  - path: NightmaZe\Assets\Sounds\Voice.meta
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\Voice.meta
-    projectPath: Assets\Sounds\Voice.meta
+  - path: NightmaZe\Assets\Prefabs\UI\MusicManager.prefab
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\UI\MusicManager.prefab
+    projectPath: Assets\Prefabs\UI\MusicManager.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\Scenes\Menu.unity
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Menu.unity
+    projectPath: Assets\Scenes\Menu.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\Sounds\Music\Giant Wyrm.mp3
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\Music\Giant
+      Wyrm.mp3
+    projectPath: Assets\Sounds\Music\Giant Wyrm.mp3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\Sounds\Music\Giant Wyrm.mp3.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\Music\Giant
+      Wyrm.mp3.meta
+    projectPath: Assets\Sounds\Music\Giant Wyrm.mp3.meta
     originalPath: 
     status: 1
     staged: 0
   - path: NightmaZe\Library\assetDatabase3
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
     projectPath: Library\assetDatabase3
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: NightmaZe\Library\CurrentLayout.dwlt
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
-    projectPath: Library\CurrentLayout.dwlt
     originalPath: 
     status: 3
     staged: 0
@@ -66,12 +80,6 @@ MonoBehaviour:
   - path: NightmaZe\Library\gfu\cache\repoinfo.yaml
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     status: 3
     staged: 0
