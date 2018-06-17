@@ -1,21 +1,61 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Networking;
 
-public class Hunter : MonoBehaviour
+public class Hunter : NetworkBehaviour
 {
+<<<<<<< HEAD
     [SerializeField]
     PlayerAnimator anim;
+=======
+    [SyncVar]
+	float cooldown = 10.0f;
+    [SyncVar]
+	float timer;
+>>>>>>> MergePlayers
 
     float cooldown = 10.0f;
     float timer;
 
+<<<<<<< HEAD
     Player.MoveSettings moveSettingsBoosted = new Player.MoveSettings();
 
     void Start()
     {
         timer = Time.time - cooldown;
     }
+=======
+	void Start()
+	{
+        if (!isLocalPlayer)
+        {
+            return;
+        }
+
+        timer = Time.time - cooldown;
+	}
+
+	void Update()
+	{
+        if (!isLocalPlayer)
+        {
+            return;
+        }
+
+        if (timer + cooldown < Time.time)
+		{
+			Debug.Log("Timer ready");
+			if (Input.GetAxisRaw("VerticalSteuerkreuz") < 0)
+			{
+				// Steuerkreuz nach unten
+			}
+			else if (Input.GetAxisRaw("VerticalSteuerkreuz") > 0)
+			{
+				// Steuerkreuz nach oben --> Boost speed for 5 secs
+				Debug.Log("Move BoosT");
+				StartCoroutine(BoostSpeed());
+>>>>>>> MergePlayers
 
     void Update()
     {

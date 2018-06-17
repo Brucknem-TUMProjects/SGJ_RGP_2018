@@ -12,33 +12,59 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-06-17T05:29:53.442+02:00
   initializedAtString: 2018-06-17T05:23:53.221+02:00
   entries:
   - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
     projectPath: .vs\NightmaZe\v15\Server\sqlite3\storage.ide
+=======
+  lastUpdatedAtString: 2018-06-17T06:16:52.738+02:00
+  initializedAtString: 2018-06-17T05:35:45.947+02:00
+  entries:
+  - path: NightmaZe\Assets\_Scripts\Player\Dreamer.cs
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Dreamer.cs
+    projectPath: Assets\_Scripts\Player\Dreamer.cs
+>>>>>>> MergePlayers
     originalPath: 
     status: 3
     staged: 0
   - path: NightmaZe\Assets\_Scripts\Player\Hunter.cs
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Hunter.cs
+=======
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Hunter.cs
+>>>>>>> MergePlayers
     projectPath: Assets\_Scripts\Player\Hunter.cs
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Assets\_Scripts\Player\HunterHitBox.cs
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\HunterHitBox.cs
     projectPath: Assets\_Scripts\Player\HunterHitBox.cs
+=======
+  - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyManager.cs
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyManager.cs
+    projectPath: Assets\Lobby\Scripts\Lobby\LobbyManager.cs
+>>>>>>> MergePlayers
     originalPath: 
     status: 1
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Assets\_Scripts\Player\HunterHitBox.cs.meta
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\HunterHitBox.cs.meta
     projectPath: Assets\_Scripts\Player\HunterHitBox.cs.meta
+=======
+  - path: NightmaZe\Assets\Prefabs\LabyrinthTiles\Ground.prefab
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LabyrinthTiles\Ground.prefab
+    projectPath: Assets\Prefabs\LabyrinthTiles\Ground.prefab
+>>>>>>> MergePlayers
     originalPath: 
     status: 1
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Assets\Prefabs\Characters\Hunter.prefab
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Characters\Hunter.prefab
     projectPath: Assets\Prefabs\Characters\Hunter.prefab
@@ -84,34 +110,81 @@ MonoBehaviour:
   - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\mosquito.wav.meta
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\mosquito.wav.meta
     projectPath: Assets\Sounds\SFX\LicenseUnclear\mosquito.wav.meta
+=======
+  - path: NightmaZe\Builds\Builds_Data\globalgamemanagers
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\globalgamemanagers
+    projectPath: Builds\Builds_Data\globalgamemanagers
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
+  - path: NightmaZe\Builds\Builds_Data\globalgamemanagers.assets
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\globalgamemanagers.assets
+    projectPath: Builds\Builds_Data\globalgamemanagers.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Builds\Builds_Data\level0
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\level0
+    projectPath: Builds\Builds_Data\level0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Builds\Builds_Data\level1
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\level1
+    projectPath: Builds\Builds_Data\level1
+>>>>>>> MergePlayers
+    originalPath: 
+    status: 3
+    staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\nuclear alarm.wav.meta
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\nuclear
       alarm.wav.meta
     projectPath: Assets\Sounds\SFX\LicenseUnclear\nuclear alarm.wav.meta
+=======
+  - path: NightmaZe\Builds\Builds_Data\Managed\Assembly-CSharp.dll
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\Managed\Assembly-CSharp.dll
+    projectPath: Builds\Builds_Data\Managed\Assembly-CSharp.dll
+>>>>>>> MergePlayers
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\police siren.wav.meta
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\police
       siren.wav.meta
     projectPath: Assets\Sounds\SFX\LicenseUnclear\police siren.wav.meta
+=======
+  - path: NightmaZe\Builds\Builds_Data\sharedassets0.assets
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\sharedassets0.assets
+    projectPath: Builds\Builds_Data\sharedassets0.assets
+>>>>>>> MergePlayers
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\preditor.wav.meta
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\preditor.wav.meta
     projectPath: Assets\Sounds\SFX\LicenseUnclear\preditor.wav.meta
+=======
+  - path: NightmaZe\Builds\Builds_Data\sharedassets0.assets.resS
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\sharedassets0.assets.resS
+    projectPath: Builds\Builds_Data\sharedassets0.assets.resS
+>>>>>>> MergePlayers
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\tumbleweed.wav.meta
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\tumbleweed.wav.meta
     projectPath: Assets\Sounds\SFX\LicenseUnclear\tumbleweed.wav.meta
+=======
+  - path: NightmaZe\Builds\Builds_Data\sharedassets1.assets
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\sharedassets1.assets
+    projectPath: Builds\Builds_Data\sharedassets1.assets
+>>>>>>> MergePlayers
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: NightmaZe\Library\assetDatabase3
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
@@ -119,9 +192,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\CurrentLayout.dwlt
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
     projectPath: Library\CurrentLayout.dwlt
+=======
+  - path: NightmaZe\Library\gfu\cache\branches.yaml
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+>>>>>>> MergePlayers
     originalPath: 
     status: 3
     staged: 0
@@ -155,6 +234,7 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\06\060e7a8de6396224ead061f4e72c823c.info
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\06\060e7a8de6396224ead061f4e72c823c.info
     projectPath: Library\metadata\06\060e7a8de6396224ead061f4e72c823c.info
@@ -929,3 +1009,155 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+=======
+  - path: NightmaZe\Library\LastBuild.buildreport
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\LastBuild.buildreport
+    projectPath: Library\LastBuild.buildreport
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\f1\f12809d974d148f4a9b815fb9db138af.info
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f1\f12809d974d148f4a9b815fb9db138af.info
+    projectPath: Library\metadata\f1\f12809d974d148f4a9b815fb9db138af.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\PlayerDataCache\Data\globalgamemanagers
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\globalgamemanagers
+    projectPath: Library\PlayerDataCache\Data\globalgamemanagers
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\PlayerDataCache\Data\globalgamemanagers.assets
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\globalgamemanagers.assets
+    projectPath: Library\PlayerDataCache\Data\globalgamemanagers.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\PlayerDataCache\Data\level0
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\level0
+    projectPath: Library\PlayerDataCache\Data\level0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\PlayerDataCache\Data\level1
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\level1
+    projectPath: Library\PlayerDataCache\Data\level1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\PlayerDataCache\Data\Managed\Assembly-CSharp.dll
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\Managed\Assembly-CSharp.dll
+    projectPath: Library\PlayerDataCache\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\PlayerDataCache\Data\sharedassets0.assets
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\sharedassets0.assets
+    projectPath: Library\PlayerDataCache\Data\sharedassets0.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\PlayerDataCache\Data\sharedassets0.assets.resS
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\sharedassets0.assets.resS
+    projectPath: Library\PlayerDataCache\Data\sharedassets0.assets.resS
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\PlayerDataCache\Data\sharedassets1.assets
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\sharedassets1.assets
+    projectPath: Library\PlayerDataCache\Data\sharedassets1.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\PlayerDataCache\ScriptLayoutHashes.txt
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\ScriptLayoutHashes.txt
+    projectPath: Library\PlayerDataCache\ScriptLayoutHashes.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\obj\Debug\Assembly-CSharp.dll
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.dll
+    projectPath: obj\Debug\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\ProjectSettings\EditorBuildSettings.asset
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\ProjectSettings\ProjectSettings.asset
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+>>>>>>> MergePlayers

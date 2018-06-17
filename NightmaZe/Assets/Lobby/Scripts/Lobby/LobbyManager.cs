@@ -30,7 +30,7 @@ namespace Prototype.NetworkLobby
         public LobbyInfoPanel infoPanel;
         public LobbyCountdownPanel countdownPanel;
         public GameObject addPlayerButton;
-
+        
         protected RectTransform currentPanel;
 
         public Button backButton;
