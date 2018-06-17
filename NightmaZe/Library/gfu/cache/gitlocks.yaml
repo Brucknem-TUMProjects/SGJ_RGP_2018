@@ -14,6 +14,7 @@ MonoBehaviour:
   cacheType: 6
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-06-17T05:29:05.953+02:00
   initializedAtString: 2018-06-17T05:23:59.786+02:00
 =======
@@ -24,4 +25,8 @@ MonoBehaviour:
   lastUpdatedAtString: 2018-06-17T07:23:56.255+02:00
   initializedAtString: 2018-06-17T06:33:41.369+02:00
 >>>>>>> Jeff
+=======
+  lastUpdatedAtString: 2018-06-17T07:49:30.252+02:00
+  initializedAtString: 2018-06-17T07:44:29.621+02:00
+>>>>>>> Marian
   gitLocks: []

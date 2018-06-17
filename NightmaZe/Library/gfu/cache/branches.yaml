@@ -15,6 +15,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-06-17T04:52:55.434+02:00
   initializedAtString: 2018-06-17T01:31:50.331+02:00
 =======
@@ -29,6 +30,10 @@ MonoBehaviour:
   lastUpdatedAtString: 2018-06-17T07:00:31.959+02:00
   initializedAtString: 2018-06-17T07:00:30.992+02:00
 >>>>>>> Jeff
+=======
+  lastUpdatedAtString: 2018-06-17T07:35:55.855+02:00
+  initializedAtString: 2018-06-17T06:30:45.008+02:00
+>>>>>>> Marian
   localBranches:
   - name: Jeff
     tracking: origin/Jeff
