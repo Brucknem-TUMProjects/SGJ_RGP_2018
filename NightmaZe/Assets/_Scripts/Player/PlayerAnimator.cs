@@ -69,13 +69,12 @@ public class PlayerAnimator : MonoBehaviour
     {
         anim.SetTrigger("Punch");
         attacking = true;
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(.8f);
 
         hitBox.SetActive(true);
-        while(anim.GetCurrentAnimatorClipInfo(0)[0].clip.name == "Punch")
-            yield return null;
-
-        attacking = false;
+		yield return new WaitForSeconds(.5f);
+		hitBox.SetActive(false);
+		attacking = false;
     }
 
     public void Kill()

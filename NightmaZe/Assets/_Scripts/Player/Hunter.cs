@@ -28,6 +28,10 @@ public class Hunter : NetworkBehaviour
 		{
 			return;
 		}
+		if (Input.GetButtonDown("InteractRight"))
+		{
+			Attack();
+		}
 
 		if (timer + cooldown < Time.time)
 		{
@@ -55,10 +59,6 @@ public class Hunter : NetworkBehaviour
 				return;
 			}
 			timer = Time.time;
-		}
-		if (Input.GetButtonDown("InteractRight"))
-		{
-			Attack();
 		}
 	}
 
