@@ -21,7 +21,6 @@ GameObject:
   - component: {fileID: 4697028540831876}
   - component: {fileID: 114061823364799178}
   - component: {fileID: 114358272527973344}
-  - component: {fileID: 114927111643935904}
   - component: {fileID: 114084661267549844}
   m_Layer: 0
   m_Name: Network Manager
@@ -29,7 +28,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4697028540831876
 Transform:
   m_ObjectHideFlags: 1
@@ -63,15 +62,17 @@ MonoBehaviour:
   m_ScriptCRCCheck: 1
   m_MaxDelay: 0.01
   m_LogLevel: 2
-  m_PlayerPrefab: {fileID: 1714883172150854, guid: 71bf7f375094e8d4b90a2b242b607742,
+  m_PlayerPrefab: {fileID: 1331015638749716, guid: 4f4ecca0dcbe71c4f90480806c67a8bb,
     type: 2}
-  m_AutoCreatePlayer: 0
+  m_AutoCreatePlayer: 1
   m_PlayerSpawnMethod: 0
-  m_OfflineScene: 
-  m_OnlineScene: 
+  m_OfflineScene: Menu
+  m_OnlineScene: Main
   m_SpawnPrefabs:
   - {fileID: 1105152169398206, guid: 4be79cdb7ca07e146b32b8fe1656fdb7, type: 2}
   - {fileID: 1209705189929016, guid: e88fc7322ff09384abcd5fb20c45151f, type: 2}
+  - {fileID: 1154432087250344, guid: bd51abd18e211324abd557f72aaf9667, type: 2}
+  - {fileID: 1331015638749716, guid: 4f4ecca0dcbe71c4f90480806c67a8bb, type: 2}
   m_CustomConfig: 0
   m_MaxConnections: 4
   m_ConnectionConfig:
@@ -133,7 +134,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1678775453395698}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 216067f12de826f43b8a78ddeaf6cd05, type: 3}
   m_Name: 
@@ -153,16 +154,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   manager: {fileID: 0}
   showGUI: 1
-  offsetX: 100
-  offsetY: 100
---- !u!114 &114927111643935904
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1678775453395698}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eae8d683236a2284f9ca5201bf2afded, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  offsetX: 50
+  offsetY: 50

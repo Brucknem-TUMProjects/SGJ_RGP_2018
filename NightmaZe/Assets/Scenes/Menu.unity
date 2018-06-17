@@ -172,7 +172,10 @@ MonoBehaviour:
   m_PlayerSpawnMethod: 0
   m_OfflineScene: Menu
   m_OnlineScene: 
-  m_SpawnPrefabs: []
+  m_SpawnPrefabs:
+  - {fileID: 1331015638749716, guid: 4f4ecca0dcbe71c4f90480806c67a8bb, type: 2}
+  - {fileID: 1154432087250344, guid: bd51abd18e211324abd557f72aaf9667, type: 2}
+  - {fileID: 1360997595881620, guid: 5e0defb5caa7b2b468036a8eff63f71c, type: 2}
   m_CustomConfig: 0
   m_MaxConnections: 4
   m_ConnectionConfig:
@@ -2969,63 +2972,7 @@ Prefab:
       propertyPath: m_RootOrder
       value: 4
       objectReference: {fileID: 0}
-    - target: {fileID: 114061823364799178, guid: eaa05cf8b9262f049a1ad1179ee16803,
-        type: 2}
-      propertyPath: m_OfflineScene
-      value: Menu
-      objectReference: {fileID: 0}
-    - target: {fileID: 114061823364799178, guid: eaa05cf8b9262f049a1ad1179ee16803,
-        type: 2}
-      propertyPath: m_OnlineScene
-      value: Main
-      objectReference: {fileID: 0}
-    - target: {fileID: 114358272527973344, guid: eaa05cf8b9262f049a1ad1179ee16803,
-        type: 2}
-      propertyPath: showGUI
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114084661267549844, guid: eaa05cf8b9262f049a1ad1179ee16803,
-        type: 2}
-      propertyPath: adress
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 114358272527973344, guid: eaa05cf8b9262f049a1ad1179ee16803,
-        type: 2}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114084661267549844, guid: eaa05cf8b9262f049a1ad1179ee16803,
-        type: 2}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 114358272527973344, guid: eaa05cf8b9262f049a1ad1179ee16803,
-        type: 2}
-      propertyPath: offsetX
-      value: 50
-      objectReference: {fileID: 0}
-    - target: {fileID: 114358272527973344, guid: eaa05cf8b9262f049a1ad1179ee16803,
-        type: 2}
-      propertyPath: offsetY
-      value: 50
-      objectReference: {fileID: 0}
-    - target: {fileID: 1678775453395698, guid: eaa05cf8b9262f049a1ad1179ee16803, type: 2}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 114061823364799178, guid: eaa05cf8b9262f049a1ad1179ee16803,
-        type: 2}
-      propertyPath: m_PlayerPrefab
-      value: 
-      objectReference: {fileID: 1331015638749716, guid: 4f4ecca0dcbe71c4f90480806c67a8bb,
-        type: 2}
-    - target: {fileID: 114061823364799178, guid: eaa05cf8b9262f049a1ad1179ee16803,
-        type: 2}
-      propertyPath: m_AutoCreatePlayer
-      value: 1
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 114927111643935904, guid: eaa05cf8b9262f049a1ad1179ee16803, type: 2}
+    m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: eaa05cf8b9262f049a1ad1179ee16803, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &879268579

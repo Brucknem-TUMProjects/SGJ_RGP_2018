@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-D:/Programmieren/Unity/SGJ_RGP_2018/NightmaZe/Builds/Builds.exe
+C:/Users/Marian/Git/SGJ_RGP_2018/NightmaZe/NightmaZe.exe
 SceneListBegin?
 Assets/Scenes/Menu.unity
 Assets/Scenes/Main.unity

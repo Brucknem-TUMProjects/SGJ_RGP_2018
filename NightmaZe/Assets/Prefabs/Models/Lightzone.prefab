@@ -177,6 +177,8 @@ GameObject:
   m_Component:
   - component: {fileID: 4276470900269268}
   - component: {fileID: 136202875120309910}
+  - component: {fileID: 114381819215315228}
+  - component: {fileID: 114991107578283538}
   m_Layer: 0
   m_Name: Lightzone
   m_TagString: Untagged
@@ -677,6 +679,59 @@ Light:
   m_UseColorTemperature: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!114 &114381819215315228
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1939506552599506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 372142912, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SceneId:
+    m_Value: 0
+  m_AssetId:
+    i0: 60
+    i1: 202
+    i2: 96
+    i3: 135
+    i4: 20
+    i5: 205
+    i6: 32
+    i7: 228
+    i8: 171
+    i9: 197
+    i10: 79
+    i11: 110
+    i12: 17
+    i13: 143
+    i14: 150
+    i15: 61
+  m_ServerOnly: 0
+  m_LocalPlayerAuthority: 0
+--- !u!114 &114991107578283538
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1939506552599506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1768714887, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_TransformSyncMode: 1
+  m_SendInterval: 0.16666667
+  m_SyncRotationAxis: 7
+  m_RotationSyncCompression: 0
+  m_SyncSpin: 0
+  m_MovementTheshold: 0.001
+  m_VelocityThreshold: 0.0001
+  m_SnapThreshold: 5
+  m_InterpolateRotation: 1
+  m_InterpolateMovement: 1
 --- !u!136 &136202875120309910
 CapsuleCollider:
   m_ObjectHideFlags: 1
