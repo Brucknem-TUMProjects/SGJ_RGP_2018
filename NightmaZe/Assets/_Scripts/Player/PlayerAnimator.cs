@@ -20,6 +20,7 @@ public class PlayerAnimator : MonoBehaviour
     public bool attacking { get; private set; }
 
     Animator anim;
+    float armsForward;
 
     // Use this for initialization
     void Awake()
@@ -50,6 +51,8 @@ public class PlayerAnimator : MonoBehaviour
         }
         anim.SetFloat("Speed", speed);
         anim.SetFloat("Pose", Mathf.Lerp(anim.GetFloat("Pose"), toPose, Time.fixedDeltaTime * transitionSpeed));
+
+        anim.SetLayerWeight(1, Mathf.Lerp(anim.GetLayerWeight(1), armsForward, Time.deltaTime * transitionSpeed));
     }
 
     public void Jump()
@@ -86,5 +89,15 @@ public class PlayerAnimator : MonoBehaviour
             r.useGravity = true;
             r.GetComponent<Collider>().enabled = true;
         }
+    }
+
+    public void ArmsForward(bool forward)
+    {
+        armsForward = forward ? 1 : 0;
+    }
+
+    public void HandsClosed(bool closed)
+    {
+        anim.SetLayerWeight(2, closed ? 1 : 0);
     }
 }

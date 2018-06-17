@@ -10,6 +10,7 @@ public class Dreamer : NetworkBehaviour
     [SyncVar(hook = "OnLanternCollected")]
 	bool lanternCollected = false;
 
+    public PlayerAnimator anim;
 	public Transform keyPocket = null;
 	public Transform lanternPocket = null;
 
@@ -31,13 +32,15 @@ public class Dreamer : NetworkBehaviour
             return;
         }
 
-		if (Input.GetButtonDown("InteractLeft"))
-		{
-			if (lanternCollected)
-			{
-				// TODO: Play lantern anim and emit light dass kracht!
-			}
-		}
+        if (Input.GetButtonDown("InteractLeft"))
+        {
+            if (lanternCollected)
+            {
+                anim.ArmsForward(true);
+            }
+        }
+        else
+            anim.ArmsForward(false);
 		if (Input.GetButtonDown("ControllerYButton"))
 		{
 			if (lanternCollected)
@@ -106,5 +109,6 @@ public class Dreamer : NetworkBehaviour
 	{
 		yield return new WaitForEndOfFrame();
 		lanternCollected = true;
+        anim.HandsClosed(true);
 	}
 }
