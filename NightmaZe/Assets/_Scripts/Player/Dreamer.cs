@@ -1,17 +1,36 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Networking;
 
-public class Dreamer : MonoBehaviour
+public class Dreamer : NetworkBehaviour
 {
+    [SyncVar(hook = "OnKeyCollected")]
 	bool keyCollected = false;
+    [SyncVar(hook = "OnLanternCollected")]
 	bool lanternCollected = false;
 
 	public Transform keyPocket = null;
 	public Transform lanternPocket = null;
 
-	void Update()
+    void OnKeyCollected(bool keyCollected)
+    {
+        //TODO Sound etc..
+    }
+
+    void OnLanternCollected(bool lanternCollected)
+    {
+        //TODO adjust mesh
+    }
+
+
+    void Update()
 	{
+        if (!isLocalPlayer)
+        {
+            return;
+        }
+
 		if (Input.GetButtonDown("InteractLeft"))
 		{
 			if (lanternCollected)

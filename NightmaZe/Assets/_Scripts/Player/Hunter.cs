@@ -1,22 +1,35 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Networking;
 
-public class Hunter : MonoBehaviour
+public class Hunter : NetworkBehaviour
 {
+    [SyncVar]
 	float cooldown = 10.0f;
+    [SyncVar]
 	float timer;
 
 	Player.MoveSettings moveSettingsBoosted = new Player.MoveSettings();
 
 	void Start()
 	{
-		timer = Time.time - cooldown;
+        if (!isLocalPlayer)
+        {
+            return;
+        }
+
+        timer = Time.time - cooldown;
 	}
 
 	void Update()
 	{
-		if (timer + cooldown < Time.time)
+        if (!isLocalPlayer)
+        {
+            return;
+        }
+
+        if (timer + cooldown < Time.time)
 		{
 			Debug.Log("Timer ready");
 			if (Input.GetAxisRaw("VerticalSteuerkreuz") < 0)
