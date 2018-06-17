@@ -12,42 +12,74 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-06-17T12:18:05.472+02:00
-  initializedAtString: 2018-06-17T12:11:48.136+02:00
+  lastUpdatedAtString: 2018-06-17T12:16:50.042+02:00
+  initializedAtString: 2018-06-17T12:06:54.224+02:00
   entries:
-  - path: NightmaZe\Assets\Prefabs\Characters\Dreamer.prefab
-    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Characters\Dreamer.prefab
-    projectPath: Assets\Prefabs\Characters\Dreamer.prefab
+  - path: NightmaZe\Assets\Prefabs\UI\MusicManager.prefab
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\UI\MusicManager.prefab
+    projectPath: Assets\Prefabs\UI\MusicManager.prefab
     originalPath: 
     status: 3
     staged: 0
+  - path: NightmaZe\Assets\Scenes\Menu.unity
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Menu.unity
+    projectPath: Assets\Scenes\Menu.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Assets\Sounds\Music\Giant Wyrm.mp3
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\Music\Giant
+      Wyrm.mp3
+    projectPath: Assets\Sounds\Music\Giant Wyrm.mp3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: NightmaZe\Assets\Sounds\Music\Giant Wyrm.mp3.meta
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\Music\Giant
+      Wyrm.mp3.meta
+    projectPath: Assets\Sounds\Music\Giant Wyrm.mp3.meta
+    originalPath: 
+    status: 1
+    staged: 0
   - path: NightmaZe\Library\assetDatabase3
-    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     status: 3
     staged: 0
   - path: NightmaZe\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     status: 3
     staged: 0
+  - path: NightmaZe\Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
   - path: NightmaZe\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: NightmaZe\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     status: 3
     staged: 0
