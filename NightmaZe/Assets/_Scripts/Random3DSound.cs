@@ -27,6 +27,8 @@ public class Random3DSound : MonoBehaviour {
         audioSource = GetComponent<AudioSource>();
         randomFloat = Random.Range(minTimeToWait, maxTimeToWait);
         timeToWait = Time.time + randomFloat;
+		listener = GetComponentInParent<GameObject>();
+		transform.SetParent(null);
     }
 	
 	// Update is called once per frame

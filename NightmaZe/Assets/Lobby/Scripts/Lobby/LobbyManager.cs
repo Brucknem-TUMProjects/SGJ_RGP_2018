@@ -59,7 +59,7 @@ namespace Prototype.NetworkLobby
             _lobbyHooks = GetComponent<Prototype.NetworkLobby.LobbyHook>();
             currentPanel = mainMenuPanel;
 
-            backButton.gameObject.SetActive(false);
+
             GetComponent<Canvas>().enabled = true;
 
             DontDestroyOnLoad(gameObject);
