@@ -12,8 +12,39 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-06-17T08:03:59.843+02:00
   initializedAtString: 2018-06-17T07:34:00.234+02:00
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-06-17T04:52:55.434+02:00
+  initializedAtString: 2018-06-17T01:31:50.331+02:00
+=======
+  lastUpdatedAtString: 2018-06-17T02:49:14.051+02:00
+  initializedAtString: 2018-06-17T02:49:13.994+02:00
+>>>>>>> 5f85e61cc695d4636202d7987f808ab8708d1a04
+=======
+  lastUpdatedAtString: 2018-06-17T05:50:53.525+02:00
+  initializedAtString: 2018-06-17T05:35:46.591+02:00
+>>>>>>> MergePlayers
+=======
+  lastUpdatedAtString: 2018-06-17T07:00:31.959+02:00
+  initializedAtString: 2018-06-17T07:00:30.992+02:00
+>>>>>>> Jeff
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-06-17T07:00:31.959+02:00
+  initializedAtString: 2018-06-17T07:00:30.992+02:00
+>>>>>>> Jeff
+=======
+  lastUpdatedAtString: 2018-06-17T07:35:55.855+02:00
+  initializedAtString: 2018-06-17T06:30:45.008+02:00
+>>>>>>> Marian
+>>>>>>> 76ed075715a81ac923eb190a156d3307efbe8c7b
+>>>>>>> db781dd207c76f6b22e4c961a67928b0597900ee
   localBranches:
   - name: Marcel
     tracking: origin/Marcel

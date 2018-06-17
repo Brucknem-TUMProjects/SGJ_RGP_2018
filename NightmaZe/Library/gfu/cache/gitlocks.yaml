@@ -12,6 +12,32 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-06-17T08:05:22.225+02:00
   initializedAtString: 2018-06-17T07:34:02.046+02:00
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-06-17T05:29:05.953+02:00
+  initializedAtString: 2018-06-17T05:23:59.786+02:00
+=======
+  lastUpdatedAtString: 2018-06-17T06:16:46.304+02:00
+  initializedAtString: 2018-06-17T05:36:05.255+02:00
+>>>>>>> MergePlayers
+=======
+  lastUpdatedAtString: 2018-06-17T07:23:56.255+02:00
+  initializedAtString: 2018-06-17T06:33:41.369+02:00
+>>>>>>> Jeff
+=======
+<<<<<<< HEAD
+  lastUpdatedAtString: 2018-06-17T07:23:56.255+02:00
+  initializedAtString: 2018-06-17T06:33:41.369+02:00
+>>>>>>> Jeff
+=======
+  lastUpdatedAtString: 2018-06-17T07:49:30.252+02:00
+  initializedAtString: 2018-06-17T07:44:29.621+02:00
+>>>>>>> Marian
+>>>>>>> 76ed075715a81ac923eb190a156d3307efbe8c7b
+>>>>>>> db781dd207c76f6b22e4c961a67928b0597900ee
   gitLocks: []
