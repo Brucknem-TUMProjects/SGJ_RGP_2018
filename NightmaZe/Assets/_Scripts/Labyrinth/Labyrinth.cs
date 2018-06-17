@@ -27,6 +27,12 @@ public class Labyrinth
         Init(1); 
     }
 
+    public Labyrinth(int seed, int width, int height, int inNr, int outNr, int staticNr, int dynamicNr, int keyNr, int density)
+    {
+        random = new System.Random(seed);
+        Init(width, height, inNr, outNr, staticNr, dynamicNr, keyNr, density);
+    }
+
     public enum Tile
     {
         WALL, ENTRY, EXIT, STATIC_TRAP, DYNAMIC_TRAP, KEY, FREE, SPAWN
@@ -93,7 +99,7 @@ public class Labyrinth
         Init(new Properties(difficulty));
     }
 
-    public void Init(int width, int height, int tileSize, int inNr, int outNr, int staticNr, int dynamicNr, int keyNr, int density)
+    public void Init(int width, int height, int inNr, int outNr, int staticNr, int dynamicNr, int keyNr, int density)
     {
         Init(new Properties(width, height, inNr, outNr, staticNr, dynamicNr, keyNr, density));
     }

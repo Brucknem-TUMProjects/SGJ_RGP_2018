@@ -22,7 +22,7 @@ public class Player : NetworkBehaviour
 		public float proneVelocity = 1f;
 		public float jumpVelocity = 3f;
 		public float rotationSpeed = 2;
-		public float distanceToGround = .1f;
+		public float distanceToGround = .2f;
 		public LayerMask ground;
 	}
 
@@ -36,9 +36,9 @@ public class Player : NetworkBehaviour
 	#endregion
 
 	#region private attributes
-	private GameObject PostureImg;
-	private GameObject ingameCanvas;
-	private GameObject ingamePauseMenu;
+	public GameObject PostureImg;
+	public GameObject ingamecanvas;
+	public GameObject ingamepausemenu;
 	private Rigidbody playerRigid;
 	private Vector3 velocity;
 
@@ -66,9 +66,9 @@ public class Player : NetworkBehaviour
 		postureCollider[0].enabled = true;
 		postureCollider[1].enabled = false;
 		postureCollider[2].enabled = false;
-		//ChangePostureImg(currentPosture);
-		//ingamePauseMenu.SetActive(false);
-	}
+        ChangePostureImg(currentPosture);
+        ingamepausemenu.SetActive(false);
+    }
 
 	// Check if player is on ground
 	bool OnGround()
@@ -84,7 +84,8 @@ public class Player : NetworkBehaviour
 		if (hit.transform != null)
 			Debug.Log(hit.distance + ", " + hit.transform.tag + ", " + hit.transform.name);
 
-		return Physics.Raycast(transform.position, Vector3.up, height);
+        //return Physics.Raycast(transform.position, Vector3.up, height);
+        return false;
 	}
 
 	// Use this for initialization
@@ -96,17 +97,17 @@ public class Player : NetworkBehaviour
 		}
 		// ---TODO: Spawn, Reset
 		playerRigid = GetComponent<Rigidbody>();
-		//camera = transform.GetChild(0).gameObject;
+		camera = Camera.main.gameObject;
 		camera.GetComponent<MouseLook>().Init(this.transform, camera.transform);
 		Reset();
-		//while (ingameCanvas == null)
-		//	ingameCanvas = transform.Find("IngameCanvas").gameObject;
-		//PostureImg = ingameCanvas.transform.GetChild(4).gameObject;
-		//ingamePauseMenu = ingameCanvas.transform.GetChild(0).gameObject;
-	}
+        while (ingamecanvas == null)
+            ingamecanvas = transform.Find("IngameCanvas").gameObject;
+        PostureImg = ingamecanvas.transform.GetChild(4).gameObject;
+        ingamepausemenu = ingamecanvas.transform.GetChild(0).gameObject;
+    }
 
-	// Update is called once per frame
-	void Update()
+    // Update is called once per frame
+    void Update()
 	{
 		if (!isLocalPlayer)
 		{
@@ -162,24 +163,24 @@ public class Player : NetworkBehaviour
 
 	void GetButtonInput()
 	{
-		// Pause menu
-		//if (Input.GetButtonDown("Pause"))
-		//{
-		//	if (pausePanelOpen)
-		//	{
-		//		ingamePauseMenu.SetActive(false);
-		//		pausePanelOpen = false;
-		//	}
-		//	else
-		//	{
-		//		ingamePauseMenu.SetActive(true);
-		//		pausePanelOpen = true;
-		//	}
-		//}
+        // Pause menu
+        if (Input.GetButtonDown("Pause"))
+        {
+            if (pausePanelOpen)
+            {
+                ingamepausemenu.SetActive(false);
+                pausePanelOpen = false;
+            }
+            else
+            {
+                ingamepausemenu.SetActive(true);
+                pausePanelOpen = true;
+            }
+        }
 
 
-		// Crouching, Proning = Hold Crouch Button	
-		if (Input.GetButton("ControllerBButton"))
+        // Crouching, Proning = Hold Crouch Button	
+        if (Input.GetButton("ControllerBButton"))
 		{
 			if (!stopReadingInput)
 			{

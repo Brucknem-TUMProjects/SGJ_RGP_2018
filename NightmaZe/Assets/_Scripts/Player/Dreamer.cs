@@ -55,34 +55,38 @@ public class Dreamer : NetworkBehaviour
 	{
 		if (Input.GetButtonDown("ControllerYButton"))
 		{
-			// TODO: Interact with thing?
-			if (col.tag == "Key")
-			{
-				if (keyCollected)
-				{
-					Debug.Log("Cannot carry more than 1 key");
-					return;
-				}
-				keyCollected = true;
-				col.transform.SetParent(keyPocket);
-				col.transform.localPosition = Vector3.zero;
-				col.transform.localRotation = Quaternion.identity;
-				// TODO: Display in GUI that key is now collected (?)
-			}
-			 if (col.tag == "Lantern")
-			{
-				if (lanternCollected)
-				{
-					Debug.Log("Cannot carry more than 1 lantern");
-					return;
-				}
-				StartCoroutine(CollectLantern());
-				col.transform.SetParent(lanternPocket);
-				col.transform.localPosition = Vector3.zero;
-				col.transform.localRotation = Quaternion.identity;
-				// Put gamobjects as child to player (--> fixed at tighs/hand etc.)
-			}
-		}
+            if (col.tag == "Key" || col.tag == "Lantern")
+            {
+                // TODO: Interact with thing?
+                if (col.tag == "Key")
+                {
+                    if (keyCollected)
+                    {
+                        Debug.Log("Cannot carry more than 1 key");
+                        return;
+                    }
+                    keyCollected = true;
+                    col.transform.SetParent(keyPocket);
+
+                    // TODO: Display in GUI that key is now collected (?)
+                }
+                else if (col.tag == "Lantern")
+                {
+                    if (lanternCollected)
+                    {
+                        Debug.Log("Cannot carry more than 1 lantern");
+                        return;
+                    }
+                    StartCoroutine(CollectLantern());
+                    col.transform.SetParent(lanternPocket);
+
+                    // Put gamobjects as child to player (--> fixed at tighs/hand etc.)
+                }
+                col.transform.localPosition = Vector3.zero;
+                col.transform.localRotation = Quaternion.identity;
+                col.GetComponent<Rigidbody>().isKinematic = true;
+            }
+        }
 		if (col.tag == "Door")
 		{
 			if (Input.GetButtonDown("InteractionRight") && keyCollected)

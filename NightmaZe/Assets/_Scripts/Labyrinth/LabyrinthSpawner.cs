@@ -1,19 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Networking;
 
-public class LabyrinthSpawner : NetworkBehaviour {
+public class LabyrinthSpawner : MonoBehaviour {
 
 
     private Labyrinth labyrinth;
     private GameObject[,] field;
-
-    [Range(1, 9)]
-    public int difficulty = 1;
-
-    [Range(1, 5)]
-    public int tileSize = 3;
 
     public GameObject free;
     public GameObject wall;
@@ -23,8 +16,31 @@ public class LabyrinthSpawner : NetworkBehaviour {
     public GameObject dynamicTrap;
     public GameObject key;
 
-    [SyncVar]
-    private int seed = new System.Random().Next(0, 10000);
+    //private int seed = new System.Random().Next(0, 10000);
+
+    public bool randomize = false;
+    [Range(1, 9)]
+    public int difficulty = 1;
+    [Range(1, 5)]
+    public int tileSize = 3;
+    [Range(0, 10000)]
+    public int seed = new System.Random().Next(0, 10000);
+    [Range(10, 150)]
+    public int width = 50;
+    [Range(10, 150)]
+    public int height = 50;
+    [Range(0, 10)]
+    public int inNr = 0;
+    [Range(1, 10)]
+    public int outNr = 5;
+    [Range(0, 100)]
+    public int staticNr = 25;
+    [Range(0, 100)]
+    public int dynamicNr = 25;
+    [Range(0, 5)]
+    public int keyNr = 2;
+    [Range(1, 10)]
+    public int density = 1;
 
     // Use this for initialization
 
@@ -33,12 +49,8 @@ public class LabyrinthSpawner : NetworkBehaviour {
     {
         //    DontDestroyOnLoad(gameObject);
 
-        labyrinth = new Labyrinth(seed);
+        labyrinth = new Labyrinth(seed, width,height,inNr,outNr,staticNr,dynamicNr,keyNr,density);
         Create();
-        if (isLocalPlayer)
-        {
-            ClientScene.AddPlayer((short)Random.Range(0, 32));
-        }
     }
 
     //Initialization methods
@@ -54,7 +66,7 @@ public class LabyrinthSpawner : NetworkBehaviour {
             {
                 GameObject tile;
                 Transform transform = gameObject.transform;
-                Vector3 position = new Vector3(x * tileSize, 0.4f, y * tileSize);
+                Vector3 position = new Vector3(x * tileSize, 0, y * tileSize);
                 switch (tiles[x, y])
                 {
                     case Labyrinth.Tile.ENTRY:
@@ -81,7 +93,6 @@ public class LabyrinthSpawner : NetworkBehaviour {
                         break;
                 }
 
-                position.y *= tileSize;
                 tile.transform.position = position;
                 tile.transform.localScale = Vector3.one * tileSize ;
                 //SyncScaleRotation t = tile.GetComponent<SyncScaleRotation>();
