@@ -12,23 +12,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-06-17T12:05:30.815+02:00
-  initializedAtString: 2018-06-17T12:05:30.790+02:00
+  lastUpdatedAtString: 2018-06-17T12:17:17.015+02:00
+  initializedAtString: 2018-06-17T12:17:16.970+02:00
   localBranches:
-  - name: Marcel
-    tracking: origin/Marcel
+  - name: JaegerSkills
+    tracking: origin/JaegerSkills
   - name: Marian
     tracking: origin/Marian
   - name: master
     tracking: origin/master
-  - name: MergePlayers
-    tracking: origin/MergePlayers
-  - name: StartMenu
-    tracking: origin/StartMenu
   remoteBranches:
   - name: origin/Akbar
     tracking: '[None]'
   - name: origin/Akbar-2
+    tracking: '[None]'
+  - name: origin/HEAD
     tracking: '[None]'
   - name: origin/JaegerSkills
     tracking: '[None]'
@@ -54,17 +52,15 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - Marcel
+    - JaegerSkills
     - Marian
     - master
-    - MergePlayers
-    - StartMenu
     values:
-    - name: Marcel
+    - name: JaegerSkills
       remote:
         name: origin
         url: https://github.com/Brucknem/SGJ_RGP_2018.git
-      trackingBranch: Marcel
+      trackingBranch: JaegerSkills
     - name: Marian
       remote:
         name: origin
@@ -75,16 +71,6 @@ MonoBehaviour:
         name: origin
         url: https://github.com/Brucknem/SGJ_RGP_2018.git
       trackingBranch: master
-    - name: MergePlayers
-      remote:
-        name: origin
-        url: https://github.com/Brucknem/SGJ_RGP_2018.git
-      trackingBranch: MergePlayers
-    - name: StartMenu
-      remote:
-        name: origin
-        url: https://github.com/Brucknem/SGJ_RGP_2018.git
-      trackingBranch: StartMenu
   remoteConfigBranches:
     keys:
     - origin
@@ -92,6 +78,7 @@ MonoBehaviour:
     - Values:
       - Akbar
       - Akbar-2
+      - HEAD
       - JaegerSkills
       - Jeff
       - Marcel
@@ -107,6 +94,11 @@ MonoBehaviour:
           url: https://github.com/Brucknem/SGJ_RGP_2018.git
         trackingBranch: 
       - name: Akbar-2
+        remote:
+          name: origin
+          url: https://github.com/Brucknem/SGJ_RGP_2018.git
+        trackingBranch: 
+      - name: HEAD
         remote:
           name: origin
           url: https://github.com/Brucknem/SGJ_RGP_2018.git
