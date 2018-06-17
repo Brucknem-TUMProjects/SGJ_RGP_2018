@@ -12,38 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 4
-<<<<<<< HEAD
-<<<<<<< HEAD
-  lastUpdatedAtString: 2018-06-17T08:05:14.094+02:00
-  initializedAtString: 2018-06-17T07:33:59.678+02:00
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  lastUpdatedAtString: 2018-06-17T05:23:53.249+02:00
-  initializedAtString: 2018-06-17T05:23:53.249+02:00
-=======
-  lastUpdatedAtString: 2018-06-17T05:50:53.849+02:00
-  initializedAtString: 2018-06-17T05:35:45.960+02:00
->>>>>>> MergePlayers
-=======
-  lastUpdatedAtString: 2018-06-17T07:01:31.028+02:00
-  initializedAtString: 2018-06-17T06:33:33.332+02:00
->>>>>>> Jeff
-=======
-<<<<<<< HEAD
-  lastUpdatedAtString: 2018-06-17T07:01:31.028+02:00
-  initializedAtString: 2018-06-17T06:33:33.332+02:00
->>>>>>> Jeff
-=======
-  lastUpdatedAtString: 2018-06-17T07:44:20.189+02:00
-  initializedAtString: 2018-06-17T07:44:20.189+02:00
->>>>>>> Marian
->>>>>>> 76ed075715a81ac923eb190a156d3307efbe8c7b
->>>>>>> db781dd207c76f6b22e4c961a67928b0597900ee
-=======
-  lastUpdatedAtString: 2018-06-17T08:29:04.095+02:00
-  initializedAtString: 2018-06-17T08:29:04.095+02:00
->>>>>>> Marian
+  lastUpdatedAtString: 2018-06-17T08:43:16.120+02:00
+  initializedAtString: 2018-06-17T08:43:16.120+02:00
   ahead: 0
   behind: 0
