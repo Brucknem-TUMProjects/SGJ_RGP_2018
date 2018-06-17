@@ -584,6 +584,8 @@ GameObject:
   - component: {fileID: 114455811081439610}
   - component: {fileID: 54039303447981950}
   - component: {fileID: 114130869929272524}
+  - component: {fileID: 114642005203418342}
+  - component: {fileID: 114907911421067870}
   m_Layer: 2
   m_Name: Dreamer
   m_TagString: Untagged
@@ -2093,7 +2095,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1331015638749716}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.1450453, y: 0.023, z: 3.19112}
+  m_LocalPosition: {x: 63.185966, y: 0.3, z: 94.37824}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4604910084314038}
@@ -2983,6 +2985,38 @@ MonoBehaviour:
   - {fileID: 65671907403898826}
   camera: {fileID: 1827489269965288}
   speedBoost: 1
+--- !u!114 &114642005203418342
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1331015638749716}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 372142912, guid: 870353891bb340e2b2a9c8707e7419ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SceneId:
+    m_Value: 0
+  m_AssetId:
+    i0: 79
+    i1: 78
+    i2: 204
+    i3: 160
+    i4: 220
+    i5: 190
+    i6: 113
+    i7: 196
+    i8: 249
+    i9: 4
+    i10: 128
+    i11: 128
+    i12: 108
+    i13: 103
+    i14: 168
+    i15: 187
+  m_ServerOnly: 0
+  m_LocalPlayerAuthority: 1
 --- !u!114 &114875753097464928
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2998,6 +3032,27 @@ MonoBehaviour:
   rigid: {fileID: 54039303447981950}
   hitBox: {fileID: 0}
   transitionSpeed: 5
+--- !u!114 &114907911421067870
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1331015638749716}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1768714887, guid: 870353891bb340e2b2a9c8707e7419ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_TransformSyncMode: 3
+  m_SendInterval: 0.1
+  m_SyncRotationAxis: 7
+  m_RotationSyncCompression: 0
+  m_SyncSpin: 0
+  m_MovementTheshold: 0.001
+  m_VelocityThreshold: 0.0001
+  m_SnapThreshold: 5
+  m_InterpolateRotation: 1
+  m_InterpolateMovement: 1
 --- !u!124 &124152803637492606
 Behaviour:
   m_ObjectHideFlags: 1
