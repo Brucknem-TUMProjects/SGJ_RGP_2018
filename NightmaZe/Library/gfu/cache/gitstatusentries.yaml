@@ -14,6 +14,7 @@ MonoBehaviour:
   cacheType: 5
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-06-17T05:29:53.442+02:00
   initializedAtString: 2018-06-17T05:23:53.221+02:00
   entries:
@@ -140,9 +141,18 @@ MonoBehaviour:
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\lost.wav.meta
 >>>>>>> Jeff
     projectPath: Assets\Sounds\SFX\LicenseUnclear\lost.wav.meta
+=======
+  lastUpdatedAtString: 2018-06-17T07:27:45.756+02:00
+  initializedAtString: 2018-06-17T06:33:33.300+02:00
+  entries:
+  - path: NightmaZe\Assets\Lobby\Prefabs\PlayerInfo.prefab
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Prefabs\PlayerInfo.prefab
+    projectPath: Assets\Lobby\Prefabs\PlayerInfo.prefab
+>>>>>>> Jeff
     originalPath: 
     status: 1
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\mosquito.wav.meta
 <<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\mosquito.wav.meta
@@ -170,9 +180,21 @@ MonoBehaviour:
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\level1
     projectPath: Builds\Builds_Data\level1
 >>>>>>> MergePlayers
+=======
+  - path: NightmaZe\Assets\Scenes\Menu.unity
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Menu.unity
+    projectPath: Assets\Scenes\Menu.unity
     originalPath: 
     status: 3
     staged: 0
+  - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear.meta
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear.meta
+    projectPath: Assets\Sounds\SFX\LicenseUnclear.meta
+>>>>>>> Jeff
+    originalPath: 
+    status: 3
+    staged: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\nuclear alarm.wav.meta
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\nuclear
@@ -183,9 +205,15 @@ MonoBehaviour:
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\Managed\Assembly-CSharp.dll
     projectPath: Builds\Builds_Data\Managed\Assembly-CSharp.dll
 >>>>>>> MergePlayers
+=======
+  - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\crickets_RED.mp3.meta
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\crickets_RED.mp3.meta
+    projectPath: Assets\Sounds\SFX\LicenseUnclear\crickets_RED.mp3.meta
+>>>>>>> Jeff
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\police siren.wav.meta
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\police
@@ -196,9 +224,15 @@ MonoBehaviour:
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\sharedassets0.assets
     projectPath: Builds\Builds_Data\sharedassets0.assets
 >>>>>>> MergePlayers
+=======
+  - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\Great_Scream_RED.mp3.meta
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\Great_Scream_RED.mp3.meta
+    projectPath: Assets\Sounds\SFX\LicenseUnclear\Great_Scream_RED.mp3.meta
+>>>>>>> Jeff
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\preditor.wav.meta
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\preditor.wav.meta
@@ -208,9 +242,15 @@ MonoBehaviour:
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\sharedassets0.assets.resS
     projectPath: Builds\Builds_Data\sharedassets0.assets.resS
 >>>>>>> MergePlayers
+=======
+  - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\Grilo_GREEN.mp3.meta
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\Grilo_GREEN.mp3.meta
+    projectPath: Assets\Sounds\SFX\LicenseUnclear\Grilo_GREEN.mp3.meta
+>>>>>>> Jeff
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\tumbleweed.wav.meta
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\tumbleweed.wav.meta
@@ -220,12 +260,21 @@ MonoBehaviour:
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Builds\Builds_Data\sharedassets1.assets
     projectPath: Builds\Builds_Data\sharedassets1.assets
 >>>>>>> MergePlayers
+=======
+  - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\lost.wav.meta
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\lost.wav.meta
+    projectPath: Assets\Sounds\SFX\LicenseUnclear\lost.wav.meta
+>>>>>>> Jeff
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\assetDatabase3
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
 =======
+=======
+  - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\mosquito.wav.meta
+>>>>>>> Jeff
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\mosquito.wav.meta
     projectPath: Assets\Sounds\SFX\LicenseUnclear\mosquito.wav.meta
     originalPath: 
@@ -259,6 +308,9 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\assetDatabase3
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
+<<<<<<< HEAD
+>>>>>>> Jeff
+=======
 >>>>>>> Jeff
     projectPath: Library\assetDatabase3
     originalPath: 
@@ -267,12 +319,15 @@ MonoBehaviour:
 <<<<<<< HEAD
   - path: NightmaZe\Library\CurrentLayout.dwlt
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
     projectPath: Library\CurrentLayout.dwlt
 =======
   - path: NightmaZe\Library\gfu\cache\branches.yaml
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
 =======
+=======
+>>>>>>> Jeff
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
     projectPath: Library\CurrentLayout.dwlt
     originalPath: 
@@ -280,6 +335,9 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+<<<<<<< HEAD
+>>>>>>> Jeff
+=======
 >>>>>>> Jeff
     projectPath: Library\gfu\cache\branches.yaml
 >>>>>>> MergePlayers
@@ -288,7 +346,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\gfu\cache\gitlocks.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
 >>>>>>> Jeff
@@ -308,6 +370,9 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+<<<<<<< HEAD
+>>>>>>> Jeff
+=======
 >>>>>>> Jeff
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
@@ -315,7 +380,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
 >>>>>>> Jeff
@@ -325,7 +394,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\gfu\cache\repoinfo.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
 >>>>>>> Jeff
@@ -335,7 +408,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\InspectorExpandedItems.asset
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\InspectorExpandedItems.asset
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\InspectorExpandedItems.asset
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\InspectorExpandedItems.asset
 >>>>>>> Jeff
@@ -345,8 +422,13 @@ MonoBehaviour:
     staged: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\06\060e7a8de6396224ead061f4e72c823c.info
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\06\060e7a8de6396224ead061f4e72c823c.info
+=======
+  - path: NightmaZe\Library\metadata\06\060e7a8de6396224ead061f4e72c823c.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\06\060e7a8de6396224ead061f4e72c823c.info
+>>>>>>> Jeff
 =======
   - path: NightmaZe\Library\metadata\06\060e7a8de6396224ead061f4e72c823c.info
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\06\060e7a8de6396224ead061f4e72c823c.info
@@ -357,7 +439,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\07\0724e5b7d5089704389ce56322904dce.info
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\07\0724e5b7d5089704389ce56322904dce.info
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\07\0724e5b7d5089704389ce56322904dce.info
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\07\0724e5b7d5089704389ce56322904dce.info
 >>>>>>> Jeff
@@ -367,7 +453,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\09\09c49e424b083604995d746e87c0af4a.info
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09c49e424b083604995d746e87c0af4a.info
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09c49e424b083604995d746e87c0af4a.info
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09c49e424b083604995d746e87c0af4a.info
 >>>>>>> Jeff
@@ -377,7 +467,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\09\09e63ac119244ae4e9f93c59a7624451.info
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09e63ac119244ae4e9f93c59a7624451.info
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09e63ac119244ae4e9f93c59a7624451.info
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09e63ac119244ae4e9f93c59a7624451.info
 >>>>>>> Jeff
@@ -387,7 +481,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\09\09efeac3c45d0a7498671c6bf595795c.info
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09efeac3c45d0a7498671c6bf595795c.info
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09efeac3c45d0a7498671c6bf595795c.info
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09efeac3c45d0a7498671c6bf595795c.info
 >>>>>>> Jeff
@@ -397,7 +495,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
 >>>>>>> Jeff
@@ -407,7 +509,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\0f\0f81308777633334491cb70edac9a524.info
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\0f\0f81308777633334491cb70edac9a524.info
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\0f\0f81308777633334491cb70edac9a524.info
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\0f\0f81308777633334491cb70edac9a524.info
 >>>>>>> Jeff
@@ -417,7 +523,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\11\113aa869cbf24264889fc6130376a86e.info
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\11\113aa869cbf24264889fc6130376a86e.info
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\11\113aa869cbf24264889fc6130376a86e.info
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\11\113aa869cbf24264889fc6130376a86e.info
 >>>>>>> Jeff
@@ -427,7 +537,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
 >>>>>>> Jeff
@@ -437,7 +551,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\14\140b80b76440f7b43b7b238918cd8589.info
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\14\140b80b76440f7b43b7b238918cd8589.info
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\14\140b80b76440f7b43b7b238918cd8589.info
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\14\140b80b76440f7b43b7b238918cd8589.info
 >>>>>>> Jeff
@@ -447,7 +565,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\16\16aaa7b05aab9d045af849ab71988ffd.info
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\16\16aaa7b05aab9d045af849ab71988ffd.info
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\16\16aaa7b05aab9d045af849ab71988ffd.info
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\16\16aaa7b05aab9d045af849ab71988ffd.info
 >>>>>>> Jeff
@@ -457,7 +579,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\1b\1b355da31ea043feba0c03e35dd4bc62
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\1b\1b355da31ea043feba0c03e35dd4bc62
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\1b\1b355da31ea043feba0c03e35dd4bc62
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\1b\1b355da31ea043feba0c03e35dd4bc62
 >>>>>>> Jeff
@@ -467,7 +593,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
 >>>>>>> Jeff
@@ -477,7 +607,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\1d\1d6010ab11b93c142b123db26edb77ef.info
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\1d\1d6010ab11b93c142b123db26edb77ef.info
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\1d\1d6010ab11b93c142b123db26edb77ef.info
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\1d\1d6010ab11b93c142b123db26edb77ef.info
 >>>>>>> Jeff
@@ -487,7 +621,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\20\20e0af2a3ebe00c409a8185af491d4df.info
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\20\20e0af2a3ebe00c409a8185af491d4df.info
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\20\20e0af2a3ebe00c409a8185af491d4df.info
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\20\20e0af2a3ebe00c409a8185af491d4df.info
 >>>>>>> Jeff
@@ -497,7 +635,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
 >>>>>>> Jeff
@@ -507,7 +649,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\26\266ca173363045f40b8293892dc4cc3c.info
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\26\266ca173363045f40b8293892dc4cc3c.info
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\26\266ca173363045f40b8293892dc4cc3c.info
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\26\266ca173363045f40b8293892dc4cc3c.info
 >>>>>>> Jeff
@@ -517,7 +663,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
 >>>>>>> Jeff
@@ -526,6 +676,7 @@ MonoBehaviour:
     status: 3
     staged: 0
   - path: NightmaZe\Library\metadata\26\268f50783119e94438d13013d0cd47e1.info
+<<<<<<< HEAD
 <<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\26\268f50783119e94438d13013d0cd47e1.info
 =======
@@ -551,13 +702,32 @@ MonoBehaviour:
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\2e\2eab9c058155d1b4093935078af83628
 >>>>>>> Jeff
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\26\268f50783119e94438d13013d0cd47e1.info
+    projectPath: Library\metadata\26\268f50783119e94438d13013d0cd47e1.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\2d\2d90e253dea2861418434e353632c398.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\2d\2d90e253dea2861418434e353632c398.info
+    projectPath: Library\metadata\2d\2d90e253dea2861418434e353632c398.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\2e\2eab9c058155d1b4093935078af83628
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\2e\2eab9c058155d1b4093935078af83628
+>>>>>>> Jeff
     projectPath: Library\metadata\2e\2eab9c058155d1b4093935078af83628
     originalPath: 
     status: 3
     staged: 0
   - path: NightmaZe\Library\metadata\2e\2eab9c058155d1b4093935078af83628.info
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\2e\2eab9c058155d1b4093935078af83628.info
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\2e\2eab9c058155d1b4093935078af83628.info
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\2e\2eab9c058155d1b4093935078af83628.info
 >>>>>>> Jeff
@@ -567,7 +737,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\2f\2f2fc0a2d5e420d4380a15b0bd0ef8d7.info
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\2f\2f2fc0a2d5e420d4380a15b0bd0ef8d7.info
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\2f\2f2fc0a2d5e420d4380a15b0bd0ef8d7.info
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\2f\2f2fc0a2d5e420d4380a15b0bd0ef8d7.info
 >>>>>>> Jeff
@@ -577,7 +751,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
 >>>>>>> Jeff
@@ -587,7 +765,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
 >>>>>>> Jeff
@@ -597,14 +779,38 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
 >>>>>>> Jeff
     projectPath: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+    projectPath: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
     originalPath: 
     status: 3
     staged: 0
+  - path: NightmaZe\Library\metadata\35\35460f554a8f6704ab8613f5a485584e.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\35\35460f554a8f6704ab8613f5a485584e.info
+    projectPath: Library\metadata\35\35460f554a8f6704ab8613f5a485584e.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\36\367636eef99fe6b4c82da22cd5d68eb6.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\36\367636eef99fe6b4c82da22cd5d68eb6.info
+    projectPath: Library\metadata\36\367636eef99fe6b4c82da22cd5d68eb6.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\38\38bf1ccfe4416f44abc4e19e437bfca9.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\38\38bf1ccfe4416f44abc4e19e437bfca9.info
+    projectPath: Library\metadata\38\38bf1ccfe4416f44abc4e19e437bfca9.info
+>>>>>>> Jeff
+    originalPath: 
+    status: 3
+    staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\35\35460f554a8f6704ab8613f5a485584e.info
 <<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\35\35460f554a8f6704ab8613f5a485584e.info
@@ -612,9 +818,15 @@ MonoBehaviour:
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\35\35460f554a8f6704ab8613f5a485584e.info
 >>>>>>> Jeff
     projectPath: Library\metadata\35\35460f554a8f6704ab8613f5a485584e.info
+=======
+  - path: NightmaZe\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+    projectPath: Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+>>>>>>> Jeff
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\36\367636eef99fe6b4c82da22cd5d68eb6.info
 <<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\36\367636eef99fe6b4c82da22cd5d68eb6.info
@@ -622,9 +834,15 @@ MonoBehaviour:
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\36\367636eef99fe6b4c82da22cd5d68eb6.info
 >>>>>>> Jeff
     projectPath: Library\metadata\36\367636eef99fe6b4c82da22cd5d68eb6.info
+=======
+  - path: NightmaZe\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+    projectPath: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+>>>>>>> Jeff
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\38\38bf1ccfe4416f44abc4e19e437bfca9.info
 <<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\38\38bf1ccfe4416f44abc4e19e437bfca9.info
@@ -662,9 +880,21 @@ MonoBehaviour:
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\3b\3bb0254b9671413d9d08a855c5090237
 >>>>>>> Jeff
     projectPath: Library\metadata\3b\3bb0254b9671413d9d08a855c5090237
+=======
+  - path: NightmaZe\Library\metadata\3b\3bb0254b9671413d9d08a855c5090237
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\3b\3bb0254b9671413d9d08a855c5090237
+    projectPath: Library\metadata\3b\3bb0254b9671413d9d08a855c5090237
     originalPath: 
     status: 3
     staged: 0
+  - path: NightmaZe\Library\metadata\3b\3bcb46a88a32685458868fa7093d009f.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\3b\3bcb46a88a32685458868fa7093d009f.info
+    projectPath: Library\metadata\3b\3bcb46a88a32685458868fa7093d009f.info
+>>>>>>> Jeff
+    originalPath: 
+    status: 5
+    staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\3b\3bcb46a88a32685458868fa7093d009f.info
 <<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\3b\3bcb46a88a32685458868fa7093d009f.info
@@ -681,13 +911,21 @@ MonoBehaviour:
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\3e\3e9a2175e0404f7ea30b2b694850bae0
 >>>>>>> Jeff
+=======
+  - path: NightmaZe\Library\metadata\3e\3e9a2175e0404f7ea30b2b694850bae0
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\3e\3e9a2175e0404f7ea30b2b694850bae0
+>>>>>>> Jeff
     projectPath: Library\metadata\3e\3e9a2175e0404f7ea30b2b694850bae0
     originalPath: 
     status: 3
     staged: 0
   - path: NightmaZe\Library\metadata\40\405b9b51bb344a128608d968297df79c
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\40\405b9b51bb344a128608d968297df79c
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\40\405b9b51bb344a128608d968297df79c
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\40\405b9b51bb344a128608d968297df79c
 >>>>>>> Jeff
@@ -697,7 +935,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
 >>>>>>> Jeff
@@ -707,7 +949,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\41\4180ec0582315414280d8298fd53fb4f.info
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\41\4180ec0582315414280d8298fd53fb4f.info
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\41\4180ec0582315414280d8298fd53fb4f.info
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\41\4180ec0582315414280d8298fd53fb4f.info
 >>>>>>> Jeff
@@ -717,7 +963,11 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\46\46098a81a64a45c5b756320e10a22f13
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\46\46098a81a64a45c5b756320e10a22f13
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\46\46098a81a64a45c5b756320e10a22f13
+>>>>>>> Jeff
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\46\46098a81a64a45c5b756320e10a22f13
 >>>>>>> Jeff
@@ -727,14 +977,26 @@ MonoBehaviour:
     staged: 0
   - path: NightmaZe\Library\metadata\48\48dd2e1379a5b5f4e9c4a48f04279874.info
 <<<<<<< HEAD
+<<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\48\48dd2e1379a5b5f4e9c4a48f04279874.info
 =======
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\48\48dd2e1379a5b5f4e9c4a48f04279874.info
 >>>>>>> Jeff
     projectPath: Library\metadata\48\48dd2e1379a5b5f4e9c4a48f04279874.info
+=======
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\48\48dd2e1379a5b5f4e9c4a48f04279874.info
+    projectPath: Library\metadata\48\48dd2e1379a5b5f4e9c4a48f04279874.info
     originalPath: 
     status: 5
     staged: 0
+  - path: NightmaZe\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+    projectPath: Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+>>>>>>> Jeff
+    originalPath: 
+    status: 3
+    staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
 <<<<<<< HEAD
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
@@ -1420,21 +1682,159 @@ MonoBehaviour:
   - path: NightmaZe\Library\metadata\e8\e8271ce12d5c6be45a001579f6af60ed.info
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\e8\e8271ce12d5c6be45a001579f6af60ed.info
     projectPath: Library\metadata\e8\e8271ce12d5c6be45a001579f6af60ed.info
+=======
+  - path: NightmaZe\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    projectPath: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\4a\4aac79a90a428c2448a8bdecc3d47581.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4a\4aac79a90a428c2448a8bdecc3d47581.info
+    projectPath: Library\metadata\4a\4aac79a90a428c2448a8bdecc3d47581.info
     originalPath: 
     status: 5
     staged: 0
+  - path: NightmaZe\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    projectPath: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\4e\4e21d244e1324524a9d304a7f2faab1d.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4e\4e21d244e1324524a9d304a7f2faab1d.info
+    projectPath: Library\metadata\4e\4e21d244e1324524a9d304a7f2faab1d.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+    projectPath: Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\52\52315ebd199375f499278fc3186d31eb.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\52\52315ebd199375f499278fc3186d31eb.info
+    projectPath: Library\metadata\52\52315ebd199375f499278fc3186d31eb.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    projectPath: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+    projectPath: Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\5a\5a704c6090e96d5429fc0061d1748fd9.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\5a\5a704c6090e96d5429fc0061d1748fd9.info
+    projectPath: Library\metadata\5a\5a704c6090e96d5429fc0061d1748fd9.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\5b\5bbe2f1ef6bed46419c2b5c8eeb36145.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\5b\5bbe2f1ef6bed46419c2b5c8eeb36145.info
+    projectPath: Library\metadata\5b\5bbe2f1ef6bed46419c2b5c8eeb36145.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    projectPath: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\66\66cc9781ad2528f4db6a30dce397b0c6.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\66\66cc9781ad2528f4db6a30dce397b0c6.info
+    projectPath: Library\metadata\66\66cc9781ad2528f4db6a30dce397b0c6.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\67\67c9d790d39c99449ab8c03c357b65c7.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\67\67c9d790d39c99449ab8c03c357b65c7.info
+    projectPath: Library\metadata\67\67c9d790d39c99449ab8c03c357b65c7.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\68\6812cfcc6ec5a1f4aac05362453ea99d.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\68\6812cfcc6ec5a1f4aac05362453ea99d.info
+    projectPath: Library\metadata\68\6812cfcc6ec5a1f4aac05362453ea99d.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\69\6981461fe431401459211818212a29cf
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\69\6981461fe431401459211818212a29cf
+    projectPath: Library\metadata\69\6981461fe431401459211818212a29cf
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    projectPath: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\6a\6a9aef13c66abe44cbdd7fbefb4e3140.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\6a\6a9aef13c66abe44cbdd7fbefb4e3140.info
+    projectPath: Library\metadata\6a\6a9aef13c66abe44cbdd7fbefb4e3140.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\6b\6b252b8f53218e24b8e2960c1160fd33.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\6b\6b252b8f53218e24b8e2960c1160fd33.info
+    projectPath: Library\metadata\6b\6b252b8f53218e24b8e2960c1160fd33.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\6e\6e2d432c5ea14e75aa3a79f90f704442
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\6e\6e2d432c5ea14e75aa3a79f90f704442
+    projectPath: Library\metadata\6e\6e2d432c5ea14e75aa3a79f90f704442
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\6f\6fe576b47d8b47688ec5d02bccd15cf9
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\6f\6fe576b47d8b47688ec5d02bccd15cf9
+    projectPath: Library\metadata\6f\6fe576b47d8b47688ec5d02bccd15cf9
+>>>>>>> Jeff
+    originalPath: 
+    status: 3
+    staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
     projectPath: Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+=======
+  - path: NightmaZe\Library\metadata\70\70f1648bee8fb134aa3a0f282a1676b1.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\70\70f1648bee8fb134aa3a0f282a1676b1.info
+    projectPath: Library\metadata\70\70f1648bee8fb134aa3a0f282a1676b1.info
+>>>>>>> Jeff
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
     projectPath: Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+=======
+  - path: NightmaZe\Library\metadata\73\7332ebb4f5f51fd4fa39b1665b66bab1.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\73\7332ebb4f5f51fd4fa39b1665b66bab1.info
+    projectPath: Library\metadata\73\7332ebb4f5f51fd4fa39b1665b66bab1.info
+>>>>>>> Jeff
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\ed\edf52dd47512f2e458c32ef7a9ed6951.info
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\ed\edf52dd47512f2e458c32ef7a9ed6951.info
     projectPath: Library\metadata\ed\edf52dd47512f2e458c32ef7a9ed6951.info
@@ -1444,9 +1844,21 @@ MonoBehaviour:
   - path: NightmaZe\Library\metadata\f3\f3a7d9a9b92ac7b43ba54ddee8e7fb9c.info
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\f3\f3a7d9a9b92ac7b43ba54ddee8e7fb9c.info
     projectPath: Library\metadata\f3\f3a7d9a9b92ac7b43ba54ddee8e7fb9c.info
+=======
+  - path: NightmaZe\Library\metadata\73\73f72afc050aec646b45b000ada5e234.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\73\73f72afc050aec646b45b000ada5e234.info
+    projectPath: Library\metadata\73\73f72afc050aec646b45b000ada5e234.info
     originalPath: 
     status: 5
     staged: 0
+  - path: NightmaZe\Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+    projectPath: Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+>>>>>>> Jeff
+    originalPath: 
+    status: 5
+    staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\f5\f51f3b966648f2d45bb7a12226685ede.info
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\f5\f51f3b966648f2d45bb7a12226685ede.info
     projectPath: Library\metadata\f5\f51f3b966648f2d45bb7a12226685ede.info
@@ -1468,9 +1880,27 @@ MonoBehaviour:
   - path: NightmaZe\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
     projectPath: Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+=======
+  - path: NightmaZe\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    projectPath: Library\metadata\76\7668179ede524d6396c8b7d84461ea29
     originalPath: 
     status: 3
     staged: 0
+  - path: NightmaZe\Library\metadata\78\78207493787258f428a1c4269d909e4f.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\78\78207493787258f428a1c4269d909e4f.info
+    projectPath: Library\metadata\78\78207493787258f428a1c4269d909e4f.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\79\798346a08ddc44e49a711e2a0928f53c.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\79\798346a08ddc44e49a711e2a0928f53c.info
+    projectPath: Library\metadata\79\798346a08ddc44e49a711e2a0928f53c.info
+>>>>>>> Jeff
+    originalPath: 
+    status: 3
+    staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\fd\fd555401db03d0d44964ee5ee3a7dbaa
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\metadata\fd\fd555401db03d0d44964ee5ee3a7dbaa
     projectPath: Library\metadata\fd\fd555401db03d0d44964ee5ee3a7dbaa
@@ -1496,9 +1926,27 @@ MonoBehaviour:
   - path: NightmaZe\Library\metadata\ad\ad3cfa53c56cfd144b1d2e8f35fd0219.info
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ad\ad3cfa53c56cfd144b1d2e8f35fd0219.info
     projectPath: Library\metadata\ad\ad3cfa53c56cfd144b1d2e8f35fd0219.info
+=======
+  - path: NightmaZe\Library\metadata\7c\7c51a11bf49bb0d44b556df770d1ee99.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\7c\7c51a11bf49bb0d44b556df770d1ee99.info
+    projectPath: Library\metadata\7c\7c51a11bf49bb0d44b556df770d1ee99.info
     originalPath: 
     status: 5
     staged: 0
+  - path: NightmaZe\Library\metadata\7c\7ce0e3a15e627ca4aa43ffd89f0fca90.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\7c\7ce0e3a15e627ca4aa43ffd89f0fca90.info
+    projectPath: Library\metadata\7c\7ce0e3a15e627ca4aa43ffd89f0fca90.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    projectPath: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+>>>>>>> Jeff
+    originalPath: 
+    status: 5
+    staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
     projectPath: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
@@ -1508,9 +1956,21 @@ MonoBehaviour:
   - path: NightmaZe\Library\metadata\ae\ae2e60c55244a3042b38261187683193.info
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ae\ae2e60c55244a3042b38261187683193.info
     projectPath: Library\metadata\ae\ae2e60c55244a3042b38261187683193.info
+=======
+  - path: NightmaZe\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    projectPath: Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+    projectPath: Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+>>>>>>> Jeff
     originalPath: 
     status: 5
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\b1\b13b4af5eef32004692ad979459bd319.info
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b1\b13b4af5eef32004692ad979459bd319.info
     projectPath: Library\metadata\b1\b13b4af5eef32004692ad979459bd319.info
@@ -1533,9 +1993,21 @@ MonoBehaviour:
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
     projectPath: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
 >>>>>>> Jeff
+=======
+  - path: NightmaZe\Library\metadata\84\84df971ea0eef74489498942d5fb0920.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\84\84df971ea0eef74489498942d5fb0920.info
+    projectPath: Library\metadata\84\84df971ea0eef74489498942d5fb0920.info
     originalPath: 
     status: 5
     staged: 0
+  - path: NightmaZe\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    projectPath: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+>>>>>>> Jeff
+    originalPath: 
+    status: 5
+    staged: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -1558,9 +2030,27 @@ MonoBehaviour:
   - path: NightmaZe\Library\ScriptAssemblies\UnityEditor.StandardEvents.dll.mdb
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\UnityEditor.StandardEvents.dll.mdb
     projectPath: Library\ScriptAssemblies\UnityEditor.StandardEvents.dll.mdb
+=======
+  - path: NightmaZe\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+    projectPath: Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
     originalPath: 
     status: 3
     staged: 0
+  - path: NightmaZe\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+    projectPath: Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\90\90a4cc61e08d50b4c824066bd4d184b0.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\90\90a4cc61e08d50b4c824066bd4d184b0.info
+    projectPath: Library\metadata\90\90a4cc61e08d50b4c824066bd4d184b0.info
+>>>>>>> Jeff
+    originalPath: 
+    status: 3
+    staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\Akbar Suriaganda\Game Projects\Unity\RGP\SGJ_RGP_2018\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
@@ -1575,21 +2065,39 @@ MonoBehaviour:
   - path: NightmaZe\Library\metadata\b5\b5da970776034f77a070d99423d68791
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b5\b5da970776034f77a070d99423d68791
     projectPath: Library\metadata\b5\b5da970776034f77a070d99423d68791
+=======
+  - path: NightmaZe\Library\metadata\90\90f204099595e364497628bf6d3b02fb.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\90\90f204099595e364497628bf6d3b02fb.info
+    projectPath: Library\metadata\90\90f204099595e364497628bf6d3b02fb.info
+>>>>>>> Jeff
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
     projectPath: Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
+=======
+  - path: NightmaZe\Library\metadata\9b\9bba40cfe940b7f4587551b6ce612385.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\9b\9bba40cfe940b7f4587551b6ce612385.info
+    projectPath: Library\metadata\9b\9bba40cfe940b7f4587551b6ce612385.info
+>>>>>>> Jeff
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\b9\b95ab00277ee47c687d710a3bb623d0a
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b9\b95ab00277ee47c687d710a3bb623d0a
     projectPath: Library\metadata\b9\b95ab00277ee47c687d710a3bb623d0a
+=======
+  - path: NightmaZe\Library\metadata\a6\a694df78363c5f842abb6c21b0fb047c.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\a6\a694df78363c5f842abb6c21b0fb047c.info
+    projectPath: Library\metadata\a6\a694df78363c5f842abb6c21b0fb047c.info
+>>>>>>> Jeff
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\be\bee07010ea0774c488c4ada791fd0787.info
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\be\bee07010ea0774c488c4ada791fd0787.info
     projectPath: Library\metadata\be\bee07010ea0774c488c4ada791fd0787.info
@@ -1599,9 +2107,21 @@ MonoBehaviour:
   - path: NightmaZe\Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f
     projectPath: Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f
+=======
+  - path: NightmaZe\Library\metadata\a9\a9f322a1734022a4e91bd31b5c0a9c69.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\a9\a9f322a1734022a4e91bd31b5c0a9c69.info
+    projectPath: Library\metadata\a9\a9f322a1734022a4e91bd31b5c0a9c69.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\ad\ad3cfa53c56cfd144b1d2e8f35fd0219.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ad\ad3cfa53c56cfd144b1d2e8f35fd0219.info
+    projectPath: Library\metadata\ad\ad3cfa53c56cfd144b1d2e8f35fd0219.info
+>>>>>>> Jeff
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f.info
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f.info
     projectPath: Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f.info
@@ -1611,9 +2131,21 @@ MonoBehaviour:
   - path: NightmaZe\Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
     projectPath: Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
+=======
+  - path: NightmaZe\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+    projectPath: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
     originalPath: 
     status: 3
     staged: 0
+  - path: NightmaZe\Library\metadata\ae\ae2e60c55244a3042b38261187683193.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ae\ae2e60c55244a3042b38261187683193.info
+    projectPath: Library\metadata\ae\ae2e60c55244a3042b38261187683193.info
+>>>>>>> Jeff
+    originalPath: 
+    status: 3
+    staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\cd\cd283556f81fe1d48ba0fb63904d6ba1.info
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\cd\cd283556f81fe1d48ba0fb63904d6ba1.info
     projectPath: Library\metadata\cd\cd283556f81fe1d48ba0fb63904d6ba1.info
@@ -1775,9 +2307,75 @@ MonoBehaviour:
   - path: NightmaZe\ProjectSettings\EditorBuildSettings.asset
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\ProjectSettings\EditorBuildSettings.asset
     projectPath: ProjectSettings\EditorBuildSettings.asset
+=======
+  - path: NightmaZe\Library\metadata\b1\b13b4af5eef32004692ad979459bd319.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b1\b13b4af5eef32004692ad979459bd319.info
+    projectPath: Library\metadata\b1\b13b4af5eef32004692ad979459bd319.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+    projectPath: Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
     originalPath: 
     status: 3
     staged: 0
+  - path: NightmaZe\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+    projectPath: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\b5\b5da970776034f77a070d99423d68791
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b5\b5da970776034f77a070d99423d68791
+    projectPath: Library\metadata\b5\b5da970776034f77a070d99423d68791
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
+    projectPath: Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\b9\b95ab00277ee47c687d710a3bb623d0a
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b9\b95ab00277ee47c687d710a3bb623d0a
+    projectPath: Library\metadata\b9\b95ab00277ee47c687d710a3bb623d0a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\be\bee07010ea0774c488c4ada791fd0787.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\be\bee07010ea0774c488c4ada791fd0787.info
+    projectPath: Library\metadata\be\bee07010ea0774c488c4ada791fd0787.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f
+    projectPath: Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f.info
+    projectPath: Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
+    projectPath: Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\cd\cd283556f81fe1d48ba0fb63904d6ba1.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\cd\cd283556f81fe1d48ba0fb63904d6ba1.info
+    projectPath: Library\metadata\cd\cd283556f81fe1d48ba0fb63904d6ba1.info
+>>>>>>> Jeff
+    originalPath: 
+    status: 5
+    staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\ProjectSettings\ProjectSettings.asset
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\ProjectSettings\ProjectSettings.asset
     projectPath: ProjectSettings\ProjectSettings.asset
@@ -1795,9 +2393,58 @@ MonoBehaviour:
   - path: NightmaZe\Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
     projectPath: Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+=======
+  - path: NightmaZe\Library\metadata\cf\cf0bd3f281221584cb7be831c9c5058f
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\cf\cf0bd3f281221584cb7be831c9c5058f
+    projectPath: Library\metadata\cf\cf0bd3f281221584cb7be831c9c5058f
     originalPath: 
     status: 3
     staged: 0
+  - path: NightmaZe\Library\metadata\cf\cf0bd3f281221584cb7be831c9c5058f.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\cf\cf0bd3f281221584cb7be831c9c5058f.info
+    projectPath: Library\metadata\cf\cf0bd3f281221584cb7be831c9c5058f.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\cf\cfb31af20bf181f4b8c18d3d21b379b4.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\cf\cfb31af20bf181f4b8c18d3d21b379b4.info
+    projectPath: Library\metadata\cf\cfb31af20bf181f4b8c18d3d21b379b4.info
+>>>>>>> Jeff
+    originalPath: 
+    status: 5
+    staged: 0
+<<<<<<< HEAD
+  - path: NightmaZe\Library\metadata\d5\d55d859f5c0aed24081955f03e536822.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d5\d55d859f5c0aed24081955f03e536822.info
+    projectPath: Library\metadata\d5\d55d859f5c0aed24081955f03e536822.info
+=======
+  - path: NightmaZe\Library\metadata\d0\d05b96cee66e14240838de167097537a
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d0\d05b96cee66e14240838de167097537a
+    projectPath: Library\metadata\d0\d05b96cee66e14240838de167097537a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: NightmaZe\Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+    projectPath: Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+>>>>>>> Jeff
+    originalPath: 
+    status: 3
+    staged: 0
+<<<<<<< HEAD
+  - path: NightmaZe\Library\metadata\d7\d71ec93c25d4d2648a9965d83c2835e3.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d7\d71ec93c25d4d2648a9965d83c2835e3.info
+    projectPath: Library\metadata\d7\d71ec93c25d4d2648a9965d83c2835e3.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: NightmaZe\Library\metadata\d7\d7545f0c7cfaaa743bf5d38e5847a615.info
+    fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d7\d7545f0c7cfaaa743bf5d38e5847a615.info
+    projectPath: Library\metadata\d7\d7545f0c7cfaaa743bf5d38e5847a615.info
+    originalPath: 
+    status: 5
+    staged: 0
+=======
   - path: NightmaZe\Library\metadata\d5\d55d859f5c0aed24081955f03e536822.info
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d5\d55d859f5c0aed24081955f03e536822.info
     projectPath: Library\metadata\d5\d55d859f5c0aed24081955f03e536822.info
@@ -1816,6 +2463,7 @@ MonoBehaviour:
     originalPath: 
     status: 5
     staged: 0
+>>>>>>> Jeff
   - path: NightmaZe\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
     fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
     projectPath: Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
@@ -1972,4 +2620,7 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
+>>>>>>> Jeff
+=======
 >>>>>>> Jeff

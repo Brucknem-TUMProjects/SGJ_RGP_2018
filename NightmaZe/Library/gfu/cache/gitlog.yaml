@@ -15,6 +15,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-06-17T04:52:56.338+02:00
   initializedAtString: 2018-06-17T01:40:00.226+02:00
   log:
@@ -989,6 +990,11 @@ MonoBehaviour:
   initializedAtString: 2018-06-17T07:00:35.968+02:00
   log:
 >>>>>>> Jeff
+=======
+  lastUpdatedAtString: 2018-06-17T07:00:35.968+02:00
+  initializedAtString: 2018-06-17T07:00:35.968+02:00
+  log:
+>>>>>>> Jeff
   - commitID: 7b00788fad89d0e9bd7a2620ee01fd68f016ebbd
     mergeA: 6bfd0e52f6022b5086d51bd0137f5b1c1b2aa6f1
     mergeB: 5f85e61cc695d4636202d7987f808ab8708d1a04
@@ -1015,7 +1021,11 @@ MonoBehaviour:
     changes:
     - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
 >>>>>>> Jeff
@@ -1025,7 +1035,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyMainMenu.cs
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyMainMenu.cs
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyMainMenu.cs
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Lobby\Scripts\Lobby\LobbyMainMenu.cs
 >>>>>>> Jeff
@@ -1035,7 +1049,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Prefabs\Canvas.prefab
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Canvas.prefab
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Canvas.prefab
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Canvas.prefab
 >>>>>>> Jeff
@@ -1045,7 +1063,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Prefabs\Canvas.prefab.meta
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Canvas.prefab.meta
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Canvas.prefab.meta
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Canvas.prefab.meta
 >>>>>>> Jeff
@@ -1055,7 +1077,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Prefabs\LobbyManager.prefab
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LobbyManager.prefab
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LobbyManager.prefab
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LobbyManager.prefab
 >>>>>>> Jeff
@@ -1065,7 +1091,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Prefabs\LobbyManager.prefab.meta
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LobbyManager.prefab.meta
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LobbyManager.prefab.meta
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\LobbyManager.prefab.meta
 >>>>>>> Jeff
@@ -1075,7 +1105,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Scenes\Lobby.unity
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Lobby.unity
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Lobby.unity
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Lobby.unity
 >>>>>>> Jeff
@@ -1085,7 +1119,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Scenes\Menu.unity
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Menu.unity
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Menu.unity
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Menu.unity
 >>>>>>> Jeff
@@ -1095,7 +1133,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\CurrentLayout.dwlt
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
 >>>>>>> Jeff
@@ -1105,7 +1147,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\InspectorExpandedItems.asset
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\InspectorExpandedItems.asset
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\InspectorExpandedItems.asset
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\InspectorExpandedItems.asset
 >>>>>>> Jeff
@@ -1115,7 +1161,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\LastSceneManagerSetup.txt
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\LastSceneManagerSetup.txt
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\LastSceneManagerSetup.txt
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\LastSceneManagerSetup.txt
 >>>>>>> Jeff
@@ -1125,7 +1175,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
 >>>>>>> Jeff
@@ -1135,7 +1189,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
 >>>>>>> Jeff
@@ -1145,7 +1203,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\assetDatabase3
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
 >>>>>>> Jeff
@@ -1155,7 +1217,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\expandedItems
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\expandedItems
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\expandedItems
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\expandedItems
 >>>>>>> Jeff
@@ -1165,7 +1231,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\branches.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
 >>>>>>> Jeff
@@ -1175,7 +1245,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\gitlocks.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
 >>>>>>> Jeff
@@ -1185,7 +1259,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\gitlog.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
 >>>>>>> Jeff
@@ -1195,7 +1273,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\gitstatusentries.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
 >>>>>>> Jeff
@@ -1205,7 +1287,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
 >>>>>>> Jeff
@@ -1215,7 +1301,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\repoinfo.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
 >>>>>>> Jeff
@@ -1225,7 +1315,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\00\006a175192df97b4abbb78823a582d32.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\00\006a175192df97b4abbb78823a582d32.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\00\006a175192df97b4abbb78823a582d32.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\00\006a175192df97b4abbb78823a582d32.info
 >>>>>>> Jeff
@@ -1235,7 +1329,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\01\01f0e4281f5499e41a8b96040d594802.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\01\01f0e4281f5499e41a8b96040d594802.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\01\01f0e4281f5499e41a8b96040d594802.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\01\01f0e4281f5499e41a8b96040d594802.info
 >>>>>>> Jeff
@@ -1245,7 +1343,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\03\031cba7eb7982da42b75941816c90b55.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\03\031cba7eb7982da42b75941816c90b55.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\03\031cba7eb7982da42b75941816c90b55.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\03\031cba7eb7982da42b75941816c90b55.info
 >>>>>>> Jeff
@@ -1255,7 +1357,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\05\051ef9e6a629e8c438ec8cb1b79c31a3.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\05\051ef9e6a629e8c438ec8cb1b79c31a3.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\05\051ef9e6a629e8c438ec8cb1b79c31a3.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\05\051ef9e6a629e8c438ec8cb1b79c31a3.info
 >>>>>>> Jeff
@@ -1265,7 +1371,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\06\060e7a8de6396224ead061f4e72c823c
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\06\060e7a8de6396224ead061f4e72c823c
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\06\060e7a8de6396224ead061f4e72c823c
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\06\060e7a8de6396224ead061f4e72c823c
 >>>>>>> Jeff
@@ -1275,7 +1385,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\06\06108338b9c318843804efd4f37a3a36.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\06\06108338b9c318843804efd4f37a3a36.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\06\06108338b9c318843804efd4f37a3a36.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\06\06108338b9c318843804efd4f37a3a36.info
 >>>>>>> Jeff
@@ -1285,7 +1399,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\06\06117701ae5891f49ab515000b6ab8b3.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\06\06117701ae5891f49ab515000b6ab8b3.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\06\06117701ae5891f49ab515000b6ab8b3.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\06\06117701ae5891f49ab515000b6ab8b3.info
 >>>>>>> Jeff
@@ -1295,7 +1413,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\07\0724e5b7d5089704389ce56322904dce
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\07\0724e5b7d5089704389ce56322904dce
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\07\0724e5b7d5089704389ce56322904dce
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\07\0724e5b7d5089704389ce56322904dce
 >>>>>>> Jeff
@@ -1305,7 +1427,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\09\09c49e424b083604995d746e87c0af4a
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09c49e424b083604995d746e87c0af4a
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09c49e424b083604995d746e87c0af4a
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09c49e424b083604995d746e87c0af4a
 >>>>>>> Jeff
@@ -1315,7 +1441,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\09\09e63ac119244ae4e9f93c59a7624451
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09e63ac119244ae4e9f93c59a7624451
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09e63ac119244ae4e9f93c59a7624451
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09e63ac119244ae4e9f93c59a7624451
 >>>>>>> Jeff
@@ -1325,7 +1455,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\09\09efeac3c45d0a7498671c6bf595795c
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09efeac3c45d0a7498671c6bf595795c
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09efeac3c45d0a7498671c6bf595795c
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\09\09efeac3c45d0a7498671c6bf595795c
 >>>>>>> Jeff
@@ -1335,7 +1469,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\0e\0e0c8b546875b6148aa8158f091bea7a.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\0e\0e0c8b546875b6148aa8158f091bea7a.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\0e\0e0c8b546875b6148aa8158f091bea7a.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\0e\0e0c8b546875b6148aa8158f091bea7a.info
 >>>>>>> Jeff
@@ -1345,7 +1483,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\0e\0e94f6a85c6a94f4eac775050cc7449e.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\0e\0e94f6a85c6a94f4eac775050cc7449e.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\0e\0e94f6a85c6a94f4eac775050cc7449e.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\0e\0e94f6a85c6a94f4eac775050cc7449e.info
 >>>>>>> Jeff
@@ -1355,7 +1497,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\0f\0f81308777633334491cb70edac9a524
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\0f\0f81308777633334491cb70edac9a524
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\0f\0f81308777633334491cb70edac9a524
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\0f\0f81308777633334491cb70edac9a524
 >>>>>>> Jeff
@@ -1365,7 +1511,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\10\10145f279f90346bbb61712ff585828b
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\10\10145f279f90346bbb61712ff585828b
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\10\10145f279f90346bbb61712ff585828b
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\10\10145f279f90346bbb61712ff585828b
 >>>>>>> Jeff
@@ -1375,7 +1525,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\11\113aa869cbf24264889fc6130376a86e
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\11\113aa869cbf24264889fc6130376a86e
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\11\113aa869cbf24264889fc6130376a86e
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\11\113aa869cbf24264889fc6130376a86e
 >>>>>>> Jeff
@@ -1385,7 +1539,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\14\140b80b76440f7b43b7b238918cd8589
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\14\140b80b76440f7b43b7b238918cd8589
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\14\140b80b76440f7b43b7b238918cd8589
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\14\140b80b76440f7b43b7b238918cd8589
 >>>>>>> Jeff
@@ -1395,7 +1553,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\16\16aaa7b05aab9d045af849ab71988ffd
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\16\16aaa7b05aab9d045af849ab71988ffd
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\16\16aaa7b05aab9d045af849ab71988ffd
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\16\16aaa7b05aab9d045af849ab71988ffd
 >>>>>>> Jeff
@@ -1405,7 +1567,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\1d\1d6010ab11b93c142b123db26edb77ef
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\1d\1d6010ab11b93c142b123db26edb77ef
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\1d\1d6010ab11b93c142b123db26edb77ef
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\1d\1d6010ab11b93c142b123db26edb77ef
 >>>>>>> Jeff
@@ -1415,7 +1581,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\20\20e0af2a3ebe00c409a8185af491d4df
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\20\20e0af2a3ebe00c409a8185af491d4df
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\20\20e0af2a3ebe00c409a8185af491d4df
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\20\20e0af2a3ebe00c409a8185af491d4df
 >>>>>>> Jeff
@@ -1425,7 +1595,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\20\20e90edbc948dda4580d6b669409912d.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\20\20e90edbc948dda4580d6b669409912d.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\20\20e90edbc948dda4580d6b669409912d.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\20\20e90edbc948dda4580d6b669409912d.info
 >>>>>>> Jeff
@@ -1435,7 +1609,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\25\25ebe415cc14c4f4ea15c34a796b75bb
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\25\25ebe415cc14c4f4ea15c34a796b75bb
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\25\25ebe415cc14c4f4ea15c34a796b75bb
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\25\25ebe415cc14c4f4ea15c34a796b75bb
 >>>>>>> Jeff
@@ -1445,7 +1623,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\26\266ca173363045f40b8293892dc4cc3c
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\26\266ca173363045f40b8293892dc4cc3c
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\26\266ca173363045f40b8293892dc4cc3c
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\26\266ca173363045f40b8293892dc4cc3c
 >>>>>>> Jeff
@@ -1455,7 +1637,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\26\268f50783119e94438d13013d0cd47e1
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\26\268f50783119e94438d13013d0cd47e1
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\26\268f50783119e94438d13013d0cd47e1
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\26\268f50783119e94438d13013d0cd47e1
 >>>>>>> Jeff
@@ -1465,7 +1651,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\2d\2d90e253dea2861418434e353632c398
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\2d\2d90e253dea2861418434e353632c398
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\2d\2d90e253dea2861418434e353632c398
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\2d\2d90e253dea2861418434e353632c398
 >>>>>>> Jeff
@@ -1475,7 +1665,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\2e\2eab9c058155d1b4093935078af83628.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\2e\2eab9c058155d1b4093935078af83628.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\2e\2eab9c058155d1b4093935078af83628.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\2e\2eab9c058155d1b4093935078af83628.info
 >>>>>>> Jeff
@@ -1485,7 +1679,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\2f\2f2fc0a2d5e420d4380a15b0bd0ef8d7
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\2f\2f2fc0a2d5e420d4380a15b0bd0ef8d7
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\2f\2f2fc0a2d5e420d4380a15b0bd0ef8d7
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\2f\2f2fc0a2d5e420d4380a15b0bd0ef8d7
 >>>>>>> Jeff
@@ -1495,7 +1693,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\35\35460f554a8f6704ab8613f5a485584e
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\35\35460f554a8f6704ab8613f5a485584e
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\35\35460f554a8f6704ab8613f5a485584e
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\35\35460f554a8f6704ab8613f5a485584e
 >>>>>>> Jeff
@@ -1505,7 +1707,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\35\3564f98f7ce57914db4a8cc563888719.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\35\3564f98f7ce57914db4a8cc563888719.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\35\3564f98f7ce57914db4a8cc563888719.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\35\3564f98f7ce57914db4a8cc563888719.info
 >>>>>>> Jeff
@@ -1515,7 +1721,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\36\367636eef99fe6b4c82da22cd5d68eb6
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\36\367636eef99fe6b4c82da22cd5d68eb6
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\36\367636eef99fe6b4c82da22cd5d68eb6
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\36\367636eef99fe6b4c82da22cd5d68eb6
 >>>>>>> Jeff
@@ -1525,7 +1735,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\38\38bf1ccfe4416f44abc4e19e437bfca9
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\38\38bf1ccfe4416f44abc4e19e437bfca9
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\38\38bf1ccfe4416f44abc4e19e437bfca9
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\38\38bf1ccfe4416f44abc4e19e437bfca9
 >>>>>>> Jeff
@@ -1535,7 +1749,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\39\3965f890897731c40b19f058d7849ceb.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\39\3965f890897731c40b19f058d7849ceb.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\39\3965f890897731c40b19f058d7849ceb.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\39\3965f890897731c40b19f058d7849ceb.info
 >>>>>>> Jeff
@@ -1545,7 +1763,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\3b\3bcb46a88a32685458868fa7093d009f
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\3b\3bcb46a88a32685458868fa7093d009f
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\3b\3bcb46a88a32685458868fa7093d009f
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\3b\3bcb46a88a32685458868fa7093d009f
 >>>>>>> Jeff
@@ -1555,7 +1777,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\41\4180ec0582315414280d8298fd53fb4f
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\41\4180ec0582315414280d8298fd53fb4f
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\41\4180ec0582315414280d8298fd53fb4f
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\41\4180ec0582315414280d8298fd53fb4f
 >>>>>>> Jeff
@@ -1565,7 +1791,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\43\43a5b7e587e3bd34e94b552843410f6f.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\43\43a5b7e587e3bd34e94b552843410f6f.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\43\43a5b7e587e3bd34e94b552843410f6f.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\43\43a5b7e587e3bd34e94b552843410f6f.info
 >>>>>>> Jeff
@@ -1575,7 +1805,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
 >>>>>>> Jeff
@@ -1585,7 +1819,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\48\48dd2e1379a5b5f4e9c4a48f04279874
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\48\48dd2e1379a5b5f4e9c4a48f04279874
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\48\48dd2e1379a5b5f4e9c4a48f04279874
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\48\48dd2e1379a5b5f4e9c4a48f04279874
 >>>>>>> Jeff
@@ -1595,7 +1833,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\4a\4aac79a90a428c2448a8bdecc3d47581
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\4a\4aac79a90a428c2448a8bdecc3d47581
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4a\4aac79a90a428c2448a8bdecc3d47581
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4a\4aac79a90a428c2448a8bdecc3d47581
 >>>>>>> Jeff
@@ -1605,7 +1847,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\4d\4d5ca9f7d7e24d54ba6f2d285f851c00.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\4d\4d5ca9f7d7e24d54ba6f2d285f851c00.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4d\4d5ca9f7d7e24d54ba6f2d285f851c00.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4d\4d5ca9f7d7e24d54ba6f2d285f851c00.info
 >>>>>>> Jeff
@@ -1615,7 +1861,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
 >>>>>>> Jeff
@@ -1625,7 +1875,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\4e\4e21d244e1324524a9d304a7f2faab1d
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\4e\4e21d244e1324524a9d304a7f2faab1d
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4e\4e21d244e1324524a9d304a7f2faab1d
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4e\4e21d244e1324524a9d304a7f2faab1d
 >>>>>>> Jeff
@@ -1635,7 +1889,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\4f\4f768b64e6c37495699fffe3007e4379
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\4f\4f768b64e6c37495699fffe3007e4379
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4f\4f768b64e6c37495699fffe3007e4379
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4f\4f768b64e6c37495699fffe3007e4379
 >>>>>>> Jeff
@@ -1645,7 +1903,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\4f\4f94dbffcf5702841931a264c1bbdd17.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\4f\4f94dbffcf5702841931a264c1bbdd17.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4f\4f94dbffcf5702841931a264c1bbdd17.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4f\4f94dbffcf5702841931a264c1bbdd17.info
 >>>>>>> Jeff
@@ -1655,7 +1917,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\51\5192bec1343909f41bc9e120c8bccc70.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\51\5192bec1343909f41bc9e120c8bccc70.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\51\5192bec1343909f41bc9e120c8bccc70.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\51\5192bec1343909f41bc9e120c8bccc70.info
 >>>>>>> Jeff
@@ -1665,7 +1931,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\52\52315ebd199375f499278fc3186d31eb
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\52\52315ebd199375f499278fc3186d31eb
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\52\52315ebd199375f499278fc3186d31eb
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\52\52315ebd199375f499278fc3186d31eb
 >>>>>>> Jeff
@@ -1675,7 +1945,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\5a\5a704c6090e96d5429fc0061d1748fd9
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\5a\5a704c6090e96d5429fc0061d1748fd9
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\5a\5a704c6090e96d5429fc0061d1748fd9
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\5a\5a704c6090e96d5429fc0061d1748fd9
 >>>>>>> Jeff
@@ -1685,7 +1959,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\5b\5bbe2f1ef6bed46419c2b5c8eeb36145
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\5b\5bbe2f1ef6bed46419c2b5c8eeb36145
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\5b\5bbe2f1ef6bed46419c2b5c8eeb36145
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\5b\5bbe2f1ef6bed46419c2b5c8eeb36145
 >>>>>>> Jeff
@@ -1695,7 +1973,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\66\66cc9781ad2528f4db6a30dce397b0c6
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\66\66cc9781ad2528f4db6a30dce397b0c6
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\66\66cc9781ad2528f4db6a30dce397b0c6
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\66\66cc9781ad2528f4db6a30dce397b0c6
 >>>>>>> Jeff
@@ -1705,7 +1987,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\67\67c9d790d39c99449ab8c03c357b65c7
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\67\67c9d790d39c99449ab8c03c357b65c7
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\67\67c9d790d39c99449ab8c03c357b65c7
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\67\67c9d790d39c99449ab8c03c357b65c7
 >>>>>>> Jeff
@@ -1715,7 +2001,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\68\6812cfcc6ec5a1f4aac05362453ea99d
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\68\6812cfcc6ec5a1f4aac05362453ea99d
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\68\6812cfcc6ec5a1f4aac05362453ea99d
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\68\6812cfcc6ec5a1f4aac05362453ea99d
 >>>>>>> Jeff
@@ -1725,7 +2015,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\6a\6a7d1526f09d4ea4cbb8f800d950794c.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\6a\6a7d1526f09d4ea4cbb8f800d950794c.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\6a\6a7d1526f09d4ea4cbb8f800d950794c.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\6a\6a7d1526f09d4ea4cbb8f800d950794c.info
 >>>>>>> Jeff
@@ -1735,7 +2029,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\6a\6a9aef13c66abe44cbdd7fbefb4e3140
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\6a\6a9aef13c66abe44cbdd7fbefb4e3140
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\6a\6a9aef13c66abe44cbdd7fbefb4e3140
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\6a\6a9aef13c66abe44cbdd7fbefb4e3140
 >>>>>>> Jeff
@@ -1745,7 +2043,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\6b\6b252b8f53218e24b8e2960c1160fd33
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\6b\6b252b8f53218e24b8e2960c1160fd33
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\6b\6b252b8f53218e24b8e2960c1160fd33
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\6b\6b252b8f53218e24b8e2960c1160fd33
 >>>>>>> Jeff
@@ -1755,7 +2057,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\70\70f1648bee8fb134aa3a0f282a1676b1
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\70\70f1648bee8fb134aa3a0f282a1676b1
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\70\70f1648bee8fb134aa3a0f282a1676b1
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\70\70f1648bee8fb134aa3a0f282a1676b1
 >>>>>>> Jeff
@@ -1765,7 +2071,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\73\7332ebb4f5f51fd4fa39b1665b66bab1
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\73\7332ebb4f5f51fd4fa39b1665b66bab1
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\73\7332ebb4f5f51fd4fa39b1665b66bab1
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\73\7332ebb4f5f51fd4fa39b1665b66bab1
 >>>>>>> Jeff
@@ -1775,7 +2085,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\73\73f72afc050aec646b45b000ada5e234
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\73\73f72afc050aec646b45b000ada5e234
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\73\73f72afc050aec646b45b000ada5e234
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\73\73f72afc050aec646b45b000ada5e234
 >>>>>>> Jeff
@@ -1785,7 +2099,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\78\78207493787258f428a1c4269d909e4f
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\78\78207493787258f428a1c4269d909e4f
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\78\78207493787258f428a1c4269d909e4f
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\78\78207493787258f428a1c4269d909e4f
 >>>>>>> Jeff
@@ -1795,7 +2113,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\78\78b13e95768062d4da129387528c4780.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\78\78b13e95768062d4da129387528c4780.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\78\78b13e95768062d4da129387528c4780.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\78\78b13e95768062d4da129387528c4780.info
 >>>>>>> Jeff
@@ -1805,7 +2127,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\79\798346a08ddc44e49a711e2a0928f53c
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\79\798346a08ddc44e49a711e2a0928f53c
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\79\798346a08ddc44e49a711e2a0928f53c
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\79\798346a08ddc44e49a711e2a0928f53c
 >>>>>>> Jeff
@@ -1815,7 +2141,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\7a\7a1895d6e856f574b8baef6c8ee8ed63.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\7a\7a1895d6e856f574b8baef6c8ee8ed63.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\7a\7a1895d6e856f574b8baef6c8ee8ed63.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\7a\7a1895d6e856f574b8baef6c8ee8ed63.info
 >>>>>>> Jeff
@@ -1825,7 +2155,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\7c\7c51a11bf49bb0d44b556df770d1ee99
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\7c\7c51a11bf49bb0d44b556df770d1ee99
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\7c\7c51a11bf49bb0d44b556df770d1ee99
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\7c\7c51a11bf49bb0d44b556df770d1ee99
 >>>>>>> Jeff
@@ -1835,7 +2169,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\7c\7c91e7f7f64c0f648aa947ff8512d638.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\7c\7c91e7f7f64c0f648aa947ff8512d638.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\7c\7c91e7f7f64c0f648aa947ff8512d638.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\7c\7c91e7f7f64c0f648aa947ff8512d638.info
 >>>>>>> Jeff
@@ -1845,7 +2183,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\7c\7ce0e3a15e627ca4aa43ffd89f0fca90
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\7c\7ce0e3a15e627ca4aa43ffd89f0fca90
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\7c\7ce0e3a15e627ca4aa43ffd89f0fca90
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\7c\7ce0e3a15e627ca4aa43ffd89f0fca90
 >>>>>>> Jeff
@@ -1855,7 +2197,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\7d\7dcd49db97683524783fd73871ac2d66.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\7d\7dcd49db97683524783fd73871ac2d66.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\7d\7dcd49db97683524783fd73871ac2d66.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\7d\7dcd49db97683524783fd73871ac2d66.info
 >>>>>>> Jeff
@@ -1865,7 +2211,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\80\804238f2720d0304cb477b70d35da7c4.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\80\804238f2720d0304cb477b70d35da7c4.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\80\804238f2720d0304cb477b70d35da7c4.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\80\804238f2720d0304cb477b70d35da7c4.info
 >>>>>>> Jeff
@@ -1875,7 +2225,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\84\84df971ea0eef74489498942d5fb0920
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\84\84df971ea0eef74489498942d5fb0920
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\84\84df971ea0eef74489498942d5fb0920
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\84\84df971ea0eef74489498942d5fb0920
 >>>>>>> Jeff
@@ -1885,7 +2239,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\85\85ae84facc0c2f542a85cc27ff929a81.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\85\85ae84facc0c2f542a85cc27ff929a81.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\85\85ae84facc0c2f542a85cc27ff929a81.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\85\85ae84facc0c2f542a85cc27ff929a81.info
 >>>>>>> Jeff
@@ -1895,7 +2253,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\89\89ed02e1e4fc22345ad8e5ae71a2ff08.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\89\89ed02e1e4fc22345ad8e5ae71a2ff08.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\89\89ed02e1e4fc22345ad8e5ae71a2ff08.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\89\89ed02e1e4fc22345ad8e5ae71a2ff08.info
 >>>>>>> Jeff
@@ -1905,7 +2267,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\8b\8b27ec2deb72eb446a91523c84410d32.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\8b\8b27ec2deb72eb446a91523c84410d32.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\8b\8b27ec2deb72eb446a91523c84410d32.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\8b\8b27ec2deb72eb446a91523c84410d32.info
 >>>>>>> Jeff
@@ -1915,7 +2281,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\90\90a4cc61e08d50b4c824066bd4d184b0
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\90\90a4cc61e08d50b4c824066bd4d184b0
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\90\90a4cc61e08d50b4c824066bd4d184b0
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\90\90a4cc61e08d50b4c824066bd4d184b0
 >>>>>>> Jeff
@@ -1925,7 +2295,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\90\90f204099595e364497628bf6d3b02fb
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\90\90f204099595e364497628bf6d3b02fb
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\90\90f204099595e364497628bf6d3b02fb
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\90\90f204099595e364497628bf6d3b02fb
 >>>>>>> Jeff
@@ -1935,7 +2309,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\93\93c1370867fcb45079592da39e0994c5
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\93\93c1370867fcb45079592da39e0994c5
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\93\93c1370867fcb45079592da39e0994c5
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\93\93c1370867fcb45079592da39e0994c5
 >>>>>>> Jeff
@@ -1945,7 +2323,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\95\956d960668e59624297f6eba1be878d5.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\95\956d960668e59624297f6eba1be878d5.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\95\956d960668e59624297f6eba1be878d5.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\95\956d960668e59624297f6eba1be878d5.info
 >>>>>>> Jeff
@@ -1955,7 +2337,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\9b\9bba40cfe940b7f4587551b6ce612385
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\9b\9bba40cfe940b7f4587551b6ce612385
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\9b\9bba40cfe940b7f4587551b6ce612385
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\9b\9bba40cfe940b7f4587551b6ce612385
 >>>>>>> Jeff
@@ -1965,7 +2351,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\a1\a1b573265b0bd384a906b1edfa575f4c.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\a1\a1b573265b0bd384a906b1edfa575f4c.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\a1\a1b573265b0bd384a906b1edfa575f4c.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\a1\a1b573265b0bd384a906b1edfa575f4c.info
 >>>>>>> Jeff
@@ -1975,7 +2365,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\a6\a694df78363c5f842abb6c21b0fb047c
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\a6\a694df78363c5f842abb6c21b0fb047c
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\a6\a694df78363c5f842abb6c21b0fb047c
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\a6\a694df78363c5f842abb6c21b0fb047c
 >>>>>>> Jeff
@@ -1985,7 +2379,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\a8\a8d9e44eff3f447db9448925617ccb44
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\a8\a8d9e44eff3f447db9448925617ccb44
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\a8\a8d9e44eff3f447db9448925617ccb44
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\a8\a8d9e44eff3f447db9448925617ccb44
 >>>>>>> Jeff
@@ -1995,7 +2393,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\a9\a9f322a1734022a4e91bd31b5c0a9c69
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\a9\a9f322a1734022a4e91bd31b5c0a9c69
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\a9\a9f322a1734022a4e91bd31b5c0a9c69
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\a9\a9f322a1734022a4e91bd31b5c0a9c69
 >>>>>>> Jeff
@@ -2005,7 +2407,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\ad\ad3cfa53c56cfd144b1d2e8f35fd0219
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ad\ad3cfa53c56cfd144b1d2e8f35fd0219
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ad\ad3cfa53c56cfd144b1d2e8f35fd0219
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ad\ad3cfa53c56cfd144b1d2e8f35fd0219
 >>>>>>> Jeff
@@ -2015,7 +2421,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\ae\ae2e60c55244a3042b38261187683193
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ae\ae2e60c55244a3042b38261187683193
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ae\ae2e60c55244a3042b38261187683193
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ae\ae2e60c55244a3042b38261187683193
 >>>>>>> Jeff
@@ -2025,7 +2435,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\b1\b13b4af5eef32004692ad979459bd319
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\b1\b13b4af5eef32004692ad979459bd319
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b1\b13b4af5eef32004692ad979459bd319
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b1\b13b4af5eef32004692ad979459bd319
 >>>>>>> Jeff
@@ -2035,7 +2449,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\be\bee07010ea0774c488c4ada791fd0787
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\be\bee07010ea0774c488c4ada791fd0787
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\be\bee07010ea0774c488c4ada791fd0787
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\be\bee07010ea0774c488c4ada791fd0787
 >>>>>>> Jeff
@@ -2045,7 +2463,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f.info
 >>>>>>> Jeff
@@ -2055,7 +2477,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\cd\cd283556f81fe1d48ba0fb63904d6ba1
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\cd\cd283556f81fe1d48ba0fb63904d6ba1
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\cd\cd283556f81fe1d48ba0fb63904d6ba1
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\cd\cd283556f81fe1d48ba0fb63904d6ba1
 >>>>>>> Jeff
@@ -2065,7 +2491,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\cf\cf0bd3f281221584cb7be831c9c5058f.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\cf\cf0bd3f281221584cb7be831c9c5058f.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\cf\cf0bd3f281221584cb7be831c9c5058f.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\cf\cf0bd3f281221584cb7be831c9c5058f.info
 >>>>>>> Jeff
@@ -2075,7 +2505,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\cf\cfb31af20bf181f4b8c18d3d21b379b4
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\cf\cfb31af20bf181f4b8c18d3d21b379b4
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\cf\cfb31af20bf181f4b8c18d3d21b379b4
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\cf\cfb31af20bf181f4b8c18d3d21b379b4
 >>>>>>> Jeff
@@ -2085,7 +2519,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\d5\d55d859f5c0aed24081955f03e536822
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d5\d55d859f5c0aed24081955f03e536822
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d5\d55d859f5c0aed24081955f03e536822
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d5\d55d859f5c0aed24081955f03e536822
 >>>>>>> Jeff
@@ -2095,7 +2533,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\d7\d71ec93c25d4d2648a9965d83c2835e3
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d7\d71ec93c25d4d2648a9965d83c2835e3
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d7\d71ec93c25d4d2648a9965d83c2835e3
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d7\d71ec93c25d4d2648a9965d83c2835e3
 >>>>>>> Jeff
@@ -2105,7 +2547,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\d7\d7545f0c7cfaaa743bf5d38e5847a615
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d7\d7545f0c7cfaaa743bf5d38e5847a615
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d7\d7545f0c7cfaaa743bf5d38e5847a615
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d7\d7545f0c7cfaaa743bf5d38e5847a615
 >>>>>>> Jeff
@@ -2115,7 +2561,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\da\da061093c713f89458e8a554cfd1844a.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\da\da061093c713f89458e8a554cfd1844a.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\da\da061093c713f89458e8a554cfd1844a.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\da\da061093c713f89458e8a554cfd1844a.info
 >>>>>>> Jeff
@@ -2125,7 +2575,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\dc\dca67797616d71c449f874739c2eda58
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\dc\dca67797616d71c449f874739c2eda58
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\dc\dca67797616d71c449f874739c2eda58
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\dc\dca67797616d71c449f874739c2eda58
 >>>>>>> Jeff
@@ -2135,7 +2589,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\dd\dd7f6af8c1f2b5345969cfd0acf2d515
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\dd\dd7f6af8c1f2b5345969cfd0acf2d515
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\dd\dd7f6af8c1f2b5345969cfd0acf2d515
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\dd\dd7f6af8c1f2b5345969cfd0acf2d515
 >>>>>>> Jeff
@@ -2145,7 +2603,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\e4\e41f7c8d306ea6841b6f64e760db31cc
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\e4\e41f7c8d306ea6841b6f64e760db31cc
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\e4\e41f7c8d306ea6841b6f64e760db31cc
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\e4\e41f7c8d306ea6841b6f64e760db31cc
 >>>>>>> Jeff
@@ -2155,7 +2617,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\e8\e8271ce12d5c6be45a001579f6af60ed
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\e8\e8271ce12d5c6be45a001579f6af60ed
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\e8\e8271ce12d5c6be45a001579f6af60ed
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\e8\e8271ce12d5c6be45a001579f6af60ed
 >>>>>>> Jeff
@@ -2165,7 +2631,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\ed\ed24555e22f2cdb488c790f60605f114.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ed\ed24555e22f2cdb488c790f60605f114.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ed\ed24555e22f2cdb488c790f60605f114.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ed\ed24555e22f2cdb488c790f60605f114.info
 >>>>>>> Jeff
@@ -2175,7 +2645,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\ed\edf52dd47512f2e458c32ef7a9ed6951
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ed\edf52dd47512f2e458c32ef7a9ed6951
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ed\edf52dd47512f2e458c32ef7a9ed6951
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ed\edf52dd47512f2e458c32ef7a9ed6951
 >>>>>>> Jeff
@@ -2185,7 +2659,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\f3\f3a7d9a9b92ac7b43ba54ddee8e7fb9c
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f3\f3a7d9a9b92ac7b43ba54ddee8e7fb9c
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f3\f3a7d9a9b92ac7b43ba54ddee8e7fb9c
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f3\f3a7d9a9b92ac7b43ba54ddee8e7fb9c
 >>>>>>> Jeff
@@ -2195,7 +2673,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\f4\f4da9cbb408be44968e85ee20767deef
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f4\f4da9cbb408be44968e85ee20767deef
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f4\f4da9cbb408be44968e85ee20767deef
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f4\f4da9cbb408be44968e85ee20767deef
 >>>>>>> Jeff
@@ -2205,7 +2687,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\f5\f51f3b966648f2d45bb7a12226685ede
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f5\f51f3b966648f2d45bb7a12226685ede
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f5\f51f3b966648f2d45bb7a12226685ede
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f5\f51f3b966648f2d45bb7a12226685ede
 >>>>>>> Jeff
@@ -2215,7 +2701,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
 >>>>>>> Jeff
@@ -2225,7 +2715,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
 >>>>>>> Jeff
@@ -2235,7 +2729,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\f8\f8776a5889120d7458f2ef229c3722d0.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f8\f8776a5889120d7458f2ef229c3722d0.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f8\f8776a5889120d7458f2ef229c3722d0.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f8\f8776a5889120d7458f2ef229c3722d0.info
 >>>>>>> Jeff
@@ -2245,7 +2743,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
 >>>>>>> Jeff
@@ -2255,7 +2757,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\fd\fd555401db03d0d44964ee5ee3a7dbaa.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\fd\fd555401db03d0d44964ee5ee3a7dbaa.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\fd\fd555401db03d0d44964ee5ee3a7dbaa.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\fd\fd555401db03d0d44964ee5ee3a7dbaa.info
 >>>>>>> Jeff
@@ -2265,7 +2771,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\fd\fd785334fbc9c1646a98919411b7b49f
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\fd\fd785334fbc9c1646a98919411b7b49f
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\fd\fd785334fbc9c1646a98919411b7b49f
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\fd\fd785334fbc9c1646a98919411b7b49f
 >>>>>>> Jeff
@@ -2275,7 +2785,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\fd\fda76206f2894ff42a6e5d940c3e8402
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\fd\fda76206f2894ff42a6e5d940c3e8402
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\fd\fda76206f2894ff42a6e5d940c3e8402
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\fd\fda76206f2894ff42a6e5d940c3e8402
 >>>>>>> Jeff
@@ -2285,7 +2799,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
 >>>>>>> Jeff
@@ -2295,7 +2813,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe1.log
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe1.log
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe1.log
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe1.log
 >>>>>>> Jeff
@@ -2305,7 +2827,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe2.log
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe2.log
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe2.log
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe2.log
 >>>>>>> Jeff
@@ -2315,7 +2841,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe3.log
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe3.log
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe3.log
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe3.log
 >>>>>>> Jeff
@@ -2325,7 +2855,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe4.log
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe4.log
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe4.log
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe4.log
 >>>>>>> Jeff
@@ -2335,7 +2869,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe5.log
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe5.log
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe5.log
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe5.log
 >>>>>>> Jeff
@@ -2345,7 +2883,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe6.log
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe6.log
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe6.log
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe6.log
 >>>>>>> Jeff
@@ -2355,7 +2897,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe7.log
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe7.log
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe7.log
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe7.log
 >>>>>>> Jeff
@@ -2365,7 +2911,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 >>>>>>> Jeff
@@ -2375,7 +2925,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 >>>>>>> Jeff
@@ -2409,7 +2963,11 @@ MonoBehaviour:
     changes:
     - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
 >>>>>>> Jeff
@@ -2419,7 +2977,12 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Art\UI Sprites\Hand.png.meta
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\UI Sprites\Hand.png.meta
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\UI
+        Sprites\Hand.png.meta
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\UI
         Sprites\Hand.png.meta
@@ -2430,7 +2993,12 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Art\UI Sprites\HandBorder.png.meta
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\UI Sprites\HandBorder.png.meta
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\UI
+        Sprites\HandBorder.png.meta
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\UI
         Sprites\HandBorder.png.meta
@@ -2441,7 +3009,12 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Art\UI Sprites\HandFill.png.meta
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\UI Sprites\HandFill.png.meta
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\UI
+        Sprites\HandFill.png.meta
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\UI
         Sprites\HandFill.png.meta
@@ -2452,7 +3025,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Prefabs\Characters\Dreamer.prefab
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Characters\Dreamer.prefab
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Characters\Dreamer.prefab
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Characters\Dreamer.prefab
 >>>>>>> Jeff
@@ -2462,7 +3039,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Prefabs\Network\Network Manager.prefab
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Network\Network
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Network\Network
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Network\Network
 >>>>>>> Jeff
@@ -2473,7 +3054,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Prefabs\Random3DSound.prefab
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Random3DSound.prefab
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Random3DSound.prefab
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Random3DSound.prefab
 >>>>>>> Jeff
@@ -2483,7 +3068,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\SampleScenes\Materials\WhiteSmooth.mat
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Materials\WhiteSmooth.mat
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Materials\WhiteSmooth.mat
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\SampleScenes\Materials\WhiteSmooth.mat
 >>>>>>> Jeff
@@ -2493,7 +3082,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Scenes\Marian.unity
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Marian.unity
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Marian.unity
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Marian.unity
 >>>>>>> Jeff
@@ -2503,7 +3096,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Sounds\SFX\Atmosphere\Hummingbird-by_NPS-from_soundbiblecom.wav
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\Hummingbird-by_NPS-from_soundbiblecom.wav
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\Hummingbird-by_NPS-from_soundbiblecom.wav
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\Hummingbird-by_NPS-from_soundbiblecom.wav
 >>>>>>> Jeff
@@ -2513,7 +3110,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Sounds\SFX\Atmosphere\Hummingbird-by_NPS-from_soundbiblecom.wav.meta
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\Hummingbird-by_NPS-from_soundbiblecom.wav.meta
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\Hummingbird-by_NPS-from_soundbiblecom.wav.meta
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\Hummingbird-by_NPS-from_soundbiblecom.wav.meta
 >>>>>>> Jeff
@@ -2523,7 +3124,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Sounds\SFX\Atmosphere\Peacock_Call-by_junglebunny-from_soundbiblecom.wav
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\Peacock_Call-by_junglebunny-from_soundbiblecom.wav
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\Peacock_Call-by_junglebunny-from_soundbiblecom.wav
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\Peacock_Call-by_junglebunny-from_soundbiblecom.wav
 >>>>>>> Jeff
@@ -2533,7 +3138,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Sounds\SFX\Atmosphere\Peacock_Call-by_junglebunny-from_soundbiblecom.wav.meta
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\Peacock_Call-by_junglebunny-from_soundbiblecom.wav.meta
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\Peacock_Call-by_junglebunny-from_soundbiblecom.wav.meta
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\Peacock_Call-by_junglebunny-from_soundbiblecom.wav.meta
 >>>>>>> Jeff
@@ -2543,7 +3152,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Sounds\SFX\Atmosphere\Turkey_Gobble-by_bod-from_soundbiblecom.wav
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\Turkey_Gobble-by_bod-from_soundbiblecom.wav
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\Turkey_Gobble-by_bod-from_soundbiblecom.wav
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\Turkey_Gobble-by_bod-from_soundbiblecom.wav
 >>>>>>> Jeff
@@ -2553,7 +3166,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Sounds\SFX\Atmosphere\Turkey_Gobble-by_bod-from_soundbiblecom.wav.meta
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\Turkey_Gobble-by_bod-from_soundbiblecom.wav.meta
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\Turkey_Gobble-by_bod-from_soundbiblecom.wav.meta
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\Turkey_Gobble-by_bod-from_soundbiblecom.wav.meta
 >>>>>>> Jeff
@@ -2563,7 +3180,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Sounds\SFX\Atmosphere\doberman_pincher-by_daniel_simion-from_soundbiblecom.wav
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\doberman_pincher-by_daniel_simion-from_soundbiblecom.wav
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\doberman_pincher-by_daniel_simion-from_soundbiblecom.wav
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\doberman_pincher-by_daniel_simion-from_soundbiblecom.wav
 >>>>>>> Jeff
@@ -2573,7 +3194,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Sounds\SFX\Atmosphere\doberman_pincher-by_daniel_simion-from_soundbiblecom.wav.meta
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\doberman_pincher-by_daniel_simion-from_soundbiblecom.wav.meta
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\doberman_pincher-by_daniel_simion-from_soundbiblecom.wav.meta
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\Atmosphere\doberman_pincher-by_daniel_simion-from_soundbiblecom.wav.meta
 >>>>>>> Jeff
@@ -2583,7 +3208,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\_Scripts\Player\Dreamer.cs
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Dreamer.cs
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Dreamer.cs
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Dreamer.cs
 >>>>>>> Jeff
@@ -2593,7 +3222,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\_Scripts\Player\Player.cs
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Player.cs
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Player.cs
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Player.cs
 >>>>>>> Jeff
@@ -2603,7 +3236,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\CurrentLayout.dwlt
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
 >>>>>>> Jeff
@@ -2613,7 +3250,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\InspectorExpandedItems.asset
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\InspectorExpandedItems.asset
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\InspectorExpandedItems.asset
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\InspectorExpandedItems.asset
 >>>>>>> Jeff
@@ -2623,7 +3264,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\LastSceneManagerSetup.txt
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\LastSceneManagerSetup.txt
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\LastSceneManagerSetup.txt
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\LastSceneManagerSetup.txt
 >>>>>>> Jeff
@@ -2633,7 +3278,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
 >>>>>>> Jeff
@@ -2643,7 +3292,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
 >>>>>>> Jeff
@@ -2653,7 +3306,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
 >>>>>>> Jeff
@@ -2663,7 +3320,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\ScriptAssemblies\UnityEditor.StandardEvents.dll.mdb
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\UnityEditor.StandardEvents.dll.mdb
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\UnityEditor.StandardEvents.dll.mdb
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\UnityEditor.StandardEvents.dll.mdb
 >>>>>>> Jeff
@@ -2673,7 +3334,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\assetDatabase3
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
 >>>>>>> Jeff
@@ -2683,7 +3348,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\expandedItems
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\expandedItems
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\expandedItems
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\expandedItems
 >>>>>>> Jeff
@@ -2693,7 +3362,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\branches.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
 >>>>>>> Jeff
@@ -2703,7 +3376,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\gitlocks.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
 >>>>>>> Jeff
@@ -2713,7 +3390,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\gitlog.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
 >>>>>>> Jeff
@@ -2723,7 +3404,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\gitstatusentries.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
 >>>>>>> Jeff
@@ -2733,7 +3418,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
 >>>>>>> Jeff
@@ -2743,7 +3432,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\repoinfo.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
 >>>>>>> Jeff
@@ -2753,7 +3446,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
 >>>>>>> Jeff
@@ -2763,7 +3460,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
 >>>>>>> Jeff
@@ -2773,7 +3474,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\1b\1b355da31ea043feba0c03e35dd4bc62
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\1b\1b355da31ea043feba0c03e35dd4bc62
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\1b\1b355da31ea043feba0c03e35dd4bc62
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\1b\1b355da31ea043feba0c03e35dd4bc62
 >>>>>>> Jeff
@@ -2783,7 +3488,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
 >>>>>>> Jeff
@@ -2793,7 +3502,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
 >>>>>>> Jeff
@@ -2803,7 +3516,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
 >>>>>>> Jeff
@@ -2813,7 +3530,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\2e\2eab9c058155d1b4093935078af83628
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\2e\2eab9c058155d1b4093935078af83628
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\2e\2eab9c058155d1b4093935078af83628
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\2e\2eab9c058155d1b4093935078af83628
 >>>>>>> Jeff
@@ -2823,7 +3544,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
 >>>>>>> Jeff
@@ -2833,7 +3558,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
 >>>>>>> Jeff
@@ -2843,7 +3572,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
 >>>>>>> Jeff
@@ -2853,7 +3586,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
 >>>>>>> Jeff
@@ -2863,7 +3600,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
 >>>>>>> Jeff
@@ -2873,7 +3614,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\3b\3bb0254b9671413d9d08a855c5090237
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\3b\3bb0254b9671413d9d08a855c5090237
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\3b\3bb0254b9671413d9d08a855c5090237
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\3b\3bb0254b9671413d9d08a855c5090237
 >>>>>>> Jeff
@@ -2883,7 +3628,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\3e\3e9a2175e0404f7ea30b2b694850bae0
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\3e\3e9a2175e0404f7ea30b2b694850bae0
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\3e\3e9a2175e0404f7ea30b2b694850bae0
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\3e\3e9a2175e0404f7ea30b2b694850bae0
 >>>>>>> Jeff
@@ -2893,7 +3642,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\40\405b9b51bb344a128608d968297df79c
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\40\405b9b51bb344a128608d968297df79c
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\40\405b9b51bb344a128608d968297df79c
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\40\405b9b51bb344a128608d968297df79c
 >>>>>>> Jeff
@@ -2903,7 +3656,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
 >>>>>>> Jeff
@@ -2913,7 +3670,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\46\46098a81a64a45c5b756320e10a22f13
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\46\46098a81a64a45c5b756320e10a22f13
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\46\46098a81a64a45c5b756320e10a22f13
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\46\46098a81a64a45c5b756320e10a22f13
 >>>>>>> Jeff
@@ -2923,7 +3684,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
 >>>>>>> Jeff
@@ -2933,7 +3698,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
 >>>>>>> Jeff
@@ -2943,7 +3712,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
 >>>>>>> Jeff
@@ -2953,7 +3726,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
 >>>>>>> Jeff
@@ -2963,7 +3740,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
 >>>>>>> Jeff
@@ -2973,7 +3754,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
 >>>>>>> Jeff
@@ -2983,7 +3768,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
 >>>>>>> Jeff
@@ -2993,7 +3782,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
 >>>>>>> Jeff
@@ -3003,7 +3796,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\69\6981461fe431401459211818212a29cf
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\69\6981461fe431401459211818212a29cf
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\69\6981461fe431401459211818212a29cf
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\69\6981461fe431401459211818212a29cf
 >>>>>>> Jeff
@@ -3013,7 +3810,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
 >>>>>>> Jeff
@@ -3023,7 +3824,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\6e\6e2d432c5ea14e75aa3a79f90f704442
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\6e\6e2d432c5ea14e75aa3a79f90f704442
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\6e\6e2d432c5ea14e75aa3a79f90f704442
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\6e\6e2d432c5ea14e75aa3a79f90f704442
 >>>>>>> Jeff
@@ -3033,7 +3838,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\6f\6fe576b47d8b47688ec5d02bccd15cf9
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\6f\6fe576b47d8b47688ec5d02bccd15cf9
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\6f\6fe576b47d8b47688ec5d02bccd15cf9
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\6f\6fe576b47d8b47688ec5d02bccd15cf9
 >>>>>>> Jeff
@@ -3043,7 +3852,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
 >>>>>>> Jeff
@@ -3053,7 +3866,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
 >>>>>>> Jeff
@@ -3063,7 +3880,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
 >>>>>>> Jeff
@@ -3073,7 +3894,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
 >>>>>>> Jeff
@@ -3083,7 +3908,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
 >>>>>>> Jeff
@@ -3093,7 +3922,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
 >>>>>>> Jeff
@@ -3103,7 +3936,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
 >>>>>>> Jeff
@@ -3113,7 +3950,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
 >>>>>>> Jeff
@@ -3123,7 +3964,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
 >>>>>>> Jeff
@@ -3133,7 +3978,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
 >>>>>>> Jeff
@@ -3143,7 +3992,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
 >>>>>>> Jeff
@@ -3153,7 +4006,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\b5\b5da970776034f77a070d99423d68791
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\b5\b5da970776034f77a070d99423d68791
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b5\b5da970776034f77a070d99423d68791
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b5\b5da970776034f77a070d99423d68791
 >>>>>>> Jeff
@@ -3163,7 +4020,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
 >>>>>>> Jeff
@@ -3173,7 +4034,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\b9\b95ab00277ee47c687d710a3bb623d0a
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\b9\b95ab00277ee47c687d710a3bb623d0a
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b9\b95ab00277ee47c687d710a3bb623d0a
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\b9\b95ab00277ee47c687d710a3bb623d0a
 >>>>>>> Jeff
@@ -3183,7 +4048,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\c5\c58d7726e5cace645889ab4b8113c18f
 >>>>>>> Jeff
@@ -3193,7 +4062,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
 >>>>>>> Jeff
@@ -3203,7 +4076,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
 >>>>>>> Jeff
@@ -3213,7 +4090,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\cf\cf0bd3f281221584cb7be831c9c5058f
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\cf\cf0bd3f281221584cb7be831c9c5058f
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\cf\cf0bd3f281221584cb7be831c9c5058f
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\cf\cf0bd3f281221584cb7be831c9c5058f
 >>>>>>> Jeff
@@ -3223,7 +4104,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\d0\d05b96cee66e14240838de167097537a
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d0\d05b96cee66e14240838de167097537a
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d0\d05b96cee66e14240838de167097537a
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d0\d05b96cee66e14240838de167097537a
 >>>>>>> Jeff
@@ -3233,7 +4118,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
 >>>>>>> Jeff
@@ -3243,7 +4132,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
 >>>>>>> Jeff
@@ -3253,7 +4146,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\da\da061093c713f89458e8a554cfd1844a.info
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\da\da061093c713f89458e8a554cfd1844a.info
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\da\da061093c713f89458e8a554cfd1844a.info
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\da\da061093c713f89458e8a554cfd1844a.info
 >>>>>>> Jeff
@@ -3263,7 +4160,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
 >>>>>>> Jeff
@@ -3273,7 +4174,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\e1\e1007cd261c84053beb0c3537782908d
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\e1\e1007cd261c84053beb0c3537782908d
 >>>>>>> Jeff
@@ -3283,7 +4188,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
 >>>>>>> Jeff
@@ -3293,7 +4202,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
 >>>>>>> Jeff
@@ -3303,7 +4216,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
 >>>>>>> Jeff
@@ -3313,7 +4230,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
 >>>>>>> Jeff
@@ -3323,7 +4244,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
 >>>>>>> Jeff
@@ -3333,7 +4258,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
 >>>>>>> Jeff
@@ -3343,7 +4272,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\fd\fd555401db03d0d44964ee5ee3a7dbaa
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\fd\fd555401db03d0d44964ee5ee3a7dbaa
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\fd\fd555401db03d0d44964ee5ee3a7dbaa
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\fd\fd555401db03d0d44964ee5ee3a7dbaa
 >>>>>>> Jeff
@@ -3353,7 +4286,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
 >>>>>>> Jeff
@@ -3363,7 +4300,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\ProjectSettings\InputManager.asset
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\ProjectSettings\InputManager.asset
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\ProjectSettings\InputManager.asset
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\ProjectSettings\InputManager.asset
 >>>>>>> Jeff
@@ -3373,7 +4314,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\ProjectSettings\TagManager.asset
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\ProjectSettings\TagManager.asset
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\ProjectSettings\TagManager.asset
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\ProjectSettings\TagManager.asset
 >>>>>>> Jeff
@@ -3383,7 +4328,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 >>>>>>> Jeff
@@ -3393,7 +4342,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 >>>>>>> Jeff
@@ -3415,7 +4368,11 @@ MonoBehaviour:
     changes:
     - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\Great_Scream_RED.mp3
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\Great_Scream_RED.mp3
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\Great_Scream_RED.mp3
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\Great_Scream_RED.mp3
 >>>>>>> Jeff
@@ -3425,7 +4382,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\Grilo_GREEN.mp3
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\Grilo_GREEN.mp3
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\Grilo_GREEN.mp3
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\Grilo_GREEN.mp3
 >>>>>>> Jeff
@@ -3435,7 +4396,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\crickets_RED.mp3
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\crickets_RED.mp3
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\crickets_RED.mp3
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\crickets_RED.mp3
 >>>>>>> Jeff
@@ -3445,7 +4410,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\lost.wav
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\lost.wav
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\lost.wav
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\lost.wav
 >>>>>>> Jeff
@@ -3455,7 +4424,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\mosquito.wav
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\mosquito.wav
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\mosquito.wav
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\mosquito.wav
 >>>>>>> Jeff
@@ -3465,7 +4438,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\nuclear alarm.wav
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\nuclear
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\nuclear
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\nuclear
 >>>>>>> Jeff
@@ -3476,7 +4453,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\police siren.wav
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\police
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\police
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\police
 >>>>>>> Jeff
@@ -3487,7 +4468,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\preditor.wav
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\preditor.wav
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\preditor.wav
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\preditor.wav
 >>>>>>> Jeff
@@ -3497,7 +4482,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Sounds\SFX\LicenseUnclear\tumbleweed.wav
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\tumbleweed.wav
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\tumbleweed.wav
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Sounds\SFX\LicenseUnclear\tumbleweed.wav
 >>>>>>> Jeff
@@ -3519,7 +4508,11 @@ MonoBehaviour:
     changes:
     - path: NightmaZe\Library\CurrentLayout.dwlt
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
 >>>>>>> Jeff
@@ -3529,7 +4522,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\branches.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
 >>>>>>> Jeff
@@ -3539,7 +4536,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\gitlocks.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
 >>>>>>> Jeff
@@ -3549,7 +4550,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\gitlog.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
 >>>>>>> Jeff
@@ -3559,7 +4564,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\gitstatusentries.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
 >>>>>>> Jeff
@@ -3569,7 +4578,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
 >>>>>>> Jeff
@@ -3579,7 +4592,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\repoinfo.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
 >>>>>>> Jeff
@@ -3589,7 +4606,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
 >>>>>>> Jeff
@@ -3599,7 +4620,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 >>>>>>> Jeff
@@ -3635,7 +4660,11 @@ MonoBehaviour:
     changes:
     - path: NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\.vs\NightmaZe\v15\Server\sqlite3\storage.ide
 >>>>>>> Jeff
@@ -3645,7 +4674,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Prefabs\Characters\Dreamer.prefab
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Characters\Dreamer.prefab
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Characters\Dreamer.prefab
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Characters\Dreamer.prefab
 >>>>>>> Jeff
@@ -3655,7 +4688,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Prefabs\Characters\Hunter.prefab
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Characters\Hunter.prefab
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Characters\Hunter.prefab
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Prefabs\Characters\Hunter.prefab
 >>>>>>> Jeff
@@ -3665,7 +4702,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Scenes\Marian.unity
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Marian.unity
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Marian.unity
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Marian.unity
 >>>>>>> Jeff
@@ -3675,7 +4716,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\_Scripts\Player\Dreamer.cs
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Dreamer.cs
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Dreamer.cs
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Dreamer.cs
 >>>>>>> Jeff
@@ -3685,7 +4730,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\_Scripts\Player\Dreamer.cs.meta
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Dreamer.cs.meta
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Dreamer.cs.meta
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Dreamer.cs.meta
 >>>>>>> Jeff
@@ -3695,7 +4744,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\_Scripts\Player\Hunter.cs
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Hunter.cs
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Hunter.cs
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Hunter.cs
 >>>>>>> Jeff
@@ -3705,7 +4758,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\_Scripts\Player\Hunter.cs.meta
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Hunter.cs.meta
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Hunter.cs.meta
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Hunter.cs.meta
 >>>>>>> Jeff
@@ -3715,7 +4772,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\_Scripts\Player\Player.cs
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Player.cs
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Player.cs
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\_Scripts\Player\Player.cs
 >>>>>>> Jeff
@@ -3725,7 +4786,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\AnnotationManager
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\AnnotationManager
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\AnnotationManager
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\AnnotationManager
 >>>>>>> Jeff
@@ -3735,7 +4800,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\CurrentLayout.dwlt
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
 >>>>>>> Jeff
@@ -3745,7 +4814,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\InspectorExpandedItems.asset
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\InspectorExpandedItems.asset
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\InspectorExpandedItems.asset
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\InspectorExpandedItems.asset
 >>>>>>> Jeff
@@ -3755,7 +4828,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
 >>>>>>> Jeff
@@ -3765,7 +4842,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
 >>>>>>> Jeff
@@ -3775,7 +4856,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\assetDatabase3
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\assetDatabase3
 >>>>>>> Jeff
@@ -3785,7 +4870,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\expandedItems
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\expandedItems
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\expandedItems
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\expandedItems
 >>>>>>> Jeff
@@ -3795,7 +4884,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\branches.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\branches.yaml
 >>>>>>> Jeff
@@ -3805,7 +4898,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\gitlocks.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
 >>>>>>> Jeff
@@ -3815,7 +4912,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\gitlog.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlog.yaml
 >>>>>>> Jeff
@@ -3825,7 +4926,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\gitstatusentries.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
 >>>>>>> Jeff
@@ -3835,7 +4940,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gittrackingstatus.yaml
 >>>>>>> Jeff
@@ -3845,7 +4954,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\gfu\cache\repoinfo.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\repoinfo.yaml
 >>>>>>> Jeff
@@ -3855,7 +4968,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
 >>>>>>> Jeff
@@ -3865,7 +4982,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
 >>>>>>> Jeff
@@ -3875,7 +4996,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\ProjectSettings\InputManager.asset
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\ProjectSettings\InputManager.asset
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\ProjectSettings\InputManager.asset
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\ProjectSettings\InputManager.asset
 >>>>>>> Jeff
@@ -3885,7 +5010,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 >>>>>>> Jeff
@@ -3895,7 +5024,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 >>>>>>> Jeff
@@ -3905,7 +5038,11 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
 >>>>>>> Jeff
@@ -3939,7 +5076,12 @@ MonoBehaviour:
     changes:
     - path: NightmaZe\Assets\Art\UI Sprites\Hand.png
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\UI Sprites\Hand.png
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\UI
+        Sprites\Hand.png
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\UI
         Sprites\Hand.png
@@ -3950,7 +5092,12 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Art\UI Sprites\HandBorder.png
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\UI Sprites\HandBorder.png
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\UI
+        Sprites\HandBorder.png
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\UI
         Sprites\HandBorder.png
@@ -3961,7 +5108,12 @@ MonoBehaviour:
       staged: 0
     - path: NightmaZe\Assets\Art\UI Sprites\HandFill.png
 <<<<<<< HEAD
+<<<<<<< HEAD
       fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Assets\Art\UI Sprites\HandFill.png
+=======
+      fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\UI
+        Sprites\HandFill.png
+>>>>>>> Jeff
 =======
       fullPath: C:\Users\Jeff-Owens\Documents\GitHub\SGJ_RGP_2018\NightmaZe\Assets\Art\UI
         Sprites\HandFill.png
@@ -3971,7 +5123,10 @@ MonoBehaviour:
       status: 4
       staged: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> MergePlayers
+=======
+>>>>>>> Jeff
 =======
 >>>>>>> Jeff
   - commitID: 929bca340d46a3d142dc00cc18b6c867ddea7947
