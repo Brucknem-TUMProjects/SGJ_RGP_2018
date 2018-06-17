@@ -3016,7 +3016,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 114230294657102960}
   rigid: {fileID: 54913786906364470}
-  hitBox: {fileID: 0}
+  hitBox: {fileID: 1574360906257414}
+  dreamerRagdolls: []
   transitionSpeed: 5
 --- !u!114 &114230294657102960
 MonoBehaviour:

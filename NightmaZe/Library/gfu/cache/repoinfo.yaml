@@ -26,9 +26,15 @@ MonoBehaviour:
   initializedAtString: 2018-06-17T06:33:33.151+02:00
 >>>>>>> Jeff
 =======
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-06-17T06:33:33.151+02:00
   initializedAtString: 2018-06-17T06:33:33.151+02:00
 >>>>>>> Jeff
+=======
+  lastUpdatedAtString: 2018-06-17T07:44:20.013+02:00
+  initializedAtString: 2018-06-17T07:44:20.013+02:00
+>>>>>>> Marian
+>>>>>>> 76ed075715a81ac923eb190a156d3307efbe8c7b
   currentGitRemote:
     name: origin
     url: https://github.com/Brucknem/SGJ_RGP_2018.git
@@ -42,15 +48,20 @@ MonoBehaviour:
 <<<<<<< HEAD
     name: Akbar-2
     tracking: '[None]'
+=======
+    name: Marian
+    tracking: origin/Marian
+>>>>>>> Marian
   currentConfigBranch:
-    name: Akbar-2
+    name: Marian
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/Brucknem/SGJ_RGP_2018.git
+    trackingBranch: Marian
   currentConfigRemote:
     name: origin
     url: https://github.com/Brucknem/SGJ_RGP_2018.git
+<<<<<<< HEAD
   currentHead: 8a01d9a
 =======
     name: Jeff
@@ -74,3 +85,6 @@ MonoBehaviour:
 >>>>>>> Jeff
 =======
 >>>>>>> Jeff
+=======
+  currentHead: 9542040
+>>>>>>> Marian
