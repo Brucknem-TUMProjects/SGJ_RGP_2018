@@ -13,6 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cacheType: 5
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-06-17T08:08:30.225+02:00
   initializedAtString: 2018-06-17T07:33:59.625+02:00
   entries:
@@ -284,6 +285,11 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+=======
+  lastUpdatedAtString: 2018-06-17T08:29:19.881+02:00
+  initializedAtString: 2018-06-17T08:29:04.069+02:00
+  entries:
+>>>>>>> Marian
   - path: NightmaZe\Assets\Scenes\Menu.unity
     fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Assets\Scenes\Menu.unity
     projectPath: Assets\Scenes\Menu.unity
@@ -296,6 +302,7 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\CurrentLayout.dwlt
     fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\CurrentLayout.dwlt
     projectPath: Library\CurrentLayout.dwlt
@@ -419,6 +426,8 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+=======
+>>>>>>> Marian
   - path: NightmaZe\Library\gfu\cache\gitlocks.yaml
 <<<<<<< HEAD
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitlocks.yaml
@@ -442,6 +451,7 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -472,6 +482,8 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+=======
+>>>>>>> Marian
   - path: NightmaZe\Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\gfu\cache\gitstatusentries.yaml
 >>>>>>> Marian
@@ -526,6 +538,7 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\InspectorExpandedItems.asset
 <<<<<<< HEAD
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\InspectorExpandedItems.asset
@@ -1540,12 +1553,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+=======
+>>>>>>> Marian
   - path: NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\c9\c95a32533f53a0c4685009db3de09913
     projectPath: Library\metadata\c9\c95a32533f53a0c4685009db3de09913
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
   - path: NightmaZe\Library\metadata\d0\d05b96cee66e14240838de167097537a
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\metadata\d0\d05b96cee66e14240838de167097537a
     projectPath: Library\metadata\d0\d05b96cee66e14240838de167097537a
@@ -1622,6 +1638,11 @@ MonoBehaviour:
   - path: NightmaZe\Library\PlayerDataCache\Data\globalgamemanagers
     fullPath: D:\Programmieren\Unity\SGJ_RGP_2018\NightmaZe\Library\PlayerDataCache\Data\globalgamemanagers
     projectPath: Library\PlayerDataCache\Data\globalgamemanagers
+=======
+  - path: NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+>>>>>>> Marian
     originalPath: 
     status: 3
     staged: 0
@@ -1641,6 +1662,7 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   - path: NightmaZe\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
     fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
@@ -2931,3 +2953,11 @@ MonoBehaviour:
 =======
 >>>>>>> Marian
 >>>>>>> db781dd207c76f6b22e4c961a67928b0597900ee
+=======
+  - path: NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Marian\Git\SGJ_RGP_2018\NightmaZe\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+>>>>>>> Marian

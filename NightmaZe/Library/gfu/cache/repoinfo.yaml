@@ -13,6 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cacheType: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastUpdatedAtString: 2018-06-17T08:03:59.932+02:00
   initializedAtString: 2018-06-17T07:33:59.473+02:00
 =======
@@ -40,6 +41,10 @@ MonoBehaviour:
 >>>>>>> Marian
 >>>>>>> 76ed075715a81ac923eb190a156d3307efbe8c7b
 >>>>>>> db781dd207c76f6b22e4c961a67928b0597900ee
+=======
+  lastUpdatedAtString: 2018-06-17T08:29:03.918+02:00
+  initializedAtString: 2018-06-17T08:29:03.918+02:00
+>>>>>>> Marian
   currentGitRemote:
     name: origin
     url: https://github.com/Brucknem/SGJ_RGP_2018.git
@@ -73,6 +78,7 @@ MonoBehaviour:
     name: origin
     url: https://github.com/Brucknem/SGJ_RGP_2018.git
 <<<<<<< HEAD
+<<<<<<< HEAD
   currentHead: 8a01d9a
 =======
     name: Jeff
@@ -104,3 +110,6 @@ MonoBehaviour:
   currentHead: 9542040
 >>>>>>> Marian
 >>>>>>> db781dd207c76f6b22e4c961a67928b0597900ee
+=======
+  currentHead: a7c27c2
+>>>>>>> Marian
