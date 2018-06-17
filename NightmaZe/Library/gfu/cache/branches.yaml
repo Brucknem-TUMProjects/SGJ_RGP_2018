@@ -12,18 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
-  lastUpdatedAtString: 2018-06-17T04:52:55.434+02:00
-  initializedAtString: 2018-06-17T01:31:50.331+02:00
-=======
-  lastUpdatedAtString: 2018-06-17T02:49:14.051+02:00
-  initializedAtString: 2018-06-17T02:49:13.994+02:00
->>>>>>> 5f85e61cc695d4636202d7987f808ab8708d1a04
-=======
-  lastUpdatedAtString: 2018-06-17T05:50:53.525+02:00
-  initializedAtString: 2018-06-17T05:35:46.591+02:00
->>>>>>> MergePlayers
+  lastUpdatedAtString: 2018-06-17T07:35:55.855+02:00
+  initializedAtString: 2018-06-17T06:30:45.008+02:00
   localBranches:
   - name: JaegerSkills
     tracking: origin/JaegerSkills
@@ -33,6 +23,8 @@ MonoBehaviour:
     tracking: origin/master
   remoteBranches:
   - name: origin/Akbar
+    tracking: '[None]'
+  - name: origin/Akbar-2
     tracking: '[None]'
   - name: origin/HEAD
     tracking: '[None]'
@@ -45,6 +37,8 @@ MonoBehaviour:
   - name: origin/Marian
     tracking: '[None]'
   - name: origin/master
+    tracking: '[None]'
+  - name: origin/MergePlayers
     tracking: '[None]'
   - name: origin/StartMenu
     tracking: '[None]'
@@ -83,16 +77,23 @@ MonoBehaviour:
     subKeys:
     - Values:
       - Akbar
+      - Akbar-2
       - HEAD
       - JaegerSkills
       - Jeff
       - Marcel
       - Marian
       - master
+      - MergePlayers
       - StartMenu
     subKeyValues:
     - Values:
       - name: Akbar
+        remote:
+          name: origin
+          url: https://github.com/Brucknem/SGJ_RGP_2018.git
+        trackingBranch: 
+      - name: Akbar-2
         remote:
           name: origin
           url: https://github.com/Brucknem/SGJ_RGP_2018.git
@@ -123,6 +124,11 @@ MonoBehaviour:
           url: https://github.com/Brucknem/SGJ_RGP_2018.git
         trackingBranch: 
       - name: master
+        remote:
+          name: origin
+          url: https://github.com/Brucknem/SGJ_RGP_2018.git
+        trackingBranch: 
+      - name: MergePlayers
         remote:
           name: origin
           url: https://github.com/Brucknem/SGJ_RGP_2018.git

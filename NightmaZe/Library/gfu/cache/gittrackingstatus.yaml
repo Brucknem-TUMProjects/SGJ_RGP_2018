@@ -12,12 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 4
-<<<<<<< HEAD
-  lastUpdatedAtString: 2018-06-17T05:23:53.249+02:00
-  initializedAtString: 2018-06-17T05:23:53.249+02:00
-=======
-  lastUpdatedAtString: 2018-06-17T05:50:53.849+02:00
-  initializedAtString: 2018-06-17T05:35:45.960+02:00
->>>>>>> MergePlayers
+  lastUpdatedAtString: 2018-06-17T07:44:20.189+02:00
+  initializedAtString: 2018-06-17T07:44:20.189+02:00
   ahead: 0
   behind: 0
